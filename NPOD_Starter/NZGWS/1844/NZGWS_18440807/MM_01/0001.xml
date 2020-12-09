@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="//docstorage/impdata$/docWORKS/schema/alto-1-2.xsd" xmlns:xlink="http://www.w3.org/TR/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//docstorage/impdata$/IN/NZ_2/5th HDD/PP 20007-03/NZGWS/1844/08/07/00100.TIF</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareName>CCS docWORKS</softwareName>
+					<softwareVersion>6.0-8.24</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>Finereader</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles>
+		<TextStyle ID="TXT_0" FONTSIZE="55" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_1" FONTSIZE="13" FONTFAMILY="Times New Roman" FONTSTYLE="bold"/>
+		<TextStyle ID="TXT_2" FONTSIZE="54" FONTFAMILY="Times New Roman"/>
+		<TextStyle ID="TXT_3" FONTSIZE="12" FONTFAMILY="Times New Roman" FONTSTYLE="bold"/>
+		<ParagraphStyle ID="PAR_LEFT" ALIGN="Left"/>
+		<ParagraphStyle ID="PAR_CENTER" ALIGN="Center"/>
+		<ParagraphStyle ID="PAR_RIGHT" ALIGN="Right"/>
+	</Styles>
+	<Layout>
+		<Page ID="P1" PHYSICAL_IMG_NR="1" HEIGHT="4039" WIDTH="2529" ACCURACY="100.00">
+			<TopMargin ID="P1_TM00001" HPOS="0" VPOS="0" WIDTH="2529" HEIGHT="26"/>
+			<LeftMargin ID="P1_LM00001" HPOS="0" VPOS="26" WIDTH="38" HEIGHT="3963"/>
+			<RightMargin ID="P1_RM00001" HPOS="2498" VPOS="26" WIDTH="31" HEIGHT="3963"/>
+			<BottomMargin ID="P1_BM00001" HPOS="0" VPOS="3989" WIDTH="2529" HEIGHT="50"/>
+			<PrintSpace ID="P1_PS00001" HPOS="38" VPOS="26" WIDTH="2460" HEIGHT="3963">
+				<TextBlock ID="P1_TB00001" HPOS="38" VPOS="26" WIDTH="2432" HEIGHT="424" STYLEREFS="TXT_0 PAR_LEFT">
+					<TextLine ID="P1_TL00001" HPOS="1228" VPOS="31" WIDTH="96" HEIGHT="30" CS="1">
+						<String ID="P1_ST00001" HPOS="1228" VPOS="31" WIDTH="96" HEIGHT="30" CONTENT="THE" WC="0.84" CC="014" STYLEREFS="TXT_1"/>
+						<SP ID="P1_SP00001" HPOS="1324" VPOS="61" WIDTH="0"/>
+					</TextLine>
+					<TextLine ID="P1_TL00002" HPOS="62" VPOS="81" WIDTH="2408" HEIGHT="144" CS="1">
+						<String ID="P1_ST00002" HPOS="62" VPOS="81" WIDTH="455" HEIGHT="132" CONTENT="NEW" WC="0.95" CC="111" STYLEREFS="TXT_2"/>
+						<SP ID="P1_SP00002" HPOS="517" VPOS="213" WIDTH="114"/>
+						<String ID="P1_ST00003" HPOS="631" VPOS="86" WIDTH="874" HEIGHT="132" CONTENT="ZEALAND" WC="0.94" CC="0011121" STYLEREFS="TXT_2"/>
+						<SP ID="P1_SP00003" HPOS="1505" VPOS="218" WIDTH="106"/>
+						<String ID="P1_ST00004" HPOS="1611" VPOS="91" WIDTH="229" HEIGHT="134" CONTENT="GA" WC="0.91" CC="11" STYLEREFS="TXT_2"/>
+						<String ID="P1_ST00005" HPOS="1873" VPOS="96" WIDTH="597" HEIGHT="129" CONTENT="ZETTE" WC="1.00" CC="00000" STYLEREFS="TXT_2"/>
+					</TextLine>
+					<TextLine ID="P1_TL00003" HPOS="1241" VPOS="249" WIDTH="99" HEIGHT="32">
+						<String ID="P1_ST00006" HPOS="1241" VPOS="249" WIDTH="99" HEIGHT="32" CONTENT="AND" WC="0.88" CC="112" STYLEREFS="TXT_1"/>
+					</TextLine>
+					<TextLine ID="P1_TL00004" HPOS="38" VPOS="281" WIDTH="2432" HEIGHT="169" CS="1">
+						<String ID="P1_ST00007" HPOS="38" VPOS="281" WIDTH="1158" HEIGHT="169" CONTENT="WELLINGTON" WC="1.00" CC="0000000000"/>
+						<SP ID="P1_SP00004" HPOS="1196" VPOS="450" WIDTH="116"/>
+						<String ID="P1_ST00008" HPOS="1312" VPOS="281" WIDTH="1158" HEIGHT="169" CONTENT="SPECTATOR." WC="1.00" CC="0000000000"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P1_TB00002" HPOS="600" VPOS="457" WIDTH="1423" HEIGHT="80"/>
+				<TextBlock ID="P1_TB00003" HPOS="57" VPOS="560" WIDTH="256" HEIGHT="78"/>
+				<TextBlock ID="P1_TB00004" HPOS="633" VPOS="567" WIDTH="1346" HEIGHT="66" STYLEREFS="TXT_3 PAR_CENTER">
+					<TextLine ID="P1_TL00005" HPOS="636" VPOS="590" WIDTH="1283" HEIGHT="43">
+						<String ID="P1_ST00009" HPOS="636" VPOS="590" WIDTH="110" HEIGHT="31" CONTENT="PORT" WC="0.98" CC="1010"/>
+						<SP ID="P1_SP00005" HPOS="746" VPOS="621" WIDTH="22"/>
+						<String ID="P1_ST00010" HPOS="768" VPOS="591" WIDTH="255" HEIGHT="37" CONTENT="NICHOLSON," WC="0.92" CC="1001000016"/>
+						<SP ID="P1_SP00006" HPOS="1023" VPOS="628" WIDTH="17"/>
+						<String ID="P1_ST00011" HPOS="1040" VPOS="592" WIDTH="265" HEIGHT="31" CONTENT="WEDNESDAY" WC="0.97" CC="100001011"/>
+						<SP ID="P1_SP00007" HPOS="1305" VPOS="628" WIDTH="24"/>
+						<String ID="P1_ST00012" HPOS="1329" VPOS="593" WIDTH="209" HEIGHT="35" CONTENT="MORNING," WC="0.84" CC="20110119"/>
+						<SP ID="P1_SP00008" HPOS="1538" VPOS="628" WIDTH="24"/>
+						<String ID="P1_ST00013" HPOS="1562" VPOS="593" WIDTH="188" HEIGHT="32" CONTENT="AUGUST" WC="0.96" CC="100210"/>
+						<SP ID="P1_SP00009" HPOS="1750" VPOS="628" WIDTH="23"/>
+						<String ID="P1_ST00014" HPOS="1773" VPOS="598" WIDTH="29" HEIGHT="35" CONTENT="7," WC="0.91" CC="11"/>
+						<SP ID="P1_SP00010" HPOS="1802" VPOS="633" WIDTH="30"/>
+						<String ID="P1_ST00015" HPOS="1832" VPOS="601" WIDTH="87" HEIGHT="27" CONTENT="1844." WC="0.93" CC="10111"/>
+					</TextLine>
+				</TextBlock>
+				<TextBlock ID="P1_TB00005" HPOS="2273" VPOS="598" WIDTH="155" HEIGHT="43" STYLEREFS="TXT_3 PAR_RIGHT">
+					<TextLine ID="P1_TL00006" HPOS="2275" VPOS="600" WIDTH="152" HEIGHT="40">
+						<String ID="P1_ST00016" HPOS="2275" VPOS="600" WIDTH="6" HEIGHT="40" CONTENT="I" WC="1.00" CC="0"/>
+						<SP ID="P1_SP00011" HPOS="2281" VPOS="640" WIDTH="9"/>
+						<String ID="P1_ST00017" HPOS="2290" VPOS="602" WIDTH="78" HEIGHT="30" CONTENT="Vol." WC="0.94" CC="1011"/>
+						<SP ID="P1_SP00012" HPOS="2368" VPOS="640" WIDTH="22"/>
+						<String ID="P1_ST00018" HPOS="2390" VPOS="603" WIDTH="37" HEIGHT="30" CONTENT="V." WC="0.91" CC="11"/>
+					</TextLine>
+				</TextBlock>
+				<ComposedBlock ID="P1_CB00001" HPOS="40" VPOS="652" WIDTH="605" HEIGHT="3319" TYPE="Advertisement">
+					<Shape>
+						<Polygon POINTS="40,652 645,652 628,3971 40,3971"/>
+					</Shape>
+					<TextBlock ID="P1_TB00006" HPOS="40" VPOS="652" WIDTH="605" HEIGHT="3319">
+						<Shape>
+							<Polygon POINTS="40,652 645,652 628,3971 40,3971"/>
+						</Shape>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="P1_CB00002" HPOS="645" VPOS="676" WIDTH="595" HEIGHT="3309" TYPE="Advertisement">
+					<TextBlock ID="P1_TB00007" HPOS="645" VPOS="676" WIDTH="595" HEIGHT="3309"/>
+				</ComposedBlock>
+				<ComposedBlock ID="P1_CB00003" HPOS="1261" VPOS="676" WIDTH="609" HEIGHT="3311" TYPE="Advertisement">
+					<Shape>
+						<Polygon POINTS="1261,676 1868,676 1868,3987 1268,3987"/>
+					</Shape>
+					<TextBlock ID="P1_TB00008" HPOS="1261" VPOS="676" WIDTH="609" HEIGHT="3311">
+						<Shape>
+							<Polygon POINTS="1261,676 1868,676 1868,3987 1268,3987"/>
+						</Shape>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="P1_CB00004" HPOS="1885" VPOS="657" WIDTH="613" HEIGHT="3332" TYPE="Advertisement">
+					<Shape>
+						<Polygon POINTS="1885,657 2496,657 2496,3987 1891,3987"/>
+					</Shape>
+					<TextBlock ID="P1_TB00009" HPOS="1885" VPOS="657" WIDTH="613" HEIGHT="3332">
+						<Shape>
+							<Polygon POINTS="1885,657 2496,657 2496,3987 1891,3987"/>
+						</Shape>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //docstorage/impdata$/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="Newspaper" LABEL="Oxford Observer no.  1898-05-14">
+	<metsHdr CREATEDATE="2009-01-24T16:01:22" LASTMODDATE="2009-01-24T16:01:22">
+		<agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+			<name>CCS docWORKS/METAe Version 6.2-1</name>
+		</agent>
+	</metsHdr>
+	<dmdSec ID="MODSMD_PRINT">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the printed version">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PRINT_TI1" xml:lang="en">
+						<MODS:title>Oxford Observer</MODS:title>
+						<MODS:partNumber>IX</MODS:partNumber>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:originInfo>
+						<MODS:dateIssued encoding="w3cdtf" point="start" keyDate="yes" qualifier="approximate">1898-05-14</MODS:dateIssued>
+					</MODS:originInfo>
+					<MODS:identifier type="local">OO_18980514</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ELEC">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the electronic version">
+			<xmlData>
+				<MODS:mods>
+					<MODS:originInfo>
+						<MODS:dateCreated point="start" keyDate="yes" qualifier="approximate">2009-01-24</MODS:dateCreated>
+						<MODS:publisher>CCS Content Conversion Specialists GmbH</MODS:publisher>
+					</MODS:originInfo>
+					<MODS:titleInfo ID="MODSMD_ELEC_TI1" xml:lang="en">
+						<MODS:title>Oxford Observer</MODS:title>
+						<MODS:partNumber>IX</MODS:partNumber>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:identifier type="local">OO_18980514</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ISSUE1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of Issue">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ISSUE1_TI1" xml:lang="en">
+						<MODS:title>Oxford Observer</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:originInfo>
+						<MODS:dateIssued encoding="w3cdtf" point="start" keyDate="yes" qualifier="approximate">1898-05-14</MODS:dateIssued>
+					</MODS:originInfo>
+					<MODS:identifier type="local">OO_18980514</MODS:identifier>
+					<MODS:relatedItem ID="MODSMD_ISSUE1_RI1" type="host">
+						<MODS:identifier type="local">IX</MODS:identifier>
+					</MODS:relatedItem>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE1_TI1" xml:lang="en">
+						<MODS:title>DEATH.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE2">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE2_TI2" xml:lang="en">
+						<MODS:nonSort>The</MODS:nonSort>
+						<MODS:title>Oxford Observer. PUBLISHED WEEKLY. SATURDAY May 14 1898.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE3">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE3_TI3" xml:lang="en">
+						<MODS:title>INTERNATIONAL ARBITRATION</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE4">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE4_TI4" xml:lang="en">
+						<MODS:title>THE BENEFITS OF IRRIGATION.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE5">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE5_TI5" xml:lang="en">
+						<MODS:title>ACCIDENT.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE6">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE6_TI6" xml:lang="en">
+						<MODS:title>THE CHRYSANTHEMUM SHOW.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE7">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE7_TI7" xml:lang="en">
+						<MODS:title>MAGISTERIAL.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE8">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE8_TI8" xml:lang="en">
+						<MODS:title>OXFORD ROAD BOARD.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE9">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE9_TI9" xml:lang="en">
+						<MODS:title>THE COLONY'S ACCOUNTS.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE10">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE10_TI10" xml:lang="en">
+						<MODS:title>CHARACTER SKETCH.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE11">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE11_TI11" xml:lang="en">
+						<MODS:title>LOCAL and GENERAL</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE12">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE12_TI12" xml:lang="en">
+						<MODS:title>NEWS OF THE WEEK.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE13">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE13_TI13" xml:lang="en">
+						<MODS:title>STEAM PLOUGHING.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE14">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE14_TI14" xml:lang="en">
+						<MODS:title>ASSESSMENT COURT.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE15">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE15_TI15" xml:lang="en">
+						<MODS:title>OBITUARY.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE16">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE16_TI16" xml:lang="en">
+						<MODS:title>OXFORD MORRIS TUBE CLUB.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE17">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE17_TI17" xml:lang="en">
+						<MODS:title>AN IMPORTANT CASE.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE18">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE18_TI18" xml:lang="en">
+						<MODS:title>I BEG YOU PARDON.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE19">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE19_TI19" xml:lang="en">
+						<MODS:nonSort>A</MODS:nonSort>
+						<MODS:title>GENTLE HINT.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE20">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<amdSec ID="IMGPARAM00001">
+		<techMD ID="IMGPARAM00001TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>4</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-9/impdata$/OUT/NZ/OO/OO_18980514/MM_01">0001.tif</mix:ImageIdentifier>
+								<mix:FileSize>396299</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>DOCPC-29</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.1 Service Pack 2</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0635000</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>400</mix:XphysScanResolution>
+										<mix:YphysScanResolution>400</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5403</mix:ImageWidth>
+								<mix:ImageLength>7006</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>1</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_5/OO/1898/05/14/00100.TIF</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00002">
+		<techMD ID="IMGPARAM00002TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>4</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-9/impdata$/OUT/NZ/OO/OO_18980514/MM_01">0002.tif</mix:ImageIdentifier>
+								<mix:FileSize>549789</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>DOCPC-29</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.1 Service Pack 2</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0635000</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>400</mix:XphysScanResolution>
+										<mix:YphysScanResolution>400</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5559</mix:ImageWidth>
+								<mix:ImageLength>7323</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>1</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_5/OO/1898/05/14/00200.TIF</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00003">
+		<techMD ID="IMGPARAM00003TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>4</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-9/impdata$/OUT/NZ/OO/OO_18980514/MM_01">0003.tif</mix:ImageIdentifier>
+								<mix:FileSize>534596</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>DOCPC-29</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.1 Service Pack 2</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0635000</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>400</mix:XphysScanResolution>
+										<mix:YphysScanResolution>400</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5457</mix:ImageWidth>
+								<mix:ImageLength>7145</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>1</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_5/OO/1898/05/14/00300.TIF</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00004">
+		<techMD ID="IMGPARAM00004TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>4</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>1</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-9/impdata$/OUT/NZ/OO/OO_18980514/MM_01">0004.tif</mix:ImageIdentifier>
+								<mix:FileSize>438777</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID></mix:SourceID>
+							<mix:ImageProducer></mix:ImageProducer>
+							<mix:Host>
+								<mix:HostComputer>DOCPC-29</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.1 Service Pack 2</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource></mix:DeviceSource>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer></mix:ScannerManufacturer>
+									<mix:ScannerModel>
+										<mix:ScannerModelName></mix:ScannerModelName>
+										<mix:ScannerModelNumber></mix:ScannerModelNumber>
+										<mix:ScannerModelSerialNo></mix:ScannerModelSerialNo>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo></mix:ScanningSoftwareVersionNo>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0635000</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>400</mix:XphysScanResolution>
+										<mix:YphysScanResolution>400</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>5559</mix:ImageWidth>
+								<mix:ImageLength>7323</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>1</mix:BitsPerSample>
+								<mix:SamplesPerPixel>1</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_5/OO/1898/05/14/00400.TIF</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<fileSec>
+		<fileGrp ID="IMGGRP" USE="Images">
+			<file ID="IMG00001" CREATED="2009-01-24T16:00:32" ADMID="IMGPARAM00001" MIMETYPE="image/tif" SEQ="1" CHECKSUM="df8ad32e7b6d36d818143d1ce28e1c76" CHECKSUMTYPE="MD5" SIZE="396299">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0001.tif"/>
+			</file>
+			<file ID="IMG00002" CREATED="2009-01-24T16:00:36" ADMID="IMGPARAM00002" MIMETYPE="image/tif" SEQ="2" CHECKSUM="c923207d48c9853b7a8685dee6c16935" CHECKSUMTYPE="MD5" SIZE="549789">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0002.tif"/>
+			</file>
+			<file ID="IMG00003" CREATED="2009-01-24T16:00:38" ADMID="IMGPARAM00003" MIMETYPE="image/tif" SEQ="3" CHECKSUM="4fa76c75d35e437d8cc3e9d3e0e73456" CHECKSUMTYPE="MD5" SIZE="534596">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0003.tif"/>
+			</file>
+			<file ID="IMG00004" CREATED="2009-01-24T16:00:41" ADMID="IMGPARAM00004" MIMETYPE="image/tif" SEQ="4" CHECKSUM="928b48125eb2344d97668100d27a4916" CHECKSUMTYPE="MD5" SIZE="438777">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0004.tif"/>
+			</file>
+		</fileGrp>
+		<fileGrp ID="ALTOGRP" USE="Text">
+			<file ID="ALTO0001" CREATED="2009-01-24T16:00:42" MIMETYPE="text/xml" CHECKSUM="a2b40d8febfe8b742b1a332fb3293131" CHECKSUMTYPE="MD5" SIZE="305664">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0001.xml"/>
+			</file>
+			<file ID="ALTO0002" CREATED="2009-01-24T16:00:46" MIMETYPE="text/xml" CHECKSUM="5f30736076592823142a6d80ee6c3c0f" CHECKSUMTYPE="MD5" SIZE="479959">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0002.xml"/>
+			</file>
+			<file ID="ALTO0003" CREATED="2009-01-24T16:00:49" MIMETYPE="text/xml" CHECKSUM="8085f41e040a0e722a205e2dc13ac856" CHECKSUMTYPE="MD5" SIZE="653009">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0003.xml"/>
+			</file>
+			<file ID="ALTO0004" CREATED="2009-01-24T16:00:55" MIMETYPE="text/xml" CHECKSUM="5b8097d787fbeb8db1f678e6dc5ba64e" CHECKSUMTYPE="MD5" SIZE="362342">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0004.xml"/>
+			</file>
+		</fileGrp>
+	</fileSec>
+	<structMap LABEL="Physical Structure" TYPE="PHYSICAL">
+		<div ID="DIVP1" DMDID="MODSMD_ELEC MODSMD_PRINT" LABEL="Oxford Observer" TYPE="Newspaper">
+			<div ID="DIVP2" ORDER="1" ORDERLABEL="1" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00001"/>
+						<area FILEID="ALTO0001" BETYPE="IDREF" BEGIN="P1"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP3" ORDER="2" ORDERLABEL="2" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00002"/>
+						<area FILEID="ALTO0002" BETYPE="IDREF" BEGIN="P2"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP4" ORDER="3" ORDERLABEL="3" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00003"/>
+						<area FILEID="ALTO0003" BETYPE="IDREF" BEGIN="P3"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP5" ORDER="4" ORDERLABEL="4" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00004"/>
+						<area FILEID="ALTO0004" BETYPE="IDREF" BEGIN="P4"/>
+					</par>
+				</fptr>
+			</div>
+		</div>
+	</structMap>
+	<structMap LABEL="Logical Structure" TYPE="LOGICAL">
+		<div ID="DIVL1" TYPE="Newspaper" LABEL="Oxford Observer no.  1898-05-14">
+			<div ID="DIVL2" TYPE="VOLUME" DMDID="MODSMD_PRINT MODSMD_ELEC" LABEL="Oxford Observer no.  1898-05-14">
+				<div ID="DIVL3" TYPE="ISSUE" DMDID="MODSMD_ISSUE1" LABEL="Oxford Observer no.  1898-05-14">
+					<div ID="DIVL4" TYPE="TITLE_SECTION">
+						<div ID="DIVL5" TYPE="HEADLINE" ORDER="1">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00001"/>
+							</fptr>
+						</div>
+						<div ID="DIVL6" TYPE="TEXTBLOCK" ORDER="2">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00002"/>
+							</fptr>
+						</div>
+						<div ID="DIVL7" TYPE="TEXTBLOCK" ORDER="3">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00003"/>
+							</fptr>
+						</div>
+						<div ID="DIVL8" TYPE="TEXTBLOCK" ORDER="4">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00004"/>
+							</fptr>
+						</div>
+						<div ID="DIVL9" TYPE="TEXTBLOCK" ORDER="5">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00005"/>
+							</fptr>
+						</div>
+						<div ID="DIVL10" TYPE="TEXTBLOCK" ORDER="6">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00006"/>
+							</fptr>
+						</div>
+					</div>
+					<div ID="DIVL11" TYPE="CONTENT">
+						<div ID="DIVL12" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE1" LABEL="DEATH.">
+							<div ID="DIVL13" TYPE="HEADING">
+								<div ID="DIVL14" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL15" TYPE="BODY">
+								<div ID="DIVL16" TYPE="BODY_CONTENT">
+									<div ID="DIVL17" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL18" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00002"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL19" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE2" LABEL="The Oxford Observer. PUBLISHED WEEKLY. SATURDAY May 14 1898.">
+							<div ID="DIVL20" TYPE="HEADING">
+								<div ID="DIVL21" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00003"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL22" TYPE="BODY">
+								<div ID="DIVL23" TYPE="BODY_CONTENT">
+									<div ID="DIVL24" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL25" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00004"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL26" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE3" LABEL="INTERNATIONAL ARBITRATION">
+							<div ID="DIVL27" TYPE="HEADING">
+								<div ID="DIVL28" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00005"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL29" TYPE="BODY">
+								<div ID="DIVL30" TYPE="BODY_CONTENT">
+									<div ID="DIVL31" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL32" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL33" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE4" LABEL="THE BENEFITS OF IRRIGATION.">
+							<div ID="DIVL34" TYPE="HEADING">
+								<div ID="DIVL35" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00007"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL36" TYPE="BODY">
+								<div ID="DIVL37" TYPE="BODY_CONTENT">
+									<div ID="DIVL38" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL39" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00008"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL40" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE5" LABEL="ACCIDENT.">
+							<div ID="DIVL41" TYPE="HEADING">
+								<div ID="DIVL42" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00009"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL43" TYPE="BODY">
+								<div ID="DIVL44" TYPE="BODY_CONTENT">
+									<div ID="DIVL45" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL46" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00010"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL47" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL48" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00001"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL49" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE6" LABEL="THE CHRYSANTHEMUM SHOW.">
+							<div ID="DIVL50" TYPE="HEADING">
+								<div ID="DIVL51" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00002"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL52" TYPE="BODY">
+								<div ID="DIVL53" TYPE="BODY_CONTENT">
+									<div ID="DIVL54" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL55" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00003"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL56" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE7" LABEL="MAGISTERIAL.">
+							<div ID="DIVL57" TYPE="HEADING">
+								<div ID="DIVL58" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00004"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL59" TYPE="BODY">
+								<div ID="DIVL60" TYPE="BODY_CONTENT">
+									<div ID="DIVL61" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL62" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00005"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL63" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL64" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL65" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE8" LABEL="OXFORD ROAD BOARD.">
+							<div ID="DIVL66" TYPE="HEADING">
+								<div ID="DIVL67" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00007"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL68" TYPE="BODY">
+								<div ID="DIVL69" TYPE="BODY_CONTENT">
+									<div ID="DIVL70" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL71" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00008"/>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00009"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL72" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE9" LABEL="THE COLONY'S ACCOUNTS.">
+							<div ID="DIVL73" TYPE="HEADING">
+								<div ID="DIVL74" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00010"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL75" TYPE="BODY">
+								<div ID="DIVL76" TYPE="BODY_CONTENT">
+									<div ID="DIVL77" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL78" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00011"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL79" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE10" LABEL="CHARACTER SKETCH.">
+							<div ID="DIVL80" TYPE="HEADING">
+								<div ID="DIVL81" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00012"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL82" TYPE="BODY">
+								<div ID="DIVL83" TYPE="BODY_CONTENT">
+									<div ID="DIVL84" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL85" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00013"/>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00014"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL86" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE11" LABEL="LOCAL and GENERAL">
+							<div ID="DIVL87" TYPE="HEADING">
+								<div ID="DIVL88" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00015"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL89" TYPE="BODY">
+								<div ID="DIVL90" TYPE="BODY_CONTENT">
+									<div ID="DIVL91" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL92" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00016"/>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00017"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL93" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE12" LABEL="NEWS OF THE WEEK.">
+							<div ID="DIVL94" TYPE="HEADING">
+								<div ID="DIVL95" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00018"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL96" TYPE="BODY">
+								<div ID="DIVL97" TYPE="BODY_CONTENT">
+									<div ID="DIVL98" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL99" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00019"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL100" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE13" LABEL="STEAM PLOUGHING.">
+							<div ID="DIVL101" TYPE="HEADING">
+								<div ID="DIVL102" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00020"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL103" TYPE="BODY">
+								<div ID="DIVL104" TYPE="BODY_CONTENT">
+									<div ID="DIVL105" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL106" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00021"/>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00022"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL107" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE14" LABEL="ASSESSMENT COURT.">
+							<div ID="DIVL108" TYPE="HEADING">
+								<div ID="DIVL109" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00023"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL110" TYPE="BODY">
+								<div ID="DIVL111" TYPE="BODY_CONTENT">
+									<div ID="DIVL112" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL113" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00024"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL114" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE15" LABEL="OBITUARY.">
+							<div ID="DIVL115" TYPE="HEADING">
+								<div ID="DIVL116" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00025"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL117" TYPE="BODY">
+								<div ID="DIVL118" TYPE="BODY_CONTENT">
+									<div ID="DIVL119" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL120" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00026"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL121" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE16" LABEL="OXFORD MORRIS TUBE CLUB.">
+							<div ID="DIVL122" TYPE="HEADING">
+								<div ID="DIVL123" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00027"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL124" TYPE="BODY">
+								<div ID="DIVL125" TYPE="BODY_CONTENT">
+									<div ID="DIVL126" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL127" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00028"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL128" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE17" LABEL="AN IMPORTANT CASE.">
+							<div ID="DIVL129" TYPE="HEADING">
+								<div ID="DIVL130" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00029"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL131" TYPE="BODY">
+								<div ID="DIVL132" TYPE="BODY_CONTENT">
+									<div ID="DIVL133" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL134" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00030"/>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00031"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL135" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE18" LABEL="I BEG YOU PARDON.">
+							<div ID="DIVL136" TYPE="HEADING">
+								<div ID="DIVL137" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00032"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL138" TYPE="BODY">
+								<div ID="DIVL139" TYPE="BODY_CONTENT">
+									<div ID="DIVL140" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL141" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00033"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL142" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE19" LABEL="A GENTLE HINT.">
+							<div ID="DIVL143" TYPE="HEADING">
+								<div ID="DIVL144" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00034"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL145" TYPE="BODY">
+								<div ID="DIVL146" TYPE="BODY_CONTENT">
+									<div ID="DIVL147" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL148" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00035"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL149" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE20">
+							<div ID="DIVL150" TYPE="BODY">
+								<div ID="DIVL151" TYPE="BODY_CONTENT">
+									<div ID="DIVL152" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL153" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00036"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL154" TYPE="SECTION" DMDID="MODSMD_SECTION1">
+							<div ID="DIVL155" TYPE="BODY">
+								<div ID="DIVL156" TYPE="BODY_CONTENT">
+									<div ID="DIVL157" TYPE="ADVERTISEMENT" ORDER="1" LABEL="Adv. 1 Page 2">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL158" TYPE="ADVERTISEMENT" ORDER="2" LABEL="Adv. 2 Page 4">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL159" TYPE="ADVERTISEMENT" ORDER="3" LABEL="Adv. 3 Page 4">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL160" TYPE="ADVERTISEMENT" ORDER="4" LABEL="Adv. 4 Page 4">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL161" TYPE="ADVERTISEMENT" ORDER="5" LABEL="Adv. 5 Page 4">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_CB00004"/>
+										</fptr>
+									</div>
+									<div ID="DIVL162" TYPE="ADVERTISEMENT" ORDER="6" LABEL="Adv. 6 Page 4">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_CB00005"/>
+										</fptr>
+									</div>
+									<div ID="DIVL163" TYPE="ADVERTISEMENT" ORDER="7" LABEL="Adv. 7 Page 3">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL164" TYPE="ADVERTISEMENT" ORDER="8" LABEL="Adv. 8 Page 2">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL165" TYPE="ADVERTISEMENT" ORDER="9" LABEL="Adv. 9 Page 2">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL166" TYPE="ADVERTISEMENT" ORDER="10" LABEL="Adv. 10 Page 2">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_CB00004"/>
+										</fptr>
+									</div>
+									<div ID="DIVL167" TYPE="ADVERTISEMENT" ORDER="11" LABEL="Adv. 11 Page 2">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_CB00005"/>
+										</fptr>
+									</div>
+									<div ID="DIVL168" TYPE="ADVERTISEMENT" ORDER="12" LABEL="Adv. 12 Page 2">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_CB00006"/>
+										</fptr>
+									</div>
+									<div ID="DIVL169" TYPE="ADVERTISEMENT" ORDER="13" LABEL="Adv. 13 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL170" TYPE="ADVERTISEMENT" ORDER="14" LABEL="Adv. 14 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL171" TYPE="ADVERTISEMENT" ORDER="15" LABEL="Adv. 15 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL172" TYPE="ADVERTISEMENT" ORDER="16" LABEL="Adv. 16 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00004"/>
+										</fptr>
+									</div>
+									<div ID="DIVL173" TYPE="ADVERTISEMENT" ORDER="17" LABEL="Adv. 17 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00005"/>
+										</fptr>
+									</div>
+									<div ID="DIVL174" TYPE="ADVERTISEMENT" ORDER="18" LABEL="Adv. 18 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00006"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</structMap>
+</mets>

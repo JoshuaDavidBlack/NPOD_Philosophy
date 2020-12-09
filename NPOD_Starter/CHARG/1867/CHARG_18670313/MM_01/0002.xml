@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="//docstorage2/impdata1/docWORKS_KBNL/schema/alto-1-2.xsd" xmlns:xlink="http://www.w3.org/TR/xlink">
+	<Description>
+		<MeasurementUnit>mm10</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>//docstorage2/impdata3/IN/NZ_7/CHARG/1867/CHARG_18670313/PM_01/0002m.tif</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCRPROCESSING_1">
+			<preProcessingStep>
+				<processingSoftware>
+					<softwareCreator>CCS Content Conversion Specialists GmbH, Germany</softwareCreator>
+					<softwareVersion>10.0</softwareVersion>
+					<softwareVersion>6.6-1.8</softwareVersion>
+				</processingSoftware>
+			</preProcessingStep>
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareCreator>ABBYY (BIT Software), Russia</softwareCreator>
+					<softwareName>FineReader</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Styles/>
+	<Layout>
+		<Page ID="P2" PHYSICAL_IMG_NR="2" HEIGHT="6165" WIDTH="4041">
+			<TopMargin ID="P2_TM00001" HPOS="0" VPOS="0" WIDTH="4041" HEIGHT="0"/>
+			<LeftMargin ID="P2_LM00001" HPOS="0" VPOS="0" WIDTH="0" HEIGHT="6165"/>
+			<RightMargin ID="P2_RM00001" HPOS="4041" VPOS="0" WIDTH="0" HEIGHT="6165"/>
+			<BottomMargin ID="P2_BM00001" HPOS="0" VPOS="6165" WIDTH="4041" HEIGHT="0"/>
+			<PrintSpace ID="P2_PS00001" HPOS="0" VPOS="0" WIDTH="4041" HEIGHT="6165"/>
+		</Page>
+	</Layout>
+</alto>

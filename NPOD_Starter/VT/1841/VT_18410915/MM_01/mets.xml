@@ -1,0 +1,2877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mets xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ //docstorage/impdata$/docWORKS/schema/mets-metae.xsd" xmlns:MODS="http://www.loc.gov/mods/v3" xmlns:mix="http://www.loc.gov/mix/" xmlns:xlink="http://www.w3.org/TR/xlink" TYPE="Newspaper" LABEL="Victoria Times no.  1841-09-15">
+	<metsHdr CREATEDATE="2008-07-05T01:07:15" LASTMODDATE="2008-07-05T01:07:15">
+		<agent ROLE="CREATOR" TYPE="OTHER" OTHERTYPE="SOFTWARE">
+			<name>CCS docWORKS/METAe Version 6.2-1</name>
+		</agent>
+	</metsHdr>
+	<dmdSec ID="MODSMD_PRINT">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the printed version">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PRINT_TI1" xml:lang="en">
+						<MODS:title>The Victoria Times</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:originInfo>
+						<MODS:dateIssued encoding="w3cdtf" point="start" keyDate="yes" qualifier="approximate">1841-09-15</MODS:dateIssued>
+					</MODS:originInfo>
+					<MODS:identifier type="local">VT_18410915</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ELEC">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of the electronic version">
+			<xmlData>
+				<MODS:mods>
+					<MODS:originInfo>
+						<MODS:dateCreated point="start" keyDate="yes" qualifier="approximate">2008-07-05</MODS:dateCreated>
+					</MODS:originInfo>
+					<MODS:titleInfo ID="MODSMD_ELEC_TI1" xml:lang="en">
+						<MODS:title>The Victoria Times</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:identifier type="local">VT_18410915</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ISSUE1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of Issue">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ISSUE1_TI1" xml:lang="en">
+						<MODS:title>Victoria Times</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+					<MODS:originInfo>
+						<MODS:dateIssued encoding="w3cdtf" point="start" keyDate="yes" qualifier="approximate">1841-09-15</MODS:dateIssued>
+					</MODS:originInfo>
+					<MODS:identifier type="local">VT_18410915</MODS:identifier>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE1_TI1" xml:lang="en">
+						<MODS:title>Wellington Tavern.</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE2">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_SECTION1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of section">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE3">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE4">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_ARTICLE5">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of article">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_ARTICLE5_TI2" xml:lang="en">
+						<MODS:title>PLAN of THE CITY OF WELLINGTON Port Nicholson NEW ZEALAND 1841</MODS:title>
+					</MODS:titleInfo>
+					<MODS:language>
+						<MODS:languageTerm type="code" authority="rfc3066">en</MODS:languageTerm>
+					</MODS:language>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<dmdSec ID="MODSMD_PICT1">
+		<mdWrap MIMETYPE="text/xml" MDTYPE="MODS" LABEL="Bibliographic meta-data of picture">
+			<xmlData>
+				<MODS:mods>
+					<MODS:titleInfo ID="MODSMD_PICT1_TI1" xml:lang="en">
+						<MODS:title>Untitled</MODS:title>
+					</MODS:titleInfo>
+				</MODS:mods>
+			</xmlData>
+		</mdWrap>
+	</dmdSec>
+	<amdSec ID="IMGPARAM00001">
+		<techMD ID="IMGPARAM00001TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>5</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-11/impdata$/OUT/NZ/VT/VT_18410915/MM_01">0001.tif</mix:ImageIdentifier>
+								<mix:FileSize>28086983</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.2 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3489</mix:ImageWidth>
+								<mix:ImageLength>4715</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_4/VT/1841/09/15/0001.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00002">
+		<techMD ID="IMGPARAM00002TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>5</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-11/impdata$/OUT/NZ/VT/VT_18410915/MM_01">0002.tif</mix:ImageIdentifier>
+								<mix:FileSize>36098689</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.2 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3640</mix:ImageWidth>
+								<mix:ImageLength>5095</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_4/VT/1841/09/15/0002.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00003">
+		<techMD ID="IMGPARAM00003TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>5</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-11/impdata$/OUT/NZ/VT/VT_18410915/MM_01">0003.tif</mix:ImageIdentifier>
+								<mix:FileSize>27493657</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.2 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3169</mix:ImageWidth>
+								<mix:ImageLength>5255</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_4/VT/1841/09/15/0003.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<amdSec ID="IMGPARAM00004">
+		<techMD ID="IMGPARAM00004TECHMD">
+			<mdWrap MDTYPE="NISOIMG">
+				<xmlData>
+					<mix:mix>
+						<mix:BasicImageParameters>
+							<mix:Format>
+								<mix:MIMEType>image/tiff</mix:MIMEType>
+								<mix:ByteOrder>little-endian</mix:ByteOrder>
+								<mix:Compression>
+									<mix:CompressionScheme>5</mix:CompressionScheme>
+								</mix:Compression>
+								<mix:PhotometricInterpretation>
+									<mix:ColorSpace>2</mix:ColorSpace>
+								</mix:PhotometricInterpretation>
+							</mix:Format>
+							<mix:File>
+								<mix:ImageIdentifier imageIdentifierLocation="//nasserver-11/impdata$/OUT/NZ/VT/VT_18410915/MM_01">0004.tif</mix:ImageIdentifier>
+								<mix:FileSize>31752028</mix:FileSize>
+								<mix:Orientation>1</mix:Orientation>
+								<mix:DisplayOrientation>1</mix:DisplayOrientation>
+							</mix:File>
+						</mix:BasicImageParameters>
+						<mix:ImageCreation>
+							<mix:SourceType>Newspaper</mix:SourceType>
+							<mix:SourceID/>
+							<mix:ImageProducer/>
+							<mix:Host>
+								<mix:HostComputer>BLADESERVER-2</mix:HostComputer>
+								<mix:OperatingSystem>windows</mix:OperatingSystem>
+								<mix:OSVersion>5.2 Service Pack 1</mix:OSVersion>
+							</mix:Host>
+							<mix:DeviceSource/>
+							<mix:ScanningSystemCapture>
+								<mix:ScanningSystemHardware>
+									<mix:ScannerManufacturer/>
+									<mix:ScannerModel>
+										<mix:ScannerModelName/>
+										<mix:ScannerModelNumber/>
+										<mix:ScannerModelSerialNo/>
+									</mix:ScannerModel>
+								</mix:ScanningSystemHardware>
+								<mix:ScanningSystemSoftware>
+									<mix:ScanningSoftware>CCS docWORKS</mix:ScanningSoftware>
+									<mix:ScanningSoftwareVersionNo/>
+								</mix:ScanningSystemSoftware>
+								<mix:ScannerCaptureSettings>
+									<mix:PixelSize>0.0846666</mix:PixelSize>
+									<mix:PhysScanResolution>
+										<mix:XphysScanResolution>300</mix:XphysScanResolution>
+										<mix:YphysScanResolution>300</mix:YphysScanResolution>
+									</mix:PhysScanResolution>
+								</mix:ScannerCaptureSettings>
+							</mix:ScanningSystemCapture>
+						</mix:ImageCreation>
+						<mix:ImagingPerformanceAssessment>
+							<mix:SpatialMetrics>
+								<mix:ImageWidth>3213</mix:ImageWidth>
+								<mix:ImageLength>5705</mix:ImageLength>
+							</mix:SpatialMetrics>
+							<mix:Energetics>
+								<mix:BitsPerSample>8,8,8</mix:BitsPerSample>
+								<mix:SamplesPerPixel>3</mix:SamplesPerPixel>
+							</mix:Energetics>
+						</mix:ImagingPerformanceAssessment>
+						<mix:ChangeHistory>
+							<mix:ImageProcessing>
+								<mix:SourceData>./NZ_4/VT/1841/09/15/0004.tif</mix:SourceData>
+							</mix:ImageProcessing>
+						</mix:ChangeHistory>
+					</mix:mix>
+				</xmlData>
+			</mdWrap>
+		</techMD>
+	</amdSec>
+	<fileSec>
+		<fileGrp ID="IMGGRP" USE="Images">
+			<file ID="IMG00001" CREATED="2008-07-05T01:06:19" ADMID="IMGPARAM00001" MIMETYPE="image/tif" SEQ="1" CHECKSUM="ce044fc04027e496846f6029d31694b9" CHECKSUMTYPE="MD5" SIZE="28086983">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0001.tif"/>
+			</file>
+			<file ID="IMG00002" CREATED="2008-07-05T01:06:31" ADMID="IMGPARAM00002" MIMETYPE="image/tif" SEQ="2" CHECKSUM="bc1464ae727545444c14d954dd1a3239" CHECKSUMTYPE="MD5" SIZE="36098689">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0002.tif"/>
+			</file>
+			<file ID="IMG00003" CREATED="2008-07-05T01:06:38" ADMID="IMGPARAM00003" MIMETYPE="image/tif" SEQ="3" CHECKSUM="4738245f80a0de18618409ed09e259c7" CHECKSUMTYPE="MD5" SIZE="27493657">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0003.tif"/>
+			</file>
+			<file ID="IMG00004" CREATED="2008-07-05T01:06:47" ADMID="IMGPARAM00004" MIMETYPE="image/tif" SEQ="4" CHECKSUM="6536e615ba3deec58ebba11c875b7269" CHECKSUMTYPE="MD5" SIZE="31752028">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0004.tif"/>
+			</file>
+		</fileGrp>
+		<fileGrp ID="ALTOGRP" USE="Text">
+			<file ID="ALTO0001" CREATED="2008-07-05T01:06:50" MIMETYPE="text/xml" CHECKSUM="778e153d3f85a0e05637dac4e5430ae7" CHECKSUMTYPE="MD5" SIZE="93537">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0001.xml"/>
+			</file>
+			<file ID="ALTO0002" CREATED="2008-07-05T01:06:51" MIMETYPE="text/xml" CHECKSUM="33a8789a2b8921edb6dc3f944a4d811a" CHECKSUMTYPE="MD5" SIZE="204853">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0002.xml"/>
+			</file>
+			<file ID="ALTO0003" CREATED="2008-07-05T01:06:56" MIMETYPE="text/xml" CHECKSUM="a1f9d0f308a262ed707e16d8e37044ca" CHECKSUMTYPE="MD5" SIZE="162268">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0003.xml"/>
+			</file>
+			<file ID="ALTO0004" CREATED="2008-07-05T01:07:03" MIMETYPE="text/xml" CHECKSUM="b1841a7519d82bc062db725c81154853" CHECKSUMTYPE="MD5" SIZE="4530">
+				<FLocat LOCTYPE="URL" xlink:href="file://./0004.xml"/>
+			</file>
+		</fileGrp>
+	</fileSec>
+	<structMap LABEL="Physical Structure" TYPE="PHYSICAL">
+		<div ID="DIVP1" DMDID="MODSMD_ELEC MODSMD_PRINT" LABEL="The Victoria Times" TYPE="Newspaper">
+			<div ID="DIVP2" ORDER="1" ORDERLABEL="1" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00001"/>
+						<area FILEID="ALTO0001" BETYPE="IDREF" BEGIN="P1"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP3" ORDER="2" ORDERLABEL="2" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00002"/>
+						<area FILEID="ALTO0002" BETYPE="IDREF" BEGIN="P2"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP4" ORDER="3" ORDERLABEL="3" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00003"/>
+						<area FILEID="ALTO0003" BETYPE="IDREF" BEGIN="P3"/>
+					</par>
+				</fptr>
+			</div>
+			<div ID="DIVP5" ORDER="4" ORDERLABEL="4" TYPE="PAGE">
+				<fptr>
+					<par>
+						<area FILEID="IMG00004"/>
+						<area FILEID="ALTO0004" BETYPE="IDREF" BEGIN="P4"/>
+					</par>
+				</fptr>
+			</div>
+		</div>
+	</structMap>
+	<structMap LABEL="Logical Structure" TYPE="LOGICAL">
+		<div ID="DIVL1" TYPE="Newspaper" LABEL="Victoria Times no.  1841-09-15">
+			<div ID="DIVL2" TYPE="VOLUME" DMDID="MODSMD_PRINT MODSMD_ELEC" LABEL="Victoria Times no.  1841-09-15">
+				<div ID="DIVL3" TYPE="ISSUE" DMDID="MODSMD_ISSUE1" LABEL="Victoria Times no.  1841-09-15">
+					<div ID="DIVL4" TYPE="TITLE_SECTION">
+						<div ID="DIVL5" TYPE="HEADLINE" ORDER="1">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00001"/>
+							</fptr>
+						</div>
+						<div ID="DIVL6" TYPE="HEADLINE" ORDER="2">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00002"/>
+							</fptr>
+						</div>
+						<div ID="DIVL7" TYPE="TEXTBLOCK" ORDER="3">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00003"/>
+							</fptr>
+						</div>
+						<div ID="DIVL8" TYPE="TEXTBLOCK" ORDER="4">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00004"/>
+							</fptr>
+						</div>
+						<div ID="DIVL9" TYPE="TEXTBLOCK" ORDER="5">
+							<fptr>
+								<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00005"/>
+							</fptr>
+						</div>
+					</div>
+					<div ID="DIVL10" TYPE="CONTENT">
+						<div ID="DIVL11" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE1" LABEL="Wellington Tavern.">
+							<div ID="DIVL12" TYPE="HEADING">
+								<div ID="DIVL13" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00006"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL14" TYPE="BODY">
+								<div ID="DIVL15" TYPE="BODY_CONTENT">
+									<div ID="DIVL16" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL17" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00007"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL18" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL19" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00008"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL20" TYPE="PARAGRAPH" ORDER="3">
+										<div ID="DIVL21" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00009"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL22" TYPE="PARAGRAPH" ORDER="4">
+										<div ID="DIVL23" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00010"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL24" TYPE="PARAGRAPH" ORDER="5">
+										<div ID="DIVL25" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00011"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL26" TYPE="PARAGRAPH" ORDER="6">
+										<div ID="DIVL27" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00012"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL28" TYPE="PARAGRAPH" ORDER="7">
+										<div ID="DIVL29" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00013"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL30" TYPE="PARAGRAPH" ORDER="8">
+										<div ID="DIVL31" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00014"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL32" TYPE="PARAGRAPH" ORDER="9">
+										<div ID="DIVL33" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00015"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL34" TYPE="PARAGRAPH" ORDER="10">
+										<div ID="DIVL35" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00016"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL36" TYPE="PARAGRAPH" ORDER="11">
+										<div ID="DIVL37" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00017"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL38" TYPE="PARAGRAPH" ORDER="12">
+										<div ID="DIVL39" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00018"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL40" TYPE="PARAGRAPH" ORDER="13">
+										<div ID="DIVL41" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00019"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL42" TYPE="PARAGRAPH" ORDER="14">
+										<div ID="DIVL43" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00020"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL44" TYPE="PARAGRAPH" ORDER="15">
+										<div ID="DIVL45" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00021"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL46" TYPE="PARAGRAPH" ORDER="16">
+										<div ID="DIVL47" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00022"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL48" TYPE="PARAGRAPH" ORDER="17">
+										<div ID="DIVL49" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00023"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL50" TYPE="PARAGRAPH" ORDER="18">
+										<div ID="DIVL51" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00024"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL52" TYPE="PARAGRAPH" ORDER="19">
+										<div ID="DIVL53" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00025"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL54" TYPE="PARAGRAPH" ORDER="20">
+										<div ID="DIVL55" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00026"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL56" TYPE="PARAGRAPH" ORDER="21">
+										<div ID="DIVL57" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00027"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL58" TYPE="PARAGRAPH" ORDER="22">
+										<div ID="DIVL59" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00028"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL60" TYPE="PARAGRAPH" ORDER="23">
+										<div ID="DIVL61" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00029"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL62" TYPE="PARAGRAPH" ORDER="24">
+										<div ID="DIVL63" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00030"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL64" TYPE="PARAGRAPH" ORDER="25">
+										<div ID="DIVL65" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00031"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL66" TYPE="PARAGRAPH" ORDER="26">
+										<div ID="DIVL67" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00032"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL68" TYPE="PARAGRAPH" ORDER="27">
+										<div ID="DIVL69" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00033"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL70" TYPE="PARAGRAPH" ORDER="28">
+										<div ID="DIVL71" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00034"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL72" TYPE="PARAGRAPH" ORDER="29">
+										<div ID="DIVL73" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00035"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL74" TYPE="PARAGRAPH" ORDER="30">
+										<div ID="DIVL75" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00036"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL76" TYPE="PARAGRAPH" ORDER="31">
+										<div ID="DIVL77" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00037"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL78" TYPE="PARAGRAPH" ORDER="32">
+										<div ID="DIVL79" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00038"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL80" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE2">
+							<div ID="DIVL81" TYPE="HEADING">
+								<div ID="DIVL82" TYPE="TEXT">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00039"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL83" TYPE="BODY">
+								<div ID="DIVL84" TYPE="BODY_CONTENT">
+									<div ID="DIVL85" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL86" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00040"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL87" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL88" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00041"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL89" TYPE="PARAGRAPH" ORDER="3">
+										<div ID="DIVL90" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00042"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL91" TYPE="PARAGRAPH" ORDER="4">
+										<div ID="DIVL92" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00043"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL93" TYPE="PARAGRAPH" ORDER="5">
+										<div ID="DIVL94" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00044"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL95" TYPE="PARAGRAPH" ORDER="6">
+										<div ID="DIVL96" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00045"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL97" TYPE="PARAGRAPH" ORDER="7">
+										<div ID="DIVL98" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00046"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL99" TYPE="PARAGRAPH" ORDER="8">
+										<div ID="DIVL100" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00047"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL101" TYPE="PARAGRAPH" ORDER="9">
+										<div ID="DIVL102" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00048"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL103" TYPE="PARAGRAPH" ORDER="10">
+										<div ID="DIVL104" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00049"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL105" TYPE="PARAGRAPH" ORDER="11">
+										<div ID="DIVL106" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_TB00050"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL107" TYPE="SECTION" DMDID="MODSMD_SECTION1">
+							<div ID="DIVL108" TYPE="BODY">
+								<div ID="DIVL109" TYPE="BODY_CONTENT">
+									<div ID="DIVL110" TYPE="ADVERTISEMENT" ORDER="1" LABEL="Adv. 1 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00001"/>
+										</fptr>
+									</div>
+									<div ID="DIVL111" TYPE="ADVERTISEMENT" ORDER="2" LABEL="Adv. 2 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00002"/>
+										</fptr>
+									</div>
+									<div ID="DIVL112" TYPE="ADVERTISEMENT" ORDER="3" LABEL="Adv. 3 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00003"/>
+										</fptr>
+									</div>
+									<div ID="DIVL113" TYPE="ADVERTISEMENT" ORDER="4" LABEL="Adv. 4 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00004"/>
+										</fptr>
+									</div>
+									<div ID="DIVL114" TYPE="ADVERTISEMENT" ORDER="5" LABEL="Adv. 5 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00005"/>
+										</fptr>
+									</div>
+									<div ID="DIVL115" TYPE="ADVERTISEMENT" ORDER="6" LABEL="Adv. 6 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00006"/>
+										</fptr>
+									</div>
+									<div ID="DIVL116" TYPE="ADVERTISEMENT" ORDER="7" LABEL="Adv. 7 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00007"/>
+										</fptr>
+									</div>
+									<div ID="DIVL117" TYPE="ADVERTISEMENT" ORDER="8" LABEL="Adv. 8 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00008"/>
+										</fptr>
+									</div>
+									<div ID="DIVL118" TYPE="ADVERTISEMENT" ORDER="9" LABEL="Adv. 9 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00009"/>
+										</fptr>
+									</div>
+									<div ID="DIVL119" TYPE="ADVERTISEMENT" ORDER="10" LABEL="Adv. 10 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00010"/>
+										</fptr>
+									</div>
+									<div ID="DIVL120" TYPE="ADVERTISEMENT" ORDER="11" LABEL="Adv. 11 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00011"/>
+										</fptr>
+									</div>
+									<div ID="DIVL121" TYPE="ADVERTISEMENT" ORDER="12" LABEL="Adv. 12 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00012"/>
+										</fptr>
+									</div>
+									<div ID="DIVL122" TYPE="ADVERTISEMENT" ORDER="13" LABEL="Adv. 13 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00013"/>
+										</fptr>
+									</div>
+									<div ID="DIVL123" TYPE="ADVERTISEMENT" ORDER="14" LABEL="Adv. 14 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00014"/>
+										</fptr>
+									</div>
+									<div ID="DIVL124" TYPE="ADVERTISEMENT" ORDER="15" LABEL="Adv. 15 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00015"/>
+										</fptr>
+									</div>
+									<div ID="DIVL125" TYPE="ADVERTISEMENT" ORDER="16" LABEL="Adv. 16 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00016"/>
+										</fptr>
+									</div>
+									<div ID="DIVL126" TYPE="ADVERTISEMENT" ORDER="17" LABEL="Adv. 17 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00017"/>
+										</fptr>
+									</div>
+									<div ID="DIVL127" TYPE="ADVERTISEMENT" ORDER="18" LABEL="Adv. 18 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00018"/>
+										</fptr>
+									</div>
+									<div ID="DIVL128" TYPE="ADVERTISEMENT" ORDER="19" LABEL="Adv. 19 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00019"/>
+										</fptr>
+									</div>
+									<div ID="DIVL129" TYPE="ADVERTISEMENT" ORDER="20" LABEL="Adv. 20 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00020"/>
+										</fptr>
+									</div>
+									<div ID="DIVL130" TYPE="ADVERTISEMENT" ORDER="21" LABEL="Adv. 21 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00021"/>
+										</fptr>
+									</div>
+									<div ID="DIVL131" TYPE="ADVERTISEMENT" ORDER="22" LABEL="Adv. 22 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00022"/>
+										</fptr>
+									</div>
+									<div ID="DIVL132" TYPE="ADVERTISEMENT" ORDER="23" LABEL="Adv. 23 Page 1">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0001" BEGIN="P1_CB00023"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL133" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE3">
+							<div ID="DIVL134" TYPE="BODY">
+								<div ID="DIVL135" TYPE="BODY_CONTENT">
+									<div ID="DIVL136" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL137" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00001"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL138" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL139" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00002"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL140" TYPE="PARAGRAPH" ORDER="3">
+										<div ID="DIVL141" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00003"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL142" TYPE="PARAGRAPH" ORDER="4">
+										<div ID="DIVL143" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00004"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL144" TYPE="PARAGRAPH" ORDER="5">
+										<div ID="DIVL145" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00005"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL146" TYPE="PARAGRAPH" ORDER="6">
+										<div ID="DIVL147" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL148" TYPE="PARAGRAPH" ORDER="7">
+										<div ID="DIVL149" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00007"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL150" TYPE="PARAGRAPH" ORDER="8">
+										<div ID="DIVL151" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00008"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL152" TYPE="PARAGRAPH" ORDER="9">
+										<div ID="DIVL153" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00009"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL154" TYPE="PARAGRAPH" ORDER="10">
+										<div ID="DIVL155" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00010"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL156" TYPE="PARAGRAPH" ORDER="11">
+										<div ID="DIVL157" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00011"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL158" TYPE="PARAGRAPH" ORDER="12">
+										<div ID="DIVL159" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00012"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL160" TYPE="PARAGRAPH" ORDER="13">
+										<div ID="DIVL161" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00013"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL162" TYPE="PARAGRAPH" ORDER="14">
+										<div ID="DIVL163" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00014"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL164" TYPE="PARAGRAPH" ORDER="15">
+										<div ID="DIVL165" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00015"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL166" TYPE="PARAGRAPH" ORDER="16">
+										<div ID="DIVL167" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00016"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL168" TYPE="PARAGRAPH" ORDER="17">
+										<div ID="DIVL169" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00017"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL170" TYPE="PARAGRAPH" ORDER="18">
+										<div ID="DIVL171" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00018"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL172" TYPE="PARAGRAPH" ORDER="19">
+										<div ID="DIVL173" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00019"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL174" TYPE="PARAGRAPH" ORDER="20">
+										<div ID="DIVL175" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00020"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL176" TYPE="PARAGRAPH" ORDER="21">
+										<div ID="DIVL177" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00021"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL178" TYPE="PARAGRAPH" ORDER="22">
+										<div ID="DIVL179" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00022"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL180" TYPE="PARAGRAPH" ORDER="23">
+										<div ID="DIVL181" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00023"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL182" TYPE="PARAGRAPH" ORDER="24">
+										<div ID="DIVL183" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00024"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL184" TYPE="PARAGRAPH" ORDER="25">
+										<div ID="DIVL185" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00025"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL186" TYPE="PARAGRAPH" ORDER="26">
+										<div ID="DIVL187" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00026"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL188" TYPE="PARAGRAPH" ORDER="27">
+										<div ID="DIVL189" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00027"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL190" TYPE="PARAGRAPH" ORDER="28">
+										<div ID="DIVL191" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00028"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL192" TYPE="PARAGRAPH" ORDER="29">
+										<div ID="DIVL193" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00029"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL194" TYPE="PARAGRAPH" ORDER="30">
+										<div ID="DIVL195" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00030"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL196" TYPE="PARAGRAPH" ORDER="31">
+										<div ID="DIVL197" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00031"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL198" TYPE="PARAGRAPH" ORDER="32">
+										<div ID="DIVL199" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00032"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL200" TYPE="PARAGRAPH" ORDER="33">
+										<div ID="DIVL201" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00033"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL202" TYPE="PARAGRAPH" ORDER="34">
+										<div ID="DIVL203" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00034"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL204" TYPE="PARAGRAPH" ORDER="35">
+										<div ID="DIVL205" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00035"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL206" TYPE="PARAGRAPH" ORDER="36">
+										<div ID="DIVL207" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00036"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL208" TYPE="PARAGRAPH" ORDER="37">
+										<div ID="DIVL209" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00037"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL210" TYPE="PARAGRAPH" ORDER="38">
+										<div ID="DIVL211" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00038"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL212" TYPE="PARAGRAPH" ORDER="39">
+										<div ID="DIVL213" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00039"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL214" TYPE="PARAGRAPH" ORDER="40">
+										<div ID="DIVL215" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00040"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL216" TYPE="PARAGRAPH" ORDER="41">
+										<div ID="DIVL217" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00041"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL218" TYPE="PARAGRAPH" ORDER="42">
+										<div ID="DIVL219" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00042"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL220" TYPE="PARAGRAPH" ORDER="43">
+										<div ID="DIVL221" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00043"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL222" TYPE="PARAGRAPH" ORDER="44">
+										<div ID="DIVL223" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00044"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL224" TYPE="PARAGRAPH" ORDER="45">
+										<div ID="DIVL225" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00045"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL226" TYPE="PARAGRAPH" ORDER="46">
+										<div ID="DIVL227" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00046"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL228" TYPE="PARAGRAPH" ORDER="47">
+										<div ID="DIVL229" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00047"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL230" TYPE="PARAGRAPH" ORDER="48">
+										<div ID="DIVL231" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00048"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL232" TYPE="PARAGRAPH" ORDER="49">
+										<div ID="DIVL233" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00049"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL234" TYPE="PARAGRAPH" ORDER="50">
+										<div ID="DIVL235" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00050"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL236" TYPE="PARAGRAPH" ORDER="51">
+										<div ID="DIVL237" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00051"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL238" TYPE="PARAGRAPH" ORDER="52">
+										<div ID="DIVL239" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00052"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL240" TYPE="PARAGRAPH" ORDER="53">
+										<div ID="DIVL241" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00053"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL242" TYPE="PARAGRAPH" ORDER="54">
+										<div ID="DIVL243" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00054"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL244" TYPE="PARAGRAPH" ORDER="55">
+										<div ID="DIVL245" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00055"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL246" TYPE="PARAGRAPH" ORDER="56">
+										<div ID="DIVL247" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00056"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL248" TYPE="PARAGRAPH" ORDER="57">
+										<div ID="DIVL249" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00057"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL250" TYPE="PARAGRAPH" ORDER="58">
+										<div ID="DIVL251" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00058"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL252" TYPE="PARAGRAPH" ORDER="59">
+										<div ID="DIVL253" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00059"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL254" TYPE="PARAGRAPH" ORDER="60">
+										<div ID="DIVL255" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00060"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL256" TYPE="PARAGRAPH" ORDER="61">
+										<div ID="DIVL257" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00061"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL258" TYPE="PARAGRAPH" ORDER="62">
+										<div ID="DIVL259" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00062"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL260" TYPE="PARAGRAPH" ORDER="63">
+										<div ID="DIVL261" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00063"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL262" TYPE="PARAGRAPH" ORDER="64">
+										<div ID="DIVL263" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00064"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL264" TYPE="PARAGRAPH" ORDER="65">
+										<div ID="DIVL265" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00065"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL266" TYPE="PARAGRAPH" ORDER="66">
+										<div ID="DIVL267" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00066"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL268" TYPE="PARAGRAPH" ORDER="67">
+										<div ID="DIVL269" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00067"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL270" TYPE="PARAGRAPH" ORDER="68">
+										<div ID="DIVL271" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00068"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL272" TYPE="PARAGRAPH" ORDER="69">
+										<div ID="DIVL273" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00069"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL274" TYPE="PARAGRAPH" ORDER="70">
+										<div ID="DIVL275" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00070"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL276" TYPE="PARAGRAPH" ORDER="71">
+										<div ID="DIVL277" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00071"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL278" TYPE="PARAGRAPH" ORDER="72">
+										<div ID="DIVL279" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00072"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL280" TYPE="PARAGRAPH" ORDER="73">
+										<div ID="DIVL281" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00073"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL282" TYPE="PARAGRAPH" ORDER="74">
+										<div ID="DIVL283" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00074"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL284" TYPE="PARAGRAPH" ORDER="75">
+										<div ID="DIVL285" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00075"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL286" TYPE="PARAGRAPH" ORDER="76">
+										<div ID="DIVL287" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00076"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL288" TYPE="PARAGRAPH" ORDER="77">
+										<div ID="DIVL289" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00077"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL290" TYPE="PARAGRAPH" ORDER="78">
+										<div ID="DIVL291" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00078"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL292" TYPE="PARAGRAPH" ORDER="79">
+										<div ID="DIVL293" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00079"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL294" TYPE="PARAGRAPH" ORDER="80">
+										<div ID="DIVL295" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00080"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL296" TYPE="PARAGRAPH" ORDER="81">
+										<div ID="DIVL297" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00081"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL298" TYPE="PARAGRAPH" ORDER="82">
+										<div ID="DIVL299" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00082"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL300" TYPE="PARAGRAPH" ORDER="83">
+										<div ID="DIVL301" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00083"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL302" TYPE="PARAGRAPH" ORDER="84">
+										<div ID="DIVL303" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00084"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL304" TYPE="PARAGRAPH" ORDER="85">
+										<div ID="DIVL305" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00085"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL306" TYPE="PARAGRAPH" ORDER="86">
+										<div ID="DIVL307" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00086"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL308" TYPE="PARAGRAPH" ORDER="87">
+										<div ID="DIVL309" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00087"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL310" TYPE="PARAGRAPH" ORDER="88">
+										<div ID="DIVL311" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00088"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL312" TYPE="PARAGRAPH" ORDER="89">
+										<div ID="DIVL313" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00089"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL314" TYPE="PARAGRAPH" ORDER="90">
+										<div ID="DIVL315" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00090"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL316" TYPE="PARAGRAPH" ORDER="91">
+										<div ID="DIVL317" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00091"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL318" TYPE="PARAGRAPH" ORDER="92">
+										<div ID="DIVL319" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00092"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL320" TYPE="PARAGRAPH" ORDER="93">
+										<div ID="DIVL321" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00093"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL322" TYPE="PARAGRAPH" ORDER="94">
+										<div ID="DIVL323" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00094"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL324" TYPE="PARAGRAPH" ORDER="95">
+										<div ID="DIVL325" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00095"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL326" TYPE="PARAGRAPH" ORDER="96">
+										<div ID="DIVL327" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00096"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL328" TYPE="PARAGRAPH" ORDER="97">
+										<div ID="DIVL329" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00097"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL330" TYPE="PARAGRAPH" ORDER="98">
+										<div ID="DIVL331" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00098"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL332" TYPE="PARAGRAPH" ORDER="99">
+										<div ID="DIVL333" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00099"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL334" TYPE="PARAGRAPH" ORDER="100">
+										<div ID="DIVL335" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00100"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL336" TYPE="PARAGRAPH" ORDER="101">
+										<div ID="DIVL337" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00101"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL338" TYPE="PARAGRAPH" ORDER="102">
+										<div ID="DIVL339" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00102"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL340" TYPE="PARAGRAPH" ORDER="103">
+										<div ID="DIVL341" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00103"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL342" TYPE="PARAGRAPH" ORDER="104">
+										<div ID="DIVL343" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00104"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL344" TYPE="PARAGRAPH" ORDER="105">
+										<div ID="DIVL345" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00105"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL346" TYPE="PARAGRAPH" ORDER="106">
+										<div ID="DIVL347" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00106"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL348" TYPE="PARAGRAPH" ORDER="107">
+										<div ID="DIVL349" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00107"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL350" TYPE="PARAGRAPH" ORDER="108">
+										<div ID="DIVL351" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00108"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL352" TYPE="PARAGRAPH" ORDER="109">
+										<div ID="DIVL353" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00109"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL354" TYPE="PARAGRAPH" ORDER="110">
+										<div ID="DIVL355" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00110"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL356" TYPE="PARAGRAPH" ORDER="111">
+										<div ID="DIVL357" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00111"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL358" TYPE="PARAGRAPH" ORDER="112">
+										<div ID="DIVL359" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00112"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL360" TYPE="PARAGRAPH" ORDER="113">
+										<div ID="DIVL361" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00113"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL362" TYPE="PARAGRAPH" ORDER="114">
+										<div ID="DIVL363" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00114"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL364" TYPE="PARAGRAPH" ORDER="115">
+										<div ID="DIVL365" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00115"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL366" TYPE="PARAGRAPH" ORDER="116">
+										<div ID="DIVL367" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00116"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL368" TYPE="PARAGRAPH" ORDER="117">
+										<div ID="DIVL369" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00117"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL370" TYPE="PARAGRAPH" ORDER="118">
+										<div ID="DIVL371" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00118"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL372" TYPE="PARAGRAPH" ORDER="119">
+										<div ID="DIVL373" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00119"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL374" TYPE="PARAGRAPH" ORDER="120">
+										<div ID="DIVL375" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00120"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL376" TYPE="PARAGRAPH" ORDER="121">
+										<div ID="DIVL377" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00121"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL378" TYPE="PARAGRAPH" ORDER="122">
+										<div ID="DIVL379" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00122"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL380" TYPE="PARAGRAPH" ORDER="123">
+										<div ID="DIVL381" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00123"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL382" TYPE="PARAGRAPH" ORDER="124">
+										<div ID="DIVL383" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00124"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL384" TYPE="PARAGRAPH" ORDER="125">
+										<div ID="DIVL385" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00125"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL386" TYPE="PARAGRAPH" ORDER="126">
+										<div ID="DIVL387" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00126"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL388" TYPE="PARAGRAPH" ORDER="127">
+										<div ID="DIVL389" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00127"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL390" TYPE="PARAGRAPH" ORDER="128">
+										<div ID="DIVL391" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00128"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL392" TYPE="PARAGRAPH" ORDER="129">
+										<div ID="DIVL393" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00129"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL394" TYPE="PARAGRAPH" ORDER="130">
+										<div ID="DIVL395" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0002" BEGIN="P2_TB00130"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL396" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE4">
+							<div ID="DIVL397" TYPE="BODY">
+								<div ID="DIVL398" TYPE="BODY_CONTENT">
+									<div ID="DIVL399" TYPE="PARAGRAPH" ORDER="1">
+										<div ID="DIVL400" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00001"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL401" TYPE="PARAGRAPH" ORDER="2">
+										<div ID="DIVL402" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00002"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL403" TYPE="PARAGRAPH" ORDER="3">
+										<div ID="DIVL404" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00003"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL405" TYPE="PARAGRAPH" ORDER="4">
+										<div ID="DIVL406" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00004"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL407" TYPE="PARAGRAPH" ORDER="5">
+										<div ID="DIVL408" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00005"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL409" TYPE="PARAGRAPH" ORDER="6">
+										<div ID="DIVL410" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00006"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL411" TYPE="PARAGRAPH" ORDER="7">
+										<div ID="DIVL412" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00007"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL413" TYPE="PARAGRAPH" ORDER="8">
+										<div ID="DIVL414" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00008"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL415" TYPE="PARAGRAPH" ORDER="9">
+										<div ID="DIVL416" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00009"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL417" TYPE="PARAGRAPH" ORDER="10">
+										<div ID="DIVL418" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00010"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL419" TYPE="PARAGRAPH" ORDER="11">
+										<div ID="DIVL420" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00011"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL421" TYPE="PARAGRAPH" ORDER="12">
+										<div ID="DIVL422" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00012"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL423" TYPE="PARAGRAPH" ORDER="13">
+										<div ID="DIVL424" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00013"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL425" TYPE="PARAGRAPH" ORDER="14">
+										<div ID="DIVL426" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00014"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL427" TYPE="PARAGRAPH" ORDER="15">
+										<div ID="DIVL428" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00015"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL429" TYPE="PARAGRAPH" ORDER="16">
+										<div ID="DIVL430" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00016"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL431" TYPE="PARAGRAPH" ORDER="17">
+										<div ID="DIVL432" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00017"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL433" TYPE="PARAGRAPH" ORDER="18">
+										<div ID="DIVL434" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00018"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL435" TYPE="PARAGRAPH" ORDER="19">
+										<div ID="DIVL436" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00019"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL437" TYPE="PARAGRAPH" ORDER="20">
+										<div ID="DIVL438" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00020"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL439" TYPE="PARAGRAPH" ORDER="21">
+										<div ID="DIVL440" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00021"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL441" TYPE="PARAGRAPH" ORDER="22">
+										<div ID="DIVL442" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00022"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL443" TYPE="PARAGRAPH" ORDER="23">
+										<div ID="DIVL444" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00023"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL445" TYPE="PARAGRAPH" ORDER="24">
+										<div ID="DIVL446" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00024"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL447" TYPE="PARAGRAPH" ORDER="25">
+										<div ID="DIVL448" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00025"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL449" TYPE="PARAGRAPH" ORDER="26">
+										<div ID="DIVL450" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00026"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL451" TYPE="PARAGRAPH" ORDER="27">
+										<div ID="DIVL452" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00027"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL453" TYPE="PARAGRAPH" ORDER="28">
+										<div ID="DIVL454" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00028"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL455" TYPE="PARAGRAPH" ORDER="29">
+										<div ID="DIVL456" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00029"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL457" TYPE="PARAGRAPH" ORDER="30">
+										<div ID="DIVL458" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00030"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL459" TYPE="PARAGRAPH" ORDER="31">
+										<div ID="DIVL460" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00031"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL461" TYPE="PARAGRAPH" ORDER="32">
+										<div ID="DIVL462" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00032"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL463" TYPE="PARAGRAPH" ORDER="33">
+										<div ID="DIVL464" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00033"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL465" TYPE="PARAGRAPH" ORDER="34">
+										<div ID="DIVL466" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00034"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL467" TYPE="PARAGRAPH" ORDER="35">
+										<div ID="DIVL468" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00035"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL469" TYPE="PARAGRAPH" ORDER="36">
+										<div ID="DIVL470" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00036"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL471" TYPE="PARAGRAPH" ORDER="37">
+										<div ID="DIVL472" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00037"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL473" TYPE="PARAGRAPH" ORDER="38">
+										<div ID="DIVL474" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00038"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL475" TYPE="PARAGRAPH" ORDER="39">
+										<div ID="DIVL476" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00039"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL477" TYPE="PARAGRAPH" ORDER="40">
+										<div ID="DIVL478" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00040"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL479" TYPE="PARAGRAPH" ORDER="41">
+										<div ID="DIVL480" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00041"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL481" TYPE="PARAGRAPH" ORDER="42">
+										<div ID="DIVL482" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00042"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL483" TYPE="PARAGRAPH" ORDER="43">
+										<div ID="DIVL484" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00043"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL485" TYPE="PARAGRAPH" ORDER="44">
+										<div ID="DIVL486" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00044"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL487" TYPE="PARAGRAPH" ORDER="45">
+										<div ID="DIVL488" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00045"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL489" TYPE="PARAGRAPH" ORDER="46">
+										<div ID="DIVL490" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00046"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL491" TYPE="PARAGRAPH" ORDER="47">
+										<div ID="DIVL492" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00047"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL493" TYPE="PARAGRAPH" ORDER="48">
+										<div ID="DIVL494" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00048"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL495" TYPE="PARAGRAPH" ORDER="49">
+										<div ID="DIVL496" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00049"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL497" TYPE="PARAGRAPH" ORDER="50">
+										<div ID="DIVL498" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00050"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL499" TYPE="PARAGRAPH" ORDER="51">
+										<div ID="DIVL500" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00051"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL501" TYPE="PARAGRAPH" ORDER="52">
+										<div ID="DIVL502" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00052"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL503" TYPE="PARAGRAPH" ORDER="53">
+										<div ID="DIVL504" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00053"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL505" TYPE="PARAGRAPH" ORDER="54">
+										<div ID="DIVL506" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00054"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL507" TYPE="PARAGRAPH" ORDER="55">
+										<div ID="DIVL508" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00055"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL509" TYPE="PARAGRAPH" ORDER="56">
+										<div ID="DIVL510" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00056"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL511" TYPE="PARAGRAPH" ORDER="57">
+										<div ID="DIVL512" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00057"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL513" TYPE="PARAGRAPH" ORDER="58">
+										<div ID="DIVL514" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00058"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL515" TYPE="PARAGRAPH" ORDER="59">
+										<div ID="DIVL516" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00059"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL517" TYPE="PARAGRAPH" ORDER="60">
+										<div ID="DIVL518" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00060"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL519" TYPE="PARAGRAPH" ORDER="61">
+										<div ID="DIVL520" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00061"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL521" TYPE="PARAGRAPH" ORDER="62">
+										<div ID="DIVL522" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00062"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL523" TYPE="PARAGRAPH" ORDER="63">
+										<div ID="DIVL524" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00063"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL525" TYPE="PARAGRAPH" ORDER="64">
+										<div ID="DIVL526" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00064"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL527" TYPE="PARAGRAPH" ORDER="65">
+										<div ID="DIVL528" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00065"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL529" TYPE="PARAGRAPH" ORDER="66">
+										<div ID="DIVL530" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00066"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL531" TYPE="PARAGRAPH" ORDER="67">
+										<div ID="DIVL532" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00067"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL533" TYPE="PARAGRAPH" ORDER="68">
+										<div ID="DIVL534" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00068"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL535" TYPE="PARAGRAPH" ORDER="69">
+										<div ID="DIVL536" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00069"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL537" TYPE="PARAGRAPH" ORDER="70">
+										<div ID="DIVL538" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00070"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL539" TYPE="PARAGRAPH" ORDER="71">
+										<div ID="DIVL540" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00071"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL541" TYPE="PARAGRAPH" ORDER="72">
+										<div ID="DIVL542" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00072"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL543" TYPE="PARAGRAPH" ORDER="73">
+										<div ID="DIVL544" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00073"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL545" TYPE="PARAGRAPH" ORDER="74">
+										<div ID="DIVL546" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00074"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL547" TYPE="PARAGRAPH" ORDER="75">
+										<div ID="DIVL548" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00075"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL549" TYPE="PARAGRAPH" ORDER="76">
+										<div ID="DIVL550" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00076"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL551" TYPE="PARAGRAPH" ORDER="77">
+										<div ID="DIVL552" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00077"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL553" TYPE="PARAGRAPH" ORDER="78">
+										<div ID="DIVL554" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00078"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL555" TYPE="PARAGRAPH" ORDER="79">
+										<div ID="DIVL556" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00079"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL557" TYPE="PARAGRAPH" ORDER="80">
+										<div ID="DIVL558" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00080"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL559" TYPE="PARAGRAPH" ORDER="81">
+										<div ID="DIVL560" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00081"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL561" TYPE="PARAGRAPH" ORDER="82">
+										<div ID="DIVL562" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00082"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL563" TYPE="PARAGRAPH" ORDER="83">
+										<div ID="DIVL564" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00083"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL565" TYPE="PARAGRAPH" ORDER="84">
+										<div ID="DIVL566" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00084"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL567" TYPE="PARAGRAPH" ORDER="85">
+										<div ID="DIVL568" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00085"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL569" TYPE="PARAGRAPH" ORDER="86">
+										<div ID="DIVL570" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00086"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL571" TYPE="PARAGRAPH" ORDER="87">
+										<div ID="DIVL572" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00087"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL573" TYPE="PARAGRAPH" ORDER="88">
+										<div ID="DIVL574" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00088"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL575" TYPE="PARAGRAPH" ORDER="89">
+										<div ID="DIVL576" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00089"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL577" TYPE="PARAGRAPH" ORDER="90">
+										<div ID="DIVL578" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00090"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL579" TYPE="PARAGRAPH" ORDER="91">
+										<div ID="DIVL580" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00091"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL581" TYPE="PARAGRAPH" ORDER="92">
+										<div ID="DIVL582" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00092"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL583" TYPE="PARAGRAPH" ORDER="93">
+										<div ID="DIVL584" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00093"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL585" TYPE="PARAGRAPH" ORDER="94">
+										<div ID="DIVL586" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00094"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL587" TYPE="PARAGRAPH" ORDER="95">
+										<div ID="DIVL588" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00095"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL589" TYPE="PARAGRAPH" ORDER="96">
+										<div ID="DIVL590" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00096"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL591" TYPE="PARAGRAPH" ORDER="97">
+										<div ID="DIVL592" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00097"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL593" TYPE="PARAGRAPH" ORDER="98">
+										<div ID="DIVL594" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00098"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL595" TYPE="PARAGRAPH" ORDER="99">
+										<div ID="DIVL596" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00099"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL597" TYPE="PARAGRAPH" ORDER="100">
+										<div ID="DIVL598" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00100"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL599" TYPE="PARAGRAPH" ORDER="101">
+										<div ID="DIVL600" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00101"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL601" TYPE="PARAGRAPH" ORDER="102">
+										<div ID="DIVL602" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00102"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL603" TYPE="PARAGRAPH" ORDER="103">
+										<div ID="DIVL604" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00103"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL605" TYPE="PARAGRAPH" ORDER="104">
+										<div ID="DIVL606" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00104"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL607" TYPE="PARAGRAPH" ORDER="105">
+										<div ID="DIVL608" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00105"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL609" TYPE="PARAGRAPH" ORDER="106">
+										<div ID="DIVL610" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00106"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL611" TYPE="PARAGRAPH" ORDER="107">
+										<div ID="DIVL612" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00107"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL613" TYPE="PARAGRAPH" ORDER="108">
+										<div ID="DIVL614" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00108"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL615" TYPE="PARAGRAPH" ORDER="109">
+										<div ID="DIVL616" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00109"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL617" TYPE="PARAGRAPH" ORDER="110">
+										<div ID="DIVL618" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00110"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL619" TYPE="PARAGRAPH" ORDER="111">
+										<div ID="DIVL620" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00111"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL621" TYPE="PARAGRAPH" ORDER="112">
+										<div ID="DIVL622" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00112"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL623" TYPE="PARAGRAPH" ORDER="113">
+										<div ID="DIVL624" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00113"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL625" TYPE="PARAGRAPH" ORDER="114">
+										<div ID="DIVL626" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00114"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL627" TYPE="PARAGRAPH" ORDER="115">
+										<div ID="DIVL628" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00115"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL629" TYPE="PARAGRAPH" ORDER="116">
+										<div ID="DIVL630" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00116"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL631" TYPE="PARAGRAPH" ORDER="117">
+										<div ID="DIVL632" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00117"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL633" TYPE="PARAGRAPH" ORDER="118">
+										<div ID="DIVL634" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00118"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL635" TYPE="PARAGRAPH" ORDER="119">
+										<div ID="DIVL636" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00119"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL637" TYPE="PARAGRAPH" ORDER="120">
+										<div ID="DIVL638" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00120"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL639" TYPE="PARAGRAPH" ORDER="121">
+										<div ID="DIVL640" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00121"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL641" TYPE="PARAGRAPH" ORDER="122">
+										<div ID="DIVL642" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00122"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL643" TYPE="PARAGRAPH" ORDER="123">
+										<div ID="DIVL644" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00123"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL645" TYPE="PARAGRAPH" ORDER="124">
+										<div ID="DIVL646" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00124"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL647" TYPE="PARAGRAPH" ORDER="125">
+										<div ID="DIVL648" TYPE="TEXT">
+											<fptr>
+												<seq>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00125"/>
+													<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00126"/>
+												</seq>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL649" TYPE="PARAGRAPH" ORDER="126">
+										<div ID="DIVL650" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00127"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL651" TYPE="PARAGRAPH" ORDER="127">
+										<div ID="DIVL652" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00128"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL653" TYPE="PARAGRAPH" ORDER="128">
+										<div ID="DIVL654" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00129"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL655" TYPE="PARAGRAPH" ORDER="129">
+										<div ID="DIVL656" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00130"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL657" TYPE="PARAGRAPH" ORDER="130">
+										<div ID="DIVL658" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00131"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL659" TYPE="PARAGRAPH" ORDER="131">
+										<div ID="DIVL660" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00132"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL661" TYPE="PARAGRAPH" ORDER="132">
+										<div ID="DIVL662" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00133"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL663" TYPE="PARAGRAPH" ORDER="133">
+										<div ID="DIVL664" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00134"/>
+											</fptr>
+										</div>
+									</div>
+									<div ID="DIVL665" TYPE="PARAGRAPH" ORDER="134">
+										<div ID="DIVL666" TYPE="TEXT">
+											<fptr>
+												<area BETYPE="IDREF" FILEID="ALTO0003" BEGIN="P3_TB00135"/>
+											</fptr>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div ID="DIVL667" TYPE="ARTICLE" DMDID="MODSMD_ARTICLE5" LABEL="PLAN of THE CITY OF WELLINGTON Port Nicholson NEW ZEALAND 1841">
+							<div ID="DIVL668" TYPE="HEADING">
+								<div ID="DIVL669" TYPE="TITLE">
+									<fptr>
+										<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_TB00001"/>
+									</fptr>
+								</div>
+							</div>
+							<div ID="DIVL670" TYPE="BODY">
+								<div ID="DIVL671" TYPE="ILLUSTRATION" ORDER="1" DMDID="MODSMD_PICT1" LABEL="Untitled">
+									<div ID="DIVL672" TYPE="IMAGE">
+										<fptr>
+											<area BETYPE="IDREF" FILEID="ALTO0004" BEGIN="P4_CB00001"/>
+										</fptr>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</structMap>
+</mets>
