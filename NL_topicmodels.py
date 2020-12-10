@@ -56,7 +56,7 @@ def topics_and_keywords(model):
     for (topic_num, words) in model.show_topics(num_topics=num_topics):
         wp = model.show_topic(topic_num)
         topic_keywords = ", ".join([word for word, prop in wp])
-        topic_kws[topic_num] = words
+        topic_kws[topic_num] = topic_keywords
     return topic_kws
 
 
@@ -86,7 +86,8 @@ def topic_proportions(items_df, num_topics):
         # add to collection for all docuemnts.
         for k, v in item_topic_props.items():
             current_value = topic_props.get(k, [])
-            topic_props[k] = current_value.append(v)
+            current_value.append(v)
+            topic_props[k] = current_value
 
     for k, v in topic_props.items():
         items_df[k] = v
