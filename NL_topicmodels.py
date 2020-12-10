@@ -40,7 +40,12 @@ class NL_corpus():
             )
         self.items = self.items.join(bags_df)
 
-# TODO: Add Length method
+    def __len__(self):
+        """Returns number of corpus items."""
+        return len(self.items)
+
+
+
 
 def topics_and_keywords(model):
     """
