@@ -17,11 +17,16 @@ class NL_corpus():
     def __init__(self, corpus_df, dictionary):
         self.items = corpus_df
         self.dictionary = dictionary
-        self.generate_bow()
+        if 'BOW' not in self.items.columns:
+            self.generate_bow()
 
     def __iter__(self):
         for bag in self.items['BOW']:
             yield bag
+
+    def __len__(self):
+        """Returns number of corpus items."""
+        return len(self.items)
 
     def generate_bow(self):
         """
@@ -40,9 +45,6 @@ class NL_corpus():
             )
         self.items = self.items.join(bags_df)
 
-    def __len__(self):
-        """Returns number of corpus items."""
-        return len(self.items)
 
 
 
@@ -61,13 +63,14 @@ def topics_and_keywords(model):
 
 
 
-# This seems like far too many for loops!
+# This seems like too many for loops!
 def topic_proportions(items_df, num_topics):
     """
     Given an items dataframe with a 'Modelled' column and the total number
-    of topics, return a copy of the corpus items dataframe augmented with
+    of topics, augment the corpus items dataframe with
     scores for each of the topics in the model in individual columns.
     """
+
     topic_props = {}
     for model_output in items_df['Modelled']:
         # Create dictionary to store proportions of each topic. Initially
@@ -90,6 +93,29 @@ def topic_proportions(items_df, num_topics):
             topic_props[k] = current_value
 
     for k, v in topic_props.items():
-        items_df[k] = v
+        items_df[f'Topic {k}'] = v
 
     return items_df
+
+
+
+def topic_df(dataframe, topic_number, cutoff):
+    """Given dataframe enriched with values for each topic in the model,
+    return a new dataframe with columns for newspaper, date, text, tokenised
+    text and topic proportion for a given topic and for documents whose
+    topic proportion is greater than or equal to the cutoff.
+    """
+    topic_df = dataframe[[
+        'Newspaper',
+        'Date',
+        'Title',
+        'Text',
+        'Tokenised',
+        topic_number
+    ]]
+    topic_df = topic_df[topic_df[topic_number]>=cutoff].sort_values(
+        by=topic_number,
+        ascending=False
+    )
+
+    return topic_df

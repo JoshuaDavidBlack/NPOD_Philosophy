@@ -9,6 +9,8 @@ Contains helper functions for usings NLOD dataset.
 import xml.etree.ElementTree as ET
 import glob
 import os.path
+import re
+import textwrap
 import pandas as pd
 import ast
 from nltk.corpus import stopwords
@@ -20,7 +22,8 @@ STOPS = set(stopwords.words())
 NS = {'mets':'http://www.loc.gov/METS/'}
 
 def issue2articles(filepath):
-    """Given string containing filepath to issue, return plain text
+    """
+    Given string containing filepath to issue, return plain text
     of articles contained in issue.
 
     Filepath should be to folder with name of form {publication code}_{date}.
@@ -162,11 +165,54 @@ def process_block(block_strings):
     return total_string
 
 
+
 def tokenise_and_stop(text):
-    """Given text as list of text blocks, returned text tokenized and
+    """
+    Given text as list of text blocks, returned text tokenized and
     stopped.
     """
     total_string = ' '.join(text)
     tokens = TOKENIZER.tokenize(total_string.lower())
     stopped_tokens = [i for i in tokens if not i in STOPS]
     return stopped_tokens
+
+
+
+def print_text(index, dataframe):
+    """
+    Given index, return string containing heading and body text.
+    Assumes dataframe contains a 'Text' column containing lists of
+    strings as entries as well as 'Title', 'Newspaper' columns
+    containing strings and a 'Date' column containing integers.
+    """
+    newspaper = dataframe.loc[index, 'Newspaper']
+    date = dataframe.loc[index, 'Date']
+    title = dataframe.loc[index, 'Title']
+    text_blocks = dataframe.loc[index, 'Text']
+    wrapped_blocks = []
+    for block in text_blocks:
+        wrapped_string = textwrap.fill(block, width=80)
+        wrapped_blocks.append(wrapped_string)
+    text = '\n\n'.join(wrapped_blocks)
+    article_string = f'{title}\n{newspaper} - {date}\n\n{text}'
+
+    print(article_string)
+
+
+
+def search_text(dataframe, re_string):
+    """
+    Given dataframe with 'Text' column as described above, search for
+    re string within 'Text' column content and return article codes
+    containing the search string.
+
+    This can be very slow. OK on starter pack dataset though.
+    """
+    article_codes = []
+    for row in dataframe.itertuples():
+        for string in row.Text:
+            match = re.search(re_string, string)
+            if match:
+                article_codes.append(row.Index)
+
+    return article_codes
