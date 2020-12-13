@@ -15,6 +15,7 @@ import pandas as pd
 import ast
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
+from IPython.display import HTML
 
 TOKENIZER = RegexpTokenizer(r"\w[\w\']+\w")
 STOPS = set(stopwords.words())
@@ -197,6 +198,35 @@ def print_text(index, dataframe):
     article_string = f'{title}\n{newspaper} - {date}\n\n{text}'
 
     print(article_string)
+
+
+
+def html_text(index, dataframe, boldface=None):
+    """
+    Given article code, return html formatted text
+    containing both heading and body text. Optionally, boldface
+    matches of the boldface regex expression.
+    Assumes dataframe contains a 'Text' column containing lists of
+    strings as entries as well as 'Title', 'Newspaper' columns
+    containing strings and a 'Date' column containing integers.
+    """
+    newspaper = dataframe.loc[index, 'Newspaper']
+    date = dataframe.loc[index, 'Date']
+    title = dataframe.loc[index, 'Title']
+    text_blocks = dataframe.loc[index, 'Text']
+    text = ''
+    for block in text_blocks:
+        tagged_string = f'<p>{block}</p>'
+        text += tagged_string
+
+    if boldface:
+        match = re.search(boldface, text)
+        if match:
+            text = re.sub(boldface, f'<b>{match.group(0)}</b>', text)
+
+    article_string = f'<h3>{title}</h3><h4>{newspaper} - {date}</h4>{text}'
+
+    return HTML(article_string)
 
 
 
