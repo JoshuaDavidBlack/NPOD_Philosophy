@@ -1,7 +1,18 @@
+"""
+NL_topicmodels.py
+Joshua Black
+black.joshuad@gmail.com
+
+This file contains a class definition for use with gensim and pyLDAvis along
+with a series of helper functions related to the use of topic models
+to investigate the NL Paper's Past Newspaper Dataset.
+"""
+
 from nltk.corpus import brown, stopwords
 from nltk.tokenize import RegexpTokenizer
 from gensim import corpora
 import pandas as pd
+import matplotlib.pyplot as plt
 
 class NL_corpus():
     """
@@ -58,7 +69,7 @@ def topics_and_keywords(model):
     for (topic_num, words) in model.show_topics(num_topics=num_topics):
         wp = model.show_topic(topic_num)
         topic_keywords = ", ".join([word for word, prop in wp])
-        topic_kws[topic_num] = topic_keywords
+        topic_kws[f'Topic {topic_num+1}'] = topic_keywords
     return topic_kws
 
 
@@ -93,7 +104,7 @@ def topic_proportions(items_df, num_topics):
             topic_props[k] = current_value
 
     for k, v in topic_props.items():
-        items_df[f'Topic {k}'] = v
+        items_df[f'Topic {k+1}'] = v
 
     return items_df
 
@@ -119,3 +130,34 @@ def topic_df(dataframe, topic_number, cutoff):
     )
 
     return topic_df
+
+
+
+def topic_proportions_chart(index_label, dataframe):
+    """
+    Given index label and dataframe with 'Modelled' column
+    produce a pie chart of the topic proportions for the corresponding
+    article.
+    """
+
+    if index_label in dataframe.index:
+        topic_props_list = dataframe.loc[index_label, 'Modelled']
+
+        labels = []
+        sizes = []
+        for topic_and_prop in topic_props_list:
+            topic, prop = topic_and_prop
+            labels.append(topic+1)
+            sizes.append(prop)
+
+        #Now Plot
+        fig1, ax1 = plt.subplots()
+        ax1.pie(sizes, labels=labels,
+            shadow=True, startangle=90)
+        ax1.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+        ax1.set_title(f"Topic Proportions ({index_label})")
+
+        plt.show()
+
+    else:
+        print('No matching index label')
