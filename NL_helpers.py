@@ -11,11 +11,17 @@ import glob
 import os.path
 import re
 import textwrap
-import pandas as pd
+import html
 import ast
+
+import pandas as pd
+import numpy as np
+
 from nltk.corpus import stopwords
 from nltk.tokenize import RegexpTokenizer
+
 from IPython.display import HTML
+from ipywidgets import interact, interactive, fixed, interact_manual
 
 TOKENIZER = RegexpTokenizer(r"\w[\w\']+\w")
 STOPS = set(stopwords.words())
@@ -141,7 +147,7 @@ def parse_pages(pages):
     dictionary with 'P1', 'P2', etc as keys, and the
     root element of each page as values.
     """
-    # Gives list memebers in order 0001, 0002 etc.
+    # Gives list members in order 0001, 0002 etc.
     pages = sorted(pages)
     page_roots = {}
     for i, page in enumerate(pages):
@@ -166,7 +172,7 @@ def process_block(block_strings):
     return total_string
 
 
-
+# TO DO: Split in two
 def tokenise_and_stop(text):
     """
     Given text as list of text blocks, returned text tokenized and
@@ -209,14 +215,18 @@ def html_text(index, dataframe, boldface=None):
     Assumes dataframe contains a 'Text' column containing lists of
     strings as entries as well as 'Title', 'Newspaper' columns
     containing strings and a 'Date' column containing integers.
+
+    I only escape html characters in the title and text. Newspaper and
+    data should not have any html in them. Leaving them unescaped
+    increases the chance of finding any such errors.
     """
     newspaper = dataframe.loc[index, 'Newspaper']
     date = dataframe.loc[index, 'Date']
-    title = dataframe.loc[index, 'Title']
+    title = html.escape(dataframe.loc[index, 'Title'])
     text_blocks = dataframe.loc[index, 'Text']
     text = ''
     for block in text_blocks:
-        tagged_string = f'<p>{block}</p>'
+        tagged_string = f'<p>{html.escape(block)}</p>'
         text += tagged_string
 
     if boldface:
@@ -230,7 +240,7 @@ def html_text(index, dataframe, boldface=None):
 
 
 
-def search_text(dataframe, re_string):
+def search_text(dataframe, re_string, lower=False):
     """
     Given dataframe with 'Text' column as described above, search for
     re string within 'Text' column content and return article codes
@@ -238,11 +248,168 @@ def search_text(dataframe, re_string):
 
     This can be very slow. OK on starter pack dataset though.
     """
-    article_codes = []
+    article_codes = set()
     for row in dataframe.itertuples():
         for string in row.Text:
-            match = re.search(re_string, string)
-            if match:
-                article_codes.append(row.Index)
 
-    return article_codes
+            if lower:
+                string = string.lower()
+
+            match = re.search(re_string, string)
+
+            if match:
+                article_codes.add(row.Index)
+
+    return list(article_codes)
+
+
+
+def blocks2string(text_blocks):
+    """Given textblocks return blocks as single string."""
+    return '\n'.join(text_blocks)
+
+
+
+def interactive_text_search(dataframe, search_term):
+    """
+    Produce interactive display to inspect result of searching for a given
+    regex pattern in the 'Text' column of the given dataframe.
+    """
+    search_indices = search_text(dataframe, search_term)
+    print(f'Article matches: {len(search_indices)}')
+    interact(
+        html_text,
+        index=search_indices,
+        boldface=fixed(search_term),
+        dataframe=fixed(dataframe)
+    )
+
+
+
+def log_dice_coocs(term, dtm, ttm, num_coocs):
+    """Return num_coocs with log dice significance stat given search term
+    document-term matrix and term-term matrix. Return as
+    pandas series with terms as indices and significances as values..
+    ttm and dtm are pandas dataframes."""
+    all_term_occurrences = dtm.sum(axis=1)
+    term_occurrences = all_term_occurrences[term]
+    cooccurrences = ttm.loc[term]
+    log_dice = np.log(2 * cooccurrences / (term_occurrences + all_term_occurrences))
+    log_dice = log_dice.sort_values(ascending=False)[0:num_coocs]
+    return log_dice
+
+
+def ml_coocs(term, dtm, ttm, num_coocs):
+    """Return num_coocs with mutual likelihood sig score given search term
+    document-term matrix and term-term matrix. Return as
+    pandas series with terms as indices and significances as values..
+    ttm and dtm are pandas dataframes."""
+    num_documents = len(dtm.columns)
+    all_term_occurrences = dtm.sum(axis=1)
+    term_occurrences = all_term_occurrences[term]
+    cooccurrences = ttm.loc[term]
+    ml = np.log(num_documents * cooccurrences / (term_occurrences * all_term_occurrences))
+    ml = ml.sort_values(ascending=False)[0:num_coocs]
+    return ml
+
+
+
+def network_dict(term, stat, dtm, ttm, num_coocs):
+    """Produce network dataframe."""
+
+    network = {}
+    if stat == 'log dice':
+        term_coocs = log_dice_coocs(term, dtm, ttm, num_coocs)
+    elif stat == 'ml':
+        term_coocs = ml_coocs(term, dtm, ttm, num_coocs)
+
+    for item in term_coocs.iteritems():
+        if item[0] != term:
+            from_list = network.get('source', [])
+            from_list.append(term)
+            network['source'] = from_list
+            to_list = network.get('target', [])
+            to_list.append(item[0])
+            network['target'] = to_list
+            weight_list = network.get('weight', [])
+            weight_list.append(item[1])
+            network['weight'] = weight_list
+
+        if stat == 'log dice':
+            item_coocs = log_dice_coocs(item[0], dtm, ttm, num_coocs)
+        elif stat == 'ml':
+            item_coocs = ml_coocs(item[0], dtm, ttm, num_coocs)
+        for sub_item in item_coocs.iteritems():
+            if item[0] != sub_item[0]:
+                from_list = network.get('source', [])
+                from_list.append(item[0])
+                network['source'] = from_list
+                to_list = network.get('target', [])
+                to_list.append(sub_item[0])
+                network['target'] = to_list
+                weight_list = network.get('weight', [])
+                weight_list.append(sub_item[1])
+                network['weight'] = weight_list
+
+    return network
+
+
+
+def network_dash(term, stat, dtm, ttm, num_coocs, sec_coocs):
+    """Produce network dataframe formatted for Dash cytoscope."""
+
+    if stat == 'log dice':
+        term_coocs = log_dice_coocs(term, dtm, ttm, num_coocs)
+    elif stat == 'ml':
+        term_coocs = ml_coocs(term, dtm, ttm, num_coocs)
+
+    nodes = []
+    node_names = set([term])
+    edges = []
+
+    for item in term_coocs.iteritems():
+        node_names.add(item[0])
+        if item[0] != term:
+            edges.append({'data': {
+                'source': term,
+                'target': item[0],
+                'weight': item[1]}
+                }
+            )
+
+        if stat == 'log dice':
+            item_coocs = log_dice_coocs(item[0], dtm, ttm, sec_coocs)
+        elif stat == 'ml':
+            item_coocs = ml_coocs(item[0], dtm, ttm, sec_coocs)
+        for sub_item in item_coocs.iteritems():
+            node_names.add(sub_item[0])
+            if item[0] != sub_item[0]:
+                edges.append({'data': {
+                    'source': item[0],
+                    'target': sub_item[0],
+                    'weight': sub_item[1]}
+                    }
+                )
+
+    for name in node_names:
+        nodes.append({'data': {
+            'id': name,
+            'label': name,
+            'size': node_degree(name, edges)}
+            }
+        )
+
+    network = nodes + edges
+
+    return network
+
+
+
+def node_degree(name, edges):
+    """Helper for dash network. Returns degree of node given
+    list of edges formatted for Dash cytoscape."""
+    degree=0
+    for edge in edges:
+        if edge['data']['source'] == name or edge['data']['target'] == name:
+            degree += 1
+    return degree

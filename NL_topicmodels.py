@@ -45,8 +45,8 @@ class NL_corpus():
         it to item dataframe as column 'BOW'.
         """
         bags = {}
-        for index, value in self.items.iterrows():
-            tokenised = value[4]
+        for index, value in self.items['Tokenised'].iteritems():
+            tokenised = value
             bags[index] = [self.dictionary.doc2bow(tokenised)]
         bags_df = pd.DataFrame.from_dict(
             bags,
@@ -161,3 +161,14 @@ def topic_proportions_chart(index_label, dataframe):
 
     else:
         print('No matching index label')
+
+
+
+def add_title_and_date(df):
+    """Add 'Newspaper' and 'Date' column to dataframe with
+    'Text' and 'Tokenised' columns. Rearrange dataframe to
+    have ['Newspaper', 'Date', 'Title', 'Text', 'Tokenised']
+    order."""
+    df['Newspaper'] = df.index.map(lambda x: x[0:x.find('_')])
+    df['Date'] = df.index.map(lambda x: x[x.find('_')+1:x.find('_')+9])
+    df = df[['Newspaper', 'Date', 'Title', 'Text', 'Tokenised']]
