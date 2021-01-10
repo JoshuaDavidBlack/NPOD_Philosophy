@@ -413,3 +413,38 @@ def node_degree(name, edges):
         if edge['data']['source'] == name or edge['data']['target'] == name:
             degree += 1
     return degree
+
+
+
+def filter_propns(set_of_words):
+    """
+    Given set of proper nouns as detected by Spacy, strip whitespace, and
+    return set of words of length greater than two and which start
+    with a capitol letter followed by lower case letters.
+    """
+    filtered_set = set()
+    for word in set_of_words:
+        word = word.strip()
+        match = bool(re.match('[A-Z][a-z]+', word))
+        word_wanted = len(word) > 2 and match
+        if word_wanted:
+            filtered_set.add(word)
+
+    return filtered_set
+
+
+def filter_entities(set_of_strings):
+    """
+    Given set of named entities as detected by Spacy, strip whitespace,
+    make lower case and return set of words of length greater than two and
+    which do not contain any punctuation characters (excluding apostrophes).
+    """
+    filtered_set = set()
+    for entity in set_of_strings:
+        entity = entity.strip().lower()
+        match = bool(re.match("[a-z ']+$", entity))
+        entity_wanted = len(entity) > 2 and match
+        if entity_wanted:
+            filtered_set.add(entity)
+
+    return filtered_set

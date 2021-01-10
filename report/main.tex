@@ -1,0 +1,40 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{dirtree}
+\usepackage{float}
+\usepackage{minted}
+\usepackage{graphicx}
+\usepackage[a4paper, total={6in, 8in}]{geometry}
+\usepackage[section]{placeins}
+
+\usepackage{biblatex}
+\addbibresource{topic_modelling.bib}
+
+\usepackage{mathpazo, palatino}  %Check font in chapter style section too
+\usepackage[LGR, T1]{fontenc}
+\usepackage{bm}
+
+\renewcommand\thesection{\arabic{section}}
+\renewcommand\thesubsection{\thesection.\alph{subsection}}
+\renewcommand\thesubsubsection{\thesubsection.\roman{subsubsection}}
+
+\newcommand{\ttt}[1]{{\texttt{#1}}}
+
+\title{\textbf{STAT601 Project Report} \\ Using Data Science Methods to
+Investigate Philosophical Discourse in Early New Zealand Newspapers}
+\author{Joshua Black (46086757)}
+\date{Due: 22/01/21}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+  Data science methods provide new opportunities for humanists to explore
+  large-scale corpora of texts. This report presents my summer project work
+  with the UC Arts Digital Lab exploring philosophical discourse in the
+  recently released National Library Papers Past Open Data Pilot dataset,
+  containing early New Zealand newspapers up to 1900.
+\end{abstract}
+
+\end{document}
