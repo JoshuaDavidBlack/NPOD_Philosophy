@@ -1,0 +1,1012 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{cooccurrence-tutorial}{online}{}
+      \name{author}{1}{}{%
+        {{hash=b38efa7a16f85cc9b4a3dd4d2346a6f2}{%
+           family={{Andreas Niekler and Gregor Wiedemann}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b38efa7a16f85cc9b4a3dd4d2346a6f2}
+      \strng{fullhash}{b38efa7a16f85cc9b4a3dd4d2346a6f2}
+      \strng{bibnamehash}{b38efa7a16f85cc9b4a3dd4d2346a6f2}
+      \strng{authorbibnamehash}{b38efa7a16f85cc9b4a3dd4d2346a6f2}
+      \strng{authornamehash}{b38efa7a16f85cc9b4a3dd4d2346a6f2}
+      \strng{authorfullhash}{b38efa7a16f85cc9b4a3dd4d2346a6f2}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{{accessed 22/01/2021}}
+      \field{title}{{Tutorial 5: Co-occurrence analysis}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb {https://tm4ss.github.io/docs/Tutorial_5_Co-occurrence.html}
+      \endverb
+      \verb{url}
+      \verb %7Bhttps://tm4ss.github.io/docs/Tutorial_5_Co-occurrence.html%7D
+      \endverb
+    \endentry
+    \entry{ballantyne-2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=e6acf06618de76983777e349af3a27e0}{%
+           family={Ballantyne},
+           familyi={B\bibinitperiod},
+           given={Tony},
+           giveni={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{e6acf06618de76983777e349af3a27e0}
+      \strng{fullhash}{e6acf06618de76983777e349af3a27e0}
+      \strng{bibnamehash}{e6acf06618de76983777e349af3a27e0}
+      \strng{authorbibnamehash}{e6acf06618de76983777e349af3a27e0}
+      \strng{authornamehash}{e6acf06618de76983777e349af3a27e0}
+      \strng{authorfullhash}{e6acf06618de76983777e349af3a27e0}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Reading the Newspaper in Colonial Otago}
+      \field{issn}{2324-3740}
+      \field{journaltitle}{The Journal of New Zealand Studies}
+      \field{number}{12}
+      \field{title}{Reading the Newspaper in Colonial Otago}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.26686/jnzs.v0i12.488
+      \endverb
+      \verb{urlraw}
+      \verb https://ojs.victoria.ac.nz/jnzs/article/view/488
+      \endverb
+      \verb{url}
+      \verb https://ojs.victoria.ac.nz/jnzs/article/view/488
+      \endverb
+    \endentry
+    \entry{weatherson}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0fdc181e0f26a9c0fdcee10a73d09e3f}{%
+           family={{Brian Weatherson}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0fdc181e0f26a9c0fdcee10a73d09e3f}
+      \strng{fullhash}{0fdc181e0f26a9c0fdcee10a73d09e3f}
+      \strng{bibnamehash}{0fdc181e0f26a9c0fdcee10a73d09e3f}
+      \strng{authorbibnamehash}{0fdc181e0f26a9c0fdcee10a73d09e3f}
+      \strng{authornamehash}{0fdc181e0f26a9c0fdcee10a73d09e3f}
+      \strng{authorfullhash}{0fdc181e0f26a9c0fdcee10a73d09e3f}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{A History of Philosophy Journals: Volume 1: Evidence from Topic Modeling, 1876-2013}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb http://www-personal.umich.edu/~weath/lda/
+      \endverb
+      \verb{url}
+      \verb http://www-personal.umich.edu/~weath/lda/
+      \endverb
+    \endentry
+    \entry{ppnodp-copyright}{online}{}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labeltitlesource}{title}
+      \field{title}{{Copyright and re-use}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/copyright-and-re-use-papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/copyright-and-re-use-papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{crane-2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=0d68871f4eabdb51a28dd838a31b2ef0}{%
+           family={Crane},
+           familyi={C\bibinitperiod},
+           given={Rosi},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{0d68871f4eabdb51a28dd838a31b2ef0}
+      \strng{fullhash}{0d68871f4eabdb51a28dd838a31b2ef0}
+      \strng{bibnamehash}{0d68871f4eabdb51a28dd838a31b2ef0}
+      \strng{authorbibnamehash}{0d68871f4eabdb51a28dd838a31b2ef0}
+      \strng{authornamehash}{0d68871f4eabdb51a28dd838a31b2ef0}
+      \strng{authorfullhash}{0d68871f4eabdb51a28dd838a31b2ef0}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2324-3740}
+      \field{journaltitle}{The Journal of New Zealand Studies}
+      \field{number}{15}
+      \field{title}{Ä dangerous visionary\"? The Lectures of the Evolutionist T.J. Parker}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.26686/jnzs.v0i15.2007
+      \endverb
+      \verb{urlraw}
+      \verb https://ojs.victoria.ac.nz/jnzs/article/view/2007
+      \endverb
+      \verb{url}
+      \verb https://ojs.victoria.ac.nz/jnzs/article/view/2007
+      \endverb
+    \endentry
+    \entry{education-act}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{labeltitlesource}{title}
+      \field{title}{Education Act passed into law}
+      \field{urlyear}{}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://nzhistory.govt.nz/page/education-act-passed-law
+      \endverb
+      \verb{url}
+      \verb https://nzhistory.govt.nz/page/education-act-passed-law
+      \endverb
+    \endentry
+    \entry{glymour}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c1ac60b180fcd13ba2916a77d80dde83}{%
+           family={Glymour},
+           familyi={G\bibinitperiod},
+           given={Clark\bibnamedelima N.},
+           giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{publisher}{1}{%
+        {Princeton University Press Princeton, N.J}%
+      }
+      \strng{namehash}{c1ac60b180fcd13ba2916a77d80dde83}
+      \strng{fullhash}{c1ac60b180fcd13ba2916a77d80dde83}
+      \strng{bibnamehash}{c1ac60b180fcd13ba2916a77d80dde83}
+      \strng{authorbibnamehash}{c1ac60b180fcd13ba2916a77d80dde83}
+      \strng{authornamehash}{c1ac60b180fcd13ba2916a77d80dde83}
+      \strng{authorfullhash}{c1ac60b180fcd13ba2916a77d80dde83}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{069107240 0691100772}
+      \field{title}{Theory and evidence / Clark Glymour}
+      \field{type}{Book}
+      \field{year}{1980}
+      \field{pages}{xi\bibrangessep 383 p. :}
+      \range{pages}{-1}
+    \endentry
+    \entry{oddie-1992}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=b496fa3fe97c3fe59d31ad4f02bd51d0}{%
+           family={{Graham Oddie and Roy W. Perret}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=b496fa3fe97c3fe59d31ad4f02bd51d0}{%
+           family={{Graham Oddie and Roy W. Perret}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Oxford}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{fullhash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{bibnamehash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{authorbibnamehash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{authornamehash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{authorfullhash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{editorbibnamehash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{editornamehash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \strng{editorfullhash}{b496fa3fe97c3fe59d31ad4f02bd51d0}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Justice, Ethics and New Zealand Society}}
+      \field{title}{{Introduction}}
+      \field{year}{1992}
+    \endentry
+    \entry{harris2020array}{article}{}
+      \name{author}{26}{}{%
+        {{hash=db2b4761cc46be347b418e68660c9554}{%
+           family={Harris},
+           familyi={H\bibinitperiod},
+           given={Charles\bibnamedelima R.},
+           giveni={C\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b053969d2c6a9ec8689980fb6463cd56}{%
+           family={Millman},
+           familyi={M\bibinitperiod},
+           given={K.\bibnamedelimi Jarrod},
+           giveni={K\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=ffdf585e387a556eb8f88aded7a25079}{%
+           family={Walt},
+           familyi={W\bibinitperiod},
+           given={St{'{e}}fan\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+        {{hash=646fbfe08374cc41c2f9bd971d8c4725}{%
+           family={Gommers},
+           familyi={G\bibinitperiod},
+           given={Ralf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=18703a2bb6a62484483c193a212da2f8}{%
+           family={Virtanen},
+           familyi={V\bibinitperiod},
+           given={Pauli},
+           giveni={P\bibinitperiod}}}%
+        {{hash=9fd9ed8466bbb96364ae008f2a665e6e}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+        {{hash=4321feefe3d5715c6fe12639d2a1f7f1}{%
+           family={Wieser},
+           familyi={W\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod}}}%
+        {{hash=e8d1b0c2bff88b6bf54e2e934e2853f6}{%
+           family={Taylor},
+           familyi={T\bibinitperiod},
+           given={Julian},
+           giveni={J\bibinitperiod}}}%
+        {{hash=265437a4424f0b845118651d7d04ab93}{%
+           family={Berg},
+           familyi={B\bibinitperiod},
+           given={Sebastian},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e4d23819637a961e0e598e1c82a8f10d}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={Nathaniel\bibnamedelima J.},
+           giveni={N\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=9ad1d38817acd2f00cb7f324ec7d37ea}{%
+           family={Kern},
+           familyi={K\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8ae844f84614690134ff5d8252fdc430}{%
+           family={Picus},
+           familyi={P\bibinitperiod},
+           given={Matti},
+           giveni={M\bibinitperiod}}}%
+        {{hash=4a22828b76006f42d747b699d2ef5167}{%
+           family={Hoyer},
+           familyi={H\bibinitperiod},
+           given={Stephan},
+           giveni={S\bibinitperiod}}}%
+        {{hash=10aba85d08ce22d724b21878b93f590a}{%
+           family={Kerkwijk},
+           familyi={K\bibinitperiod},
+           given={Marten\bibnamedelima H.},
+           giveni={M\bibinitperiod\bibinitdelim H\bibinitperiod},
+           prefix={van},
+           prefixi={v\bibinitperiod}}}%
+        {{hash=626cc151613864abeb653c0d8172d98c}{%
+           family={Brett},
+           familyi={B\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a989405517bbf67ae7b16be1d03c0081}{%
+           family={Haldane},
+           familyi={H\bibinitperiod},
+           given={Allan},
+           giveni={A\bibinitperiod}}}%
+        {{hash=47a8a82c6ec3b5387ac5ce93f33e5a14}{%
+           family={R{'{ı}}o},
+           familyi={R\bibinitperiod},
+           given={Jaime\bibnamedelima Fern{'{a}}ndez},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           prefix={del},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=76256cb9e4c31e0a4744b1b49a6199f4}{%
+           family={Wiebe},
+           familyi={W\bibinitperiod},
+           given={Mark},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3d6efaaa3d9682e20787eb06ff70a3d7}{%
+           family={Peterson},
+           familyi={P\bibinitperiod},
+           given={Pearu},
+           giveni={P\bibinitperiod}}}%
+        {{hash=60ae74b6ee73d706a90d321eac4a7fed}{%
+           family={G{'{e}}rard-Marchant},
+           familyi={G\bibinithyphendelim M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+        {{hash=22fcbc93c38819e962968aad3e3cba7f}{%
+           family={Sheppard},
+           familyi={S\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=fbb0c40f5d70be8ce47ce9daafdf5749}{%
+           family={Reddy},
+           familyi={R\bibinitperiod},
+           given={Tyler},
+           giveni={T\bibinitperiod}}}%
+        {{hash=4c7e4c94b846fa41e2fc0a88e0dc656d}{%
+           family={Weckesser},
+           familyi={W\bibinitperiod},
+           given={Warren},
+           giveni={W\bibinitperiod}}}%
+        {{hash=c588b2e35e75bba896fc5677afb52fa9}{%
+           family={Abbasi},
+           familyi={A\bibinitperiod},
+           given={Hameer},
+           giveni={H\bibinitperiod}}}%
+        {{hash=52e2684c111b194e1f15fa06b0ce4544}{%
+           family={Gohlke},
+           familyi={G\bibinitperiod},
+           given={Christoph},
+           giveni={C\bibinitperiod}}}%
+        {{hash=d500f4849030f34359cdb3e1513acf83}{%
+           family={Oliphant},
+           familyi={O\bibinitperiod},
+           given={Travis\bibnamedelima E.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media {LLC}}%
+      }
+      \strng{namehash}{754b3dec5e203c19b9a5798bbb902222}
+      \strng{fullhash}{20a3c5c8fa30441726cd563f2f6d242e}
+      \strng{bibnamehash}{754b3dec5e203c19b9a5798bbb902222}
+      \strng{authorbibnamehash}{754b3dec5e203c19b9a5798bbb902222}
+      \strng{authornamehash}{754b3dec5e203c19b9a5798bbb902222}
+      \strng{authorfullhash}{20a3c5c8fa30441726cd563f2f6d242e}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature}
+      \field{month}{9}
+      \field{number}{7825}
+      \field{title}{Array programming with {NumPy}}
+      \field{volume}{585}
+      \field{year}{2020}
+      \field{pages}{357\bibrangedash 362}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/s41586-020-2649-2
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1038/s41586-020-2649-2
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1038/s41586-020-2649-2
+      \endverb
+    \endentry
+    \entry{spacy}{software}{}
+      \name{author}{4}{}{%
+        {{hash=31cf0cd70714219d39b46b0f8aae95f9}{%
+           family={Honnibal},
+           familyi={H\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=47c9fa7dcc4eb3484a88f4bb42655895}{%
+           family={Montani},
+           familyi={M\bibinitperiod},
+           given={Ines},
+           giveni={I\bibinitperiod}}}%
+        {{hash=22ec3e1be0d721ed1c94e7caf62cc97c}{%
+           family={Van\bibnamedelima Landeghem},
+           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Sofie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=536eccdf07a1897181ba997c05a422d4}{%
+           family={Boyd},
+           familyi={B\bibinitperiod},
+           given={Adriane},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Zenodo}%
+      }
+      \strng{namehash}{bed6dea97e0930261a0f2a5da0281ca5}
+      \strng{fullhash}{b7f18943f7c193724ff37ef2d05dc1d5}
+      \strng{bibnamehash}{bed6dea97e0930261a0f2a5da0281ca5}
+      \strng{authorbibnamehash}{bed6dea97e0930261a0f2a5da0281ca5}
+      \strng{authornamehash}{bed6dea97e0930261a0f2a5da0281ca5}
+      \strng{authorfullhash}{b7f18943f7c193724ff37ef2d05dc1d5}
+      \field{sortinit}{H}
+      \field{sortinithash}{6db6145dae8dc9e1271a8d556090b50a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{spaCy: Industrial-strength Natural Language Processing in Python}}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.5281/zenodo.1212303
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.5281/zenodo.1212303
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.5281/zenodo.1212303
+      \endverb
+    \endentry
+    \entry{plotly}{online}{}
+      \name{author}{1}{}{%
+        {{hash=58d97f81a838b6f24e70acfc881a04d3}{%
+           family={Inc.},
+           familyi={I\bibinitperiod},
+           given={Plotly\bibnamedelima Technologies},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {https://plot.ly}%
+      }
+      \list{publisher}{1}{%
+        {Plotly Technologies Inc.}%
+      }
+      \strng{namehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{fullhash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{bibnamehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authorbibnamehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authornamehash}{58d97f81a838b6f24e70acfc881a04d3}
+      \strng{authorfullhash}{58d97f81a838b6f24e70acfc881a04d3}
+      \field{sortinit}{I}
+      \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Collaborative data science}
+    \endentry
+    \entry{marc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=9565002c760d5f54e633221fa5e570e3}{%
+           family={{Library of Congress}},
+           familyi={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{9565002c760d5f54e633221fa5e570e3}
+      \strng{fullhash}{9565002c760d5f54e633221fa5e570e3}
+      \strng{bibnamehash}{9565002c760d5f54e633221fa5e570e3}
+      \strng{authorbibnamehash}{9565002c760d5f54e633221fa5e570e3}
+      \strng{authornamehash}{9565002c760d5f54e633221fa5e570e3}
+      \strng{authorfullhash}{9565002c760d5f54e633221fa5e570e3}
+      \field{sortinit}{L}
+      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{{accessed 22/01/2021}}
+      \field{title}{{MARC 21 XML Schema}}
+      \verb{urlraw}
+      \verb {http://www.loc.gov/standards/marcxml/}
+      \endverb
+      \verb{url}
+      \verb %7Bhttp://www.loc.gov/standards/marcxml/%7D
+      \endverb
+    \endentry
+    \entry{davies-2014}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=e01b44e10f320e1aced64a0f152a8973}{%
+           family={{Martin Davies and Stein Helgeby}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=096da29b10471576ea1e2a38e213dbfb}{%
+           family={{Graham Oppy and N. N. Trakakis}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \strng{namehash}{e01b44e10f320e1aced64a0f152a8973}
+      \strng{fullhash}{e01b44e10f320e1aced64a0f152a8973}
+      \strng{bibnamehash}{e01b44e10f320e1aced64a0f152a8973}
+      \strng{authorbibnamehash}{e01b44e10f320e1aced64a0f152a8973}
+      \strng{authornamehash}{e01b44e10f320e1aced64a0f152a8973}
+      \strng{authorfullhash}{e01b44e10f320e1aced64a0f152a8973}
+      \strng{editorbibnamehash}{096da29b10471576ea1e2a38e213dbfb}
+      \strng{editornamehash}{096da29b10471576ea1e2a38e213dbfb}
+      \strng{editorfullhash}{096da29b10471576ea1e2a38e213dbfb}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{History of Philosophy in Australia and New Zealand}}
+      \field{title}{{Idealist Origins: 1920s and Before}}
+      \field{year}{2014}
+      \field{pages}{{15\bibrangedash 54}}
+      \range{pages}{-1}
+    \endentry
+    \entry{moretti}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d0be84d1a685285766208d2d31db38b8}{%
+           family={{Moretti, Franco}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \strng{namehash}{d0be84d1a685285766208d2d31db38b8}
+      \strng{fullhash}{d0be84d1a685285766208d2d31db38b8}
+      \strng{bibnamehash}{d0be84d1a685285766208d2d31db38b8}
+      \strng{authorbibnamehash}{d0be84d1a685285766208d2d31db38b8}
+      \strng{authornamehash}{d0be84d1a685285766208d2d31db38b8}
+      \strng{authorfullhash}{d0be84d1a685285766208d2d31db38b8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Distant Reading}}
+      \field{year}{2013}
+    \endentry
+    \entry{wordcloud}{online}{}
+      \name{author}{1}{}{%
+        {{hash=8a6c9c0890b96766b8cc7c152d7b86a8}{%
+           family={Mueller},
+           familyi={M\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a6c9c0890b96766b8cc7c152d7b86a8}
+      \strng{fullhash}{8a6c9c0890b96766b8cc7c152d7b86a8}
+      \strng{bibnamehash}{8a6c9c0890b96766b8cc7c152d7b86a8}
+      \strng{authorbibnamehash}{8a6c9c0890b96766b8cc7c152d7b86a8}
+      \strng{authornamehash}{8a6c9c0890b96766b8cc7c152d7b86a8}
+      \strng{authorfullhash}{8a6c9c0890b96766b8cc7c152d7b86a8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Word Cloud}
+      \field{urlyear}{}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://amueller.github.io/word_cloud/index.html
+      \endverb
+      \verb{url}
+      \verb https://amueller.github.io/word_cloud/index.html
+      \endverb
+    \endentry
+    \entry{pp-about}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
+           family={{National Library}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \field{extraname}{1}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{About Papers Past}}
+      \field{urlyear}{}
+      \verb{urlraw}
+      \verb https://paperspast.natlib.govt.nz/about
+      \endverb
+      \verb{url}
+      \verb https://paperspast.natlib.govt.nz/about
+      \endverb
+    \endentry
+    \entry{ppnodp-data-standards}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
+           family={{National Library}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \field{extraname}{2}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Data standards}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/data-standards-papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/data-standards-papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{ppnodp}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
+           family={{National Library}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \field{extraname}{3}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Papers Past newspaper open data pilot}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{ppnodp-projects}{online}{}
+      \name{author}{1}{}{%
+        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
+           family={{National Library}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
+      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
+      \field{extraname}{4}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Projects}}
+      \field{urlyear}{}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/projects-papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/projects-papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{logdice}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0901245a280bb6a9a9b44bf54ade167a}{%
+           family={{Pavel Rychlý}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=68005a40928abe2ca82d3c83a9bdaf9a}{%
+           family={{P. Sojka and A. Horák}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Brno}%
+      }
+      \list{publisher}{1}{%
+        {Masaryk University}%
+      }
+      \strng{namehash}{0901245a280bb6a9a9b44bf54ade167a}
+      \strng{fullhash}{0901245a280bb6a9a9b44bf54ade167a}
+      \strng{bibnamehash}{0901245a280bb6a9a9b44bf54ade167a}
+      \strng{authorbibnamehash}{0901245a280bb6a9a9b44bf54ade167a}
+      \strng{authornamehash}{0901245a280bb6a9a9b44bf54ade167a}
+      \strng{authorfullhash}{0901245a280bb6a9a9b44bf54ade167a}
+      \strng{editorbibnamehash}{68005a40928abe2ca82d3c83a9bdaf9a}
+      \strng{editornamehash}{68005a40928abe2ca82d3c83a9bdaf9a}
+      \strng{editorfullhash}{68005a40928abe2ca82d3c83a9bdaf9a}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{RASLAN 2008: Recent Advances in Slavonic Natural Language Processing}}
+      \field{title}{{A Lexicographer-Friendly Association Score}}
+      \field{year}{2008}
+    \endentry
+    \entry{scikit-learn}{article}{}
+      \name{author}{16}{}{%
+        {{hash=6e96fec0d63277626bb324bd28cdecb7}{%
+           family={Pedregosa},
+           familyi={P\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+        {{hash=b99c2df2144dc5ee09317a7833dea42d}{%
+           family={Varoquaux},
+           familyi={V\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+        {{hash=955f19cea89ae97bb7936078898e6255}{%
+           family={Gramfort},
+           familyi={G\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=2787869c9954c1d4e9891098995feb75}{%
+           family={Michel},
+           familyi={M\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=86d47ab9ca1a9dae108b4d4a0418c679}{%
+           family={Thirion},
+           familyi={T\bibinitperiod},
+           given={B.},
+           giveni={B\bibinitperiod}}}%
+        {{hash=d42f9e9cec95da1dad2232eac74982ab}{%
+           family={Grisel},
+           familyi={G\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=8bd8ef25258dd2311f92df23fe71ecf7}{%
+           family={Blondel},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=a5ee41fa92b9e425806e1773853f1932}{%
+           family={Prettenhofer},
+           familyi={P\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+        {{hash=0c808557734e8929976d1f06f99c4ff2}{%
+           family={Weiss},
+           familyi={W\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=9662a6ea01596c6dd450817ccac81c4a}{%
+           family={Dubourg},
+           familyi={D\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=39e81a3e2193b954680a0ab847a0bb55}{%
+           family={Vanderplas},
+           familyi={V\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=14c4a498c032f77d0b83f86c710dd50e}{%
+           family={Passos},
+           familyi={P\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=dc075b18fb4710a1a37b258804c57efe}{%
+           family={Cournapeau},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=67ec0e8add781665a43010c9559111e9}{%
+           family={Brucher},
+           familyi={B\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=dcb3918f09eb8785e6b212a907cc37cf}{%
+           family={Perrot},
+           familyi={P\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ab20fcf381cd45daa82417c6fc595051}{%
+           family={Duchesnay},
+           familyi={D\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{fullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \strng{bibnamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authorbibnamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authornamehash}{3a097aa3ebf2b8c2acf988341dde9710}
+      \strng{authorfullhash}{7a67607c66e4af944b5f16461d6d0a87}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Machine Learning Research}
+      \field{title}{{Scikit-learn: Machine Learning in Python }}
+      \field{volume}{12}
+      \field{year}{2011}
+      \field{pages}{2825\bibrangedash 2830}
+      \range{pages}{6}
+    \endentry
+    \entry{bruce-liberty}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labeltitlesource}{title}
+      \field{issue}{3101}
+      \field{journaltitle}{{Bruce Herald}}
+      \field{title}{{Personal Liberty}}
+      \field{volume}{30}
+      \field{year}{1899}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb {https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1}
+      \endverb
+      \verb{url}
+      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1%7D
+      \endverb
+    \endentry
+    \entry{clothing-example}{article}{}
+      \field{sortinit}{P}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labeltitlesource}{title}
+      \field{issue}{5101}
+      \field{journaltitle}{{Daily Southern Cross}}
+      \field{title}{{POLICE COURT.—Saturday. [Before Thomas Beckham Esq., R.M.]}}
+      \field{volume}{29}
+      \field{year}{1873}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb {https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1}
+      \endverb
+      \verb{url}
+      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1%7D
+      \endverb
+    \endentry
+    \entry{suicide-example}{article}{}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Auckland Star}}
+      \field{title}{{Random Shots}}
+      \field{year}{1886}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb {https://paperspast.natlib.govt.nz/newspapers/AS18860821.2.33}
+      \endverb
+      \verb{url}
+      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/AS18860821.2.33%7D
+      \endverb
+    \endentry
+    \entry{gensim}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{hash=b18678c3d1080b2d17429891ff481948}{%
+           family={{Ř}eh{ů}{ř}ek},
+           familyi={Ř\bibinitperiod},
+           given={Radim},
+           giveni={R\bibinitperiod}}}%
+        {{hash=6279e9bacedcff3b6605bcd9faaaf41c}{%
+           family={Sojka},
+           familyi={S\bibinitperiod},
+           given={Petr},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {Valletta, Malta}%
+      }
+      \list{publisher}{1}{%
+        {ELRA}%
+      }
+      \strng{namehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{fullhash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{bibnamehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{authorbibnamehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{authornamehash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \strng{authorfullhash}{0c7724ed4f55cbb86419c913d469aa5c}
+      \field{sortinit}{Ř}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks}}
+      \field{month}{5}
+      \field{note}{\url{http://is.muni.cz/publication/884893/en}}
+      \field{title}{{Software Framework for Topic Modelling with Large Corpora}}
+      \field{year}{2010}
+      \field{pages}{45\bibrangedash 50}
+      \range{pages}{6}
+    \endentry
+    \entry{bird-2009}{book}{}
+      \name{author}{1}{}{%
+        {{hash=a08ced960fe8ffe2ef4f491d0d890a31}{%
+           family={{Steven Bird, Edward Loper and Ewan Klein}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Sebastopol}%
+      }
+      \strng{namehash}{a08ced960fe8ffe2ef4f491d0d890a31}
+      \strng{fullhash}{a08ced960fe8ffe2ef4f491d0d890a31}
+      \strng{bibnamehash}{a08ced960fe8ffe2ef4f491d0d890a31}
+      \strng{authorbibnamehash}{a08ced960fe8ffe2ef4f491d0d890a31}
+      \strng{authornamehash}{a08ced960fe8ffe2ef4f491d0d890a31}
+      \strng{authorfullhash}{a08ced960fe8ffe2ef4f491d0d890a31}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Natural Language Processing with Python}}
+      \field{year}{2009}
+    \endentry
+    \entry{oxford-god}{article}{}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Oxford Observer}}
+      \field{title}{{Theological Debate}}
+      \field{year}{1892}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb {https://paperspast.natlib.govt.nz/newspapers/OO18921224.2.5}
+      \endverb
+      \verb{url}
+      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/OO18921224.2.5%7D
+      \endverb
+    \endentry
+    \entry{mets-alto}{online}{}
+      \name{author}{1}{}{%
+        {{hash=adb1e8bb42f9ac9d21d55f341d2f8f7a}{%
+           family={{Veridian Software}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{adb1e8bb42f9ac9d21d55f341d2f8f7a}
+      \strng{fullhash}{adb1e8bb42f9ac9d21d55f341d2f8f7a}
+      \strng{bibnamehash}{adb1e8bb42f9ac9d21d55f341d2f8f7a}
+      \strng{authorbibnamehash}{adb1e8bb42f9ac9d21d55f341d2f8f7a}
+      \strng{authornamehash}{adb1e8bb42f9ac9d21d55f341d2f8f7a}
+      \strng{authorfullhash}{adb1e8bb42f9ac9d21d55f341d2f8f7a}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{{accessed 22/01/2021}}
+      \field{title}{{What is METS/ALTO?}}
+      \verb{urlraw}
+      \verb {https://veridiansoftware.com/knowledge-base/metsalto/}
+      \endverb
+      \verb{url}
+      \verb %7Bhttps://veridiansoftware.com/knowledge-base/metsalto/%7D
+      \endverb
+    \endentry
+    \entry{zhang-2004}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=19dbc5beae2d592ebad24f7b07c64e57}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Harry},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \strng{fullhash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \strng{bibnamehash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \strng{authorbibnamehash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \strng{authornamehash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \strng{authorfullhash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Seventeenth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2004}
+      \field{month}{01}
+      \field{title}{The Optimality of Naive Bayes}
+      \field{volume}{2}
+      \field{year}{2004}
+    \endentry
+  \enddatalist
+  \missing{ballantyne-2011}
+  \missing{dupree}
+  \missing{gregory}
+  \missing{islr}
+  \missing{moore}
+  \missing{wood-2014}
+\endrefsection
+\endinput
+

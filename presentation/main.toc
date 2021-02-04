@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Problem}{12}{0}{1}
+\beamer@sectionintoc {2}{Method}{53}{0}{2}
+\beamer@sectionintoc {3}{Results}{125}{0}{3}
+\beamer@sectionintoc {4}{Upshot}{148}{0}{4}

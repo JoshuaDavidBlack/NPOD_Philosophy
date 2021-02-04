@@ -192,7 +192,7 @@ def process_and_collect(path):
 
 t0 = time.time()
 
-for sub_group in range(7, 8): # Changed to 7 as fifth run failed on eighth group
+for sub_group in range(8):
     balls = TARBALLS[sub_group * 207: (sub_group+1)*207]
     num_balls = len(balls)
     all_dfs = {}

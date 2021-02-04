@@ -1,184 +1,184 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.7)  7 JAN 2021 23:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.15)  4 FEB 2021 00:19
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
 **main
 (./main.tex
-LaTeX2e <2020-10-01> patch level 1
-L3 programming layer <2020-10-05> xparse <2020-03-03>
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 2
+L3 programming layer <2020-02-14>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count175
-\c@section=\count176
-\c@subsection=\count177
-\c@subsubsection=\count178
-\c@paragraph=\count179
-\c@subparagraph=\count180
-\c@figure=\count181
-\c@table=\count182
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen138
+\bibindent=\dimen134
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/dirtree/dirtree.sty
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.sty
 Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/dirtree/dirtree.tex
+(/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.tex
 `dirtree' v0.32, 2012/12/11 (jcc)
-\DT@offset=\dimen139
-\DT@width=\dimen140
-\DT@sep=\dimen141
-\DT@all=\dimen142
-\DT@rulewidth=\dimen143
-\DT@dotwidth=\dimen144
-\DTbaselineskip=\dimen145
-\DT@counti=\count183
-\DT@countii=\count184
-\DT@countiii=\count185
-\DT@countiv=\count186
-\DT@indent=\dimen146
-\DT@parskip=\dimen147
-\DT@baselineskip=\dimen148
+\DT@offset=\dimen135
+\DT@width=\dimen136
+\DT@sep=\dimen137
+\DT@all=\dimen138
+\DT@rulewidth=\dimen139
+\DT@dotwidth=\dimen140
+\DTbaselineskip=\dimen141
+\DT@counti=\count175
+\DT@countii=\count176
+\DT@countiii=\count177
+\DT@countiv=\count178
+\DT@indent=\dimen142
+\DT@parskip=\dimen143
+\DT@baselineskip=\dimen144
 )
 File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/float/float.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count187
-\float@exts=\toks17
-\float@box=\box47
-\@float@everytoks=\toks18
-\@floatcapt=\box48
+\c@float@type=\count179
+\float@exts=\toks16
+\float@box=\box45
+\@float@everytoks=\toks17
+\@floatcapt=\box46
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/minted/minted.sty
+(/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
 Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks19
+\KV@toks@=\toks18
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/fvextra/fvextra.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fvextra/fvextra.sty
 Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count188
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count180
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
-Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count189
+(/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count181
 \FV@InFile=\read2
-\FV@TabBox=\box49
-\c@FancyVerbLine=\count190
-\FV@StepNumber=\count191
+\FV@TabBox=\box47
+\c@FancyVerbLine=\count182
+\FV@StepNumber=\count183
 \FV@OutFile=\write3
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/upquote/upquote.sty
+(/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/lineno/lineno.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count192
-\output=\toks20
-\linenoprevgraf=\count193
-\linenumbersep=\dimen149
-\linenumberwidth=\dimen150
-\c@linenumber=\count194
-\c@pagewiselinenumber=\count195
-\c@LN@truepage=\count196
-\c@internallinenumber=\count197
-\c@internallinenumbers=\count198
-\quotelinenumbersep=\dimen151
-\bframerule=\dimen152
-\bframesep=\dimen153
-\bframebox=\box50
+\linenopenalty=\count184
+\output=\toks19
+\linenoprevgraf=\count185
+\linenumbersep=\dimen145
+\linenumberwidth=\dimen146
+\c@linenumber=\count186
+\c@pagewiselinenumber=\count187
+\c@LN@truepage=\count188
+\c@internallinenumber=\count189
+\c@internallinenumbers=\count190
+\quotelinenumbersep=\dimen147
+\bframerule=\dimen148
+\bframesep=\dimen149
+\bframebox=\box48
 LaTeX Info: Redefining \\ on input line 3056.
 )
-\c@FV@TrueTabGroupLevel=\count199
-\c@FV@TrueTabCounter=\count266
-\FV@TabBox@Group=\box51
+\c@FV@TrueTabGroupLevel=\count191
+\c@FV@TrueTabCounter=\count192
+\FV@TabBox@Group=\box49
 \FV@TmpLength=\skip49
-\c@FV@HighlightLinesStart=\count267
-\c@FV@HighlightLinesStop=\count268
-\FV@LoopCount=\count269
-\FV@NCharsBox=\box52
-\FV@BreakIndent=\dimen154
-\FV@BreakIndentNChars=\count270
-\FV@BreakSymbolSepLeft=\dimen155
-\FV@BreakSymbolSepLeftNChars=\count271
-\FV@BreakSymbolSepRight=\dimen156
-\FV@BreakSymbolSepRightNChars=\count272
-\FV@BreakSymbolIndentLeft=\dimen157
-\FV@BreakSymbolIndentLeftNChars=\count273
-\FV@BreakSymbolIndentRight=\dimen158
-\FV@BreakSymbolIndentRightNChars=\count274
-\c@FancyVerbLineBreakLast=\count275
-\FV@LineBox=\box53
-\FV@LineIndentBox=\box54
-\FV@LineWidth=\dimen159
+\c@FV@HighlightLinesStart=\count193
+\c@FV@HighlightLinesStop=\count194
+\FV@LoopCount=\count195
+\FV@NCharsBox=\box50
+\FV@BreakIndent=\dimen150
+\FV@BreakIndentNChars=\count196
+\FV@BreakSymbolSepLeft=\dimen151
+\FV@BreakSymbolSepLeftNChars=\count197
+\FV@BreakSymbolSepRight=\dimen152
+\FV@BreakSymbolSepRightNChars=\count198
+\FV@BreakSymbolIndentLeft=\dimen153
+\FV@BreakSymbolIndentLeftNChars=\count199
+\FV@BreakSymbolIndentRight=\dimen154
+\FV@BreakSymbolIndentRightNChars=\count266
+\c@FancyVerbLineBreakLast=\count267
+\FV@LineBox=\box51
+\FV@LineIndentBox=\box52
+\FV@LineWidth=\dimen155
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count276
-\calc@Bcount=\count277
-\calc@Adimen=\dimen160
-\calc@Bdimen=\dimen161
+\calc@Acount=\count268
+\calc@Bcount=\count269
+\calc@Adimen=\dimen156
+\calc@Bdimen=\dimen157
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count278
+\calc@Ccount=\count270
 \calc@Cskip=\skip52
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/tools/shellesc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/catchfile/catchfile.sty
+(/usr/share/texlive/texmf-dist/tex/generic/catchfile/catchfile.sty
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 ))
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/iftex/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
 runsystem(uname -s > "main.w18")...executed.
@@ -186,130 +186,130 @@ runsystem(uname -s > "main.w18")...executed.
  (./main.w18)
 runsystem(rm -- "main.w18")...executed.
 
-) (/home/joshua/.TinyTeX/texmf-dist/tex/generic/xstring/xstring.sty
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count279
-\decimalpart=\count280
+)
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
+(/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
+\integerpart=\count271
+\decimalpart=\count272
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/framed/framed.sty
+(/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \OuterFrameSep=\skip53
-\fb@frw=\dimen162
-\fb@frh=\dimen163
-\FrameRule=\dimen164
-\FrameSep=\dimen165
+\fb@frw=\dimen158
+\fb@frh=\dimen159
+\FrameRule=\dimen160
+\FrameSep=\dimen161
 )
 \minted@appexistsfile=\read3
-\minted@bgbox=\box55
+\minted@bgbox=\box53
 \minted@code=\write4
-\c@minted@FancyVerbLineTemp=\count281
-\c@minted@pygmentizecounter=\count282
-\@float@every@listing=\toks21
-\c@listing=\count283
+\c@minted@FancyVerbLineTemp=\count273
+\c@minted@pygmentizecounter=\count274
+\@float@every@listing=\toks20
+\c@listing=\count275
 )
 runsystem(mkdir -p _minted-main)...executed.
 
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics-def/pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen166
-\Gin@req@width=\dimen167
+\Gin@req@height=\dimen162
+\Gin@req@width=\dimen163
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count284
-\Gm@cntv=\count285
-\c@Gm@tempcnt=\count286
-\Gm@bindingoffset=\dimen168
-\Gm@wd@mp=\dimen169
-\Gm@odd@mp=\dimen170
-\Gm@even@mp=\dimen171
-\Gm@layoutwidth=\dimen172
-\Gm@layoutheight=\dimen173
-\Gm@layouthoffset=\dimen174
-\Gm@layoutvoffset=\dimen175
-\Gm@dimlist=\toks22
+\Gm@cnth=\count276
+\Gm@cntv=\count277
+\c@Gm@tempcnt=\count278
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks21
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/placeins/placeins.sty
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
+Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.sty
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count287
+\lrq@indent=\count279
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/logreq/logreq.def
+(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/url/url.sty
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count288
-\c@listtotal=\count289
-\c@listcount=\count290
-\c@liststart=\count291
-\c@liststop=\count292
-\c@citecount=\count293
-\c@citetotal=\count294
-\c@multicitecount=\count295
-\c@multicitetotal=\count296
-\c@instcount=\count297
-\c@maxnames=\count298
-\c@minnames=\count299
-\c@maxitems=\count300
-\c@minitems=\count301
-\c@citecounter=\count302
-\c@maxcitecounter=\count303
-\c@savedcitecounter=\count304
-\c@uniquelist=\count305
-\c@uniquename=\count306
-\c@refsection=\count307
-\c@refsegment=\count308
-\c@maxextratitle=\count309
-\c@maxextratitleyear=\count310
-\c@maxextraname=\count311
-\c@maxextradate=\count312
-\c@maxextraalpha=\count313
-\c@abbrvpenalty=\count314
-\c@highnamepenalty=\count315
-\c@lownamepenalty=\count316
-\c@maxparens=\count317
-\c@parenlevel=\count318
-\blx@tempcnta=\count319
-\blx@tempcntb=\count320
-\blx@tempcntc=\count321
-\blx@maxsection=\count322
-\blx@maxsegment@0=\count323
-\blx@notetype=\count324
-\blx@parenlevel@text=\count325
-\blx@parenlevel@foot=\count326
-\blx@sectionciteorder@0=\count327
-\blx@entrysetcounter=\count328
-\blx@biblioinstance=\count329
+\c@tabx@nest=\count280
+\c@listtotal=\count281
+\c@listcount=\count282
+\c@liststart=\count283
+\c@liststop=\count284
+\c@citecount=\count285
+\c@citetotal=\count286
+\c@multicitecount=\count287
+\c@multicitetotal=\count288
+\c@instcount=\count289
+\c@maxnames=\count290
+\c@minnames=\count291
+\c@maxitems=\count292
+\c@minitems=\count293
+\c@citecounter=\count294
+\c@maxcitecounter=\count295
+\c@savedcitecounter=\count296
+\c@uniquelist=\count297
+\c@uniquename=\count298
+\c@refsection=\count299
+\c@refsegment=\count300
+\c@maxextratitle=\count301
+\c@maxextratitleyear=\count302
+\c@maxextraname=\count303
+\c@maxextradate=\count304
+\c@maxextraalpha=\count305
+\c@abbrvpenalty=\count306
+\c@highnamepenalty=\count307
+\c@lownamepenalty=\count308
+\c@maxparens=\count309
+\c@parenlevel=\count310
+\blx@tempcnta=\count311
+\blx@tempcntb=\count312
+\blx@tempcntc=\count313
+\blx@maxsection=\count314
+\blx@maxsegment@0=\count315
+\blx@notetype=\count316
+\blx@parenlevel@text=\count317
+\blx@parenlevel@foot=\count318
+\blx@sectionciteorder@0=\count319
+\blx@entrysetcounter=\count320
 \labelnumberwidth=\skip54
 \labelalphawidth=\skip55
 \biblabelsep=\skip56
@@ -320,86 +320,86 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \bibhang=\skip61
 \blx@bcfin=\read4
 \blx@bcfout=\write5
-\blx@langwohyphens=\language3
-\c@mincomprange=\count330
-\c@maxcomprange=\count331
-\c@mincompwidth=\count332
+\blx@langwohyphens=\language7
+\c@mincomprange=\count321
+\c@maxcomprange=\count322
+\c@mincompwidth=\count323
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-dm.def
-File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-dm.def
+File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count333
-\c@savedafterword=\count334
-\c@annotator=\count335
-\c@savedannotator=\count336
-\c@author=\count337
-\c@savedauthor=\count338
-\c@bookauthor=\count339
-\c@savedbookauthor=\count340
-\c@commentator=\count341
-\c@savedcommentator=\count342
-\c@editor=\count343
-\c@savededitor=\count344
-\c@editora=\count345
-\c@savededitora=\count346
-\c@editorb=\count347
-\c@savededitorb=\count348
-\c@editorc=\count349
-\c@savededitorc=\count350
-\c@foreword=\count351
-\c@savedforeword=\count352
-\c@holder=\count353
-\c@savedholder=\count354
-\c@introduction=\count355
-\c@savedintroduction=\count356
-\c@namea=\count357
-\c@savednamea=\count358
-\c@nameb=\count359
-\c@savednameb=\count360
-\c@namec=\count361
-\c@savednamec=\count362
-\c@translator=\count363
-\c@savedtranslator=\count364
-\c@shortauthor=\count365
-\c@savedshortauthor=\count366
-\c@shorteditor=\count367
-\c@savedshorteditor=\count368
-\c@labelname=\count369
-\c@savedlabelname=\count370
-\c@institution=\count371
-\c@savedinstitution=\count372
-\c@lista=\count373
-\c@savedlista=\count374
-\c@listb=\count375
-\c@savedlistb=\count376
-\c@listc=\count377
-\c@savedlistc=\count378
-\c@listd=\count379
-\c@savedlistd=\count380
-\c@liste=\count381
-\c@savedliste=\count382
-\c@listf=\count383
-\c@savedlistf=\count384
-\c@location=\count385
-\c@savedlocation=\count386
-\c@organization=\count387
-\c@savedorganization=\count388
-\c@origlocation=\count389
-\c@savedoriglocation=\count390
-\c@origpublisher=\count391
-\c@savedorigpublisher=\count392
-\c@publisher=\count393
-\c@savedpublisher=\count394
-\c@language=\count395
-\c@savedlanguage=\count396
-\c@origlanguage=\count397
-\c@savedoriglanguage=\count398
-\c@pageref=\count399
-\c@savedpageref=\count400
+\c@afterword=\count324
+\c@savedafterword=\count325
+\c@annotator=\count326
+\c@savedannotator=\count327
+\c@author=\count328
+\c@savedauthor=\count329
+\c@bookauthor=\count330
+\c@savedbookauthor=\count331
+\c@commentator=\count332
+\c@savedcommentator=\count333
+\c@editor=\count334
+\c@savededitor=\count335
+\c@editora=\count336
+\c@savededitora=\count337
+\c@editorb=\count338
+\c@savededitorb=\count339
+\c@editorc=\count340
+\c@savededitorc=\count341
+\c@foreword=\count342
+\c@savedforeword=\count343
+\c@holder=\count344
+\c@savedholder=\count345
+\c@introduction=\count346
+\c@savedintroduction=\count347
+\c@namea=\count348
+\c@savednamea=\count349
+\c@nameb=\count350
+\c@savednameb=\count351
+\c@namec=\count352
+\c@savednamec=\count353
+\c@translator=\count354
+\c@savedtranslator=\count355
+\c@shortauthor=\count356
+\c@savedshortauthor=\count357
+\c@shorteditor=\count358
+\c@savedshorteditor=\count359
+\c@labelname=\count360
+\c@savedlabelname=\count361
+\c@institution=\count362
+\c@savedinstitution=\count363
+\c@lista=\count364
+\c@savedlista=\count365
+\c@listb=\count366
+\c@savedlistb=\count367
+\c@listc=\count368
+\c@savedlistc=\count369
+\c@listd=\count370
+\c@savedlistd=\count371
+\c@liste=\count372
+\c@savedliste=\count373
+\c@listf=\count374
+\c@savedlistf=\count375
+\c@location=\count376
+\c@savedlocation=\count377
+\c@organization=\count378
+\c@savedorganization=\count379
+\c@origlocation=\count380
+\c@savedoriglocation=\count381
+\c@origpublisher=\count382
+\c@savedorigpublisher=\count383
+\c@publisher=\count384
+\c@savedpublisher=\count385
+\c@language=\count386
+\c@savedlanguage=\count387
+\c@origlanguage=\count388
+\c@savedoriglanguage=\count389
+\c@pageref=\count390
+\c@savedpageref=\count391
 \shorthandwidth=\skip62
 \shortjournalwidth=\skip63
 \shortserieswidth=\skip64
@@ -417,46 +417,46 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
+File: blx-compat.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count401
-\c@textcitetotal=\count402
-\c@textcitemaxnames=\count403
-\c@biburlbigbreakpenalty=\count404
-\c@biburlbreakpenalty=\count405
-\c@biburlnumpenalty=\count406
-\c@biburlucpenalty=\count407
-\c@biburllcpenalty=\count408
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
+File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
+\c@textcitecount=\count392
+\c@textcitetotal=\count393
+\c@textcitemaxnames=\count394
+\c@biburlbigbreakpenalty=\count395
+\c@biburlbreakpenalty=\count396
+\c@biburlnumpenalty=\count397
+\c@biburlucpenalty=\count398
+\c@biburllcpenalty=\count399
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count409
+\c@smartand=\count400
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count410
-\c@bbx:relatedtotal=\count411
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
+File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count401
+\c@bbx:relatedtotal=\count402
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2019/12/01 v3.14 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
 Package biblatex Info: Redefining '\footcite'.
@@ -472,34 +472,386 @@ Package biblatex Info: Redefining '\smartcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/biblatex.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 ))
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/mathpazo.sty
-Package: mathpazo 2020/03/25 PSNFSS-v9.3 Palatino w/ Pazo Math (D.Puga, WaS) 
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
 \symupright=\mathgroup4
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/palatino.sty
-Package: palatino 2020/03/25 PSNFSS-v9.3 (SPQR) 
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/palatino.sty
+Package: palatino 2005/04/12 PSNFSS-v9.2a (SPQR) 
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
-File: lgrenc.def 2020/10/13 2.0 LGR Greek font encoding definitions
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/lgrenc.def
+File: lgrenc.def 2019/07/09 v0.13.3 LGR Greek font encoding definitions
 Now handling font encoding LGR ...
-... no UTF-8 mapping file for font encoding LGR
+... processing UTF-8 mapping file for font encoding LGR
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
-File: greek-fontenc.def 2020/10/30 2.0 Common Greek font encoding definitions
+(/usr/share/texlive/texmf-dist/tex/latex/greek-inputenc/lgrenc.dfu
+File: lgrenc.dfu 2019/07/11 1.7 UTF-8 support for Greek
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0259 (decimal 601)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+0374 (decimal 884)
+   defining Unicode char U+0375 (decimal 885)
+   defining Unicode char U+037A (decimal 890)
+   defining Unicode char U+037E (decimal 894)
+   defining Unicode char U+0384 (decimal 900)
+   defining Unicode char U+0385 (decimal 901)
+   defining Unicode char U+0386 (decimal 902)
+   defining Unicode char U+0387 (decimal 903)
+   defining Unicode char U+0388 (decimal 904)
+   defining Unicode char U+0389 (decimal 905)
+   defining Unicode char U+038A (decimal 906)
+   defining Unicode char U+038C (decimal 908)
+   defining Unicode char U+038E (decimal 910)
+   defining Unicode char U+038F (decimal 911)
+   defining Unicode char U+0390 (decimal 912)
+   defining Unicode char U+0391 (decimal 913)
+   defining Unicode char U+0392 (decimal 914)
+   defining Unicode char U+0393 (decimal 915)
+   defining Unicode char U+0394 (decimal 916)
+   defining Unicode char U+0395 (decimal 917)
+   defining Unicode char U+0396 (decimal 918)
+   defining Unicode char U+0397 (decimal 919)
+   defining Unicode char U+0398 (decimal 920)
+   defining Unicode char U+0399 (decimal 921)
+   defining Unicode char U+039A (decimal 922)
+   defining Unicode char U+039B (decimal 923)
+   defining Unicode char U+039C (decimal 924)
+   defining Unicode char U+039D (decimal 925)
+   defining Unicode char U+039E (decimal 926)
+   defining Unicode char U+039F (decimal 927)
+   defining Unicode char U+03A0 (decimal 928)
+   defining Unicode char U+03A1 (decimal 929)
+   defining Unicode char U+03A3 (decimal 931)
+   defining Unicode char U+03A4 (decimal 932)
+   defining Unicode char U+03A5 (decimal 933)
+   defining Unicode char U+03A6 (decimal 934)
+   defining Unicode char U+03A7 (decimal 935)
+   defining Unicode char U+03A8 (decimal 936)
+   defining Unicode char U+03A9 (decimal 937)
+   defining Unicode char U+03AA (decimal 938)
+   defining Unicode char U+03AB (decimal 939)
+   defining Unicode char U+03AC (decimal 940)
+   defining Unicode char U+03AD (decimal 941)
+   defining Unicode char U+03AE (decimal 942)
+   defining Unicode char U+03AF (decimal 943)
+   defining Unicode char U+03B0 (decimal 944)
+   defining Unicode char U+03B1 (decimal 945)
+   defining Unicode char U+03B2 (decimal 946)
+   defining Unicode char U+03B3 (decimal 947)
+   defining Unicode char U+03B4 (decimal 948)
+   defining Unicode char U+03B5 (decimal 949)
+   defining Unicode char U+03B6 (decimal 950)
+   defining Unicode char U+03B7 (decimal 951)
+   defining Unicode char U+03B8 (decimal 952)
+   defining Unicode char U+03B9 (decimal 953)
+   defining Unicode char U+03BA (decimal 954)
+   defining Unicode char U+03BB (decimal 955)
+   defining Unicode char U+03BC (decimal 956)
+   defining Unicode char U+03BD (decimal 957)
+   defining Unicode char U+03BE (decimal 958)
+   defining Unicode char U+03BF (decimal 959)
+   defining Unicode char U+03C0 (decimal 960)
+   defining Unicode char U+03C1 (decimal 961)
+   defining Unicode char U+03C2 (decimal 962)
+   defining Unicode char U+03C3 (decimal 963)
+   defining Unicode char U+03C4 (decimal 964)
+   defining Unicode char U+03C5 (decimal 965)
+   defining Unicode char U+03C6 (decimal 966)
+   defining Unicode char U+03C7 (decimal 967)
+   defining Unicode char U+03C8 (decimal 968)
+   defining Unicode char U+03C9 (decimal 969)
+   defining Unicode char U+03CA (decimal 970)
+   defining Unicode char U+03CB (decimal 971)
+   defining Unicode char U+03CC (decimal 972)
+   defining Unicode char U+03CD (decimal 973)
+   defining Unicode char U+03CE (decimal 974)
+   defining Unicode char U+03D0 (decimal 976)
+   defining Unicode char U+03D1 (decimal 977)
+   defining Unicode char U+03D5 (decimal 981)
+   defining Unicode char U+03D6 (decimal 982)
+   defining Unicode char U+03D8 (decimal 984)
+   defining Unicode char U+03D9 (decimal 985)
+   defining Unicode char U+03DA (decimal 986)
+   defining Unicode char U+03DB (decimal 987)
+   defining Unicode char U+03DC (decimal 988)
+   defining Unicode char U+03DD (decimal 989)
+   defining Unicode char U+03DF (decimal 991)
+   defining Unicode char U+03E0 (decimal 992)
+   defining Unicode char U+03E1 (decimal 993)
+   defining Unicode char U+03F0 (decimal 1008)
+   defining Unicode char U+03F1 (decimal 1009)
+   defining Unicode char U+03F4 (decimal 1012)
+   defining Unicode char U+03F5 (decimal 1013)
+   defining Unicode char U+1F00 (decimal 7936)
+   defining Unicode char U+1F01 (decimal 7937)
+   defining Unicode char U+1F02 (decimal 7938)
+   defining Unicode char U+1F03 (decimal 7939)
+   defining Unicode char U+1F04 (decimal 7940)
+   defining Unicode char U+1F05 (decimal 7941)
+   defining Unicode char U+1F06 (decimal 7942)
+   defining Unicode char U+1F07 (decimal 7943)
+   defining Unicode char U+1F08 (decimal 7944)
+   defining Unicode char U+1F09 (decimal 7945)
+   defining Unicode char U+1F0A (decimal 7946)
+   defining Unicode char U+1F0B (decimal 7947)
+   defining Unicode char U+1F0C (decimal 7948)
+   defining Unicode char U+1F0D (decimal 7949)
+   defining Unicode char U+1F0E (decimal 7950)
+   defining Unicode char U+1F0F (decimal 7951)
+   defining Unicode char U+1F10 (decimal 7952)
+   defining Unicode char U+1F11 (decimal 7953)
+   defining Unicode char U+1F12 (decimal 7954)
+   defining Unicode char U+1F13 (decimal 7955)
+   defining Unicode char U+1F14 (decimal 7956)
+   defining Unicode char U+1F15 (decimal 7957)
+   defining Unicode char U+1F18 (decimal 7960)
+   defining Unicode char U+1F19 (decimal 7961)
+   defining Unicode char U+1F1A (decimal 7962)
+   defining Unicode char U+1F1B (decimal 7963)
+   defining Unicode char U+1F1C (decimal 7964)
+   defining Unicode char U+1F1D (decimal 7965)
+   defining Unicode char U+1F20 (decimal 7968)
+   defining Unicode char U+1F21 (decimal 7969)
+   defining Unicode char U+1F22 (decimal 7970)
+   defining Unicode char U+1F23 (decimal 7971)
+   defining Unicode char U+1F24 (decimal 7972)
+   defining Unicode char U+1F25 (decimal 7973)
+   defining Unicode char U+1F26 (decimal 7974)
+   defining Unicode char U+1F27 (decimal 7975)
+   defining Unicode char U+1F28 (decimal 7976)
+   defining Unicode char U+1F29 (decimal 7977)
+   defining Unicode char U+1F2A (decimal 7978)
+   defining Unicode char U+1F2B (decimal 7979)
+   defining Unicode char U+1F2C (decimal 7980)
+   defining Unicode char U+1F2D (decimal 7981)
+   defining Unicode char U+1F2E (decimal 7982)
+   defining Unicode char U+1F2F (decimal 7983)
+   defining Unicode char U+1F30 (decimal 7984)
+   defining Unicode char U+1F31 (decimal 7985)
+   defining Unicode char U+1F32 (decimal 7986)
+   defining Unicode char U+1F33 (decimal 7987)
+   defining Unicode char U+1F34 (decimal 7988)
+   defining Unicode char U+1F35 (decimal 7989)
+   defining Unicode char U+1F36 (decimal 7990)
+   defining Unicode char U+1F37 (decimal 7991)
+   defining Unicode char U+1F38 (decimal 7992)
+   defining Unicode char U+1F39 (decimal 7993)
+   defining Unicode char U+1F3A (decimal 7994)
+   defining Unicode char U+1F3B (decimal 7995)
+   defining Unicode char U+1F3C (decimal 7996)
+   defining Unicode char U+1F3D (decimal 7997)
+   defining Unicode char U+1F3E (decimal 7998)
+   defining Unicode char U+1F3F (decimal 7999)
+   defining Unicode char U+1F40 (decimal 8000)
+   defining Unicode char U+1F41 (decimal 8001)
+   defining Unicode char U+1F42 (decimal 8002)
+   defining Unicode char U+1F43 (decimal 8003)
+   defining Unicode char U+1F44 (decimal 8004)
+   defining Unicode char U+1F45 (decimal 8005)
+   defining Unicode char U+1F48 (decimal 8008)
+   defining Unicode char U+1F49 (decimal 8009)
+   defining Unicode char U+1F4A (decimal 8010)
+   defining Unicode char U+1F4B (decimal 8011)
+   defining Unicode char U+1F4C (decimal 8012)
+   defining Unicode char U+1F4D (decimal 8013)
+   defining Unicode char U+1F50 (decimal 8016)
+   defining Unicode char U+1F51 (decimal 8017)
+   defining Unicode char U+1F52 (decimal 8018)
+   defining Unicode char U+1F53 (decimal 8019)
+   defining Unicode char U+1F54 (decimal 8020)
+   defining Unicode char U+1F55 (decimal 8021)
+   defining Unicode char U+1F56 (decimal 8022)
+   defining Unicode char U+1F57 (decimal 8023)
+   defining Unicode char U+1F59 (decimal 8025)
+   defining Unicode char U+1F5B (decimal 8027)
+   defining Unicode char U+1F5D (decimal 8029)
+   defining Unicode char U+1F5F (decimal 8031)
+   defining Unicode char U+1F60 (decimal 8032)
+   defining Unicode char U+1F61 (decimal 8033)
+   defining Unicode char U+1F62 (decimal 8034)
+   defining Unicode char U+1F63 (decimal 8035)
+   defining Unicode char U+1F64 (decimal 8036)
+   defining Unicode char U+1F65 (decimal 8037)
+   defining Unicode char U+1F66 (decimal 8038)
+   defining Unicode char U+1F67 (decimal 8039)
+   defining Unicode char U+1F68 (decimal 8040)
+   defining Unicode char U+1F69 (decimal 8041)
+   defining Unicode char U+1F6A (decimal 8042)
+   defining Unicode char U+1F6B (decimal 8043)
+   defining Unicode char U+1F6C (decimal 8044)
+   defining Unicode char U+1F6D (decimal 8045)
+   defining Unicode char U+1F6E (decimal 8046)
+   defining Unicode char U+1F6F (decimal 8047)
+   defining Unicode char U+1F70 (decimal 8048)
+   defining Unicode char U+1F71 (decimal 8049)
+   defining Unicode char U+1F72 (decimal 8050)
+   defining Unicode char U+1F73 (decimal 8051)
+   defining Unicode char U+1F74 (decimal 8052)
+   defining Unicode char U+1F75 (decimal 8053)
+   defining Unicode char U+1F76 (decimal 8054)
+   defining Unicode char U+1F77 (decimal 8055)
+   defining Unicode char U+1F78 (decimal 8056)
+   defining Unicode char U+1F79 (decimal 8057)
+   defining Unicode char U+1F7A (decimal 8058)
+   defining Unicode char U+1F7B (decimal 8059)
+   defining Unicode char U+1F7C (decimal 8060)
+   defining Unicode char U+1F7D (decimal 8061)
+   defining Unicode char U+1F80 (decimal 8064)
+   defining Unicode char U+1F81 (decimal 8065)
+   defining Unicode char U+1F82 (decimal 8066)
+   defining Unicode char U+1F83 (decimal 8067)
+   defining Unicode char U+1F84 (decimal 8068)
+   defining Unicode char U+1F85 (decimal 8069)
+   defining Unicode char U+1F86 (decimal 8070)
+   defining Unicode char U+1F87 (decimal 8071)
+   defining Unicode char U+1F88 (decimal 8072)
+   defining Unicode char U+1F89 (decimal 8073)
+   defining Unicode char U+1F8A (decimal 8074)
+   defining Unicode char U+1F8B (decimal 8075)
+   defining Unicode char U+1F8C (decimal 8076)
+   defining Unicode char U+1F8D (decimal 8077)
+   defining Unicode char U+1F8E (decimal 8078)
+   defining Unicode char U+1F8F (decimal 8079)
+   defining Unicode char U+1F90 (decimal 8080)
+   defining Unicode char U+1F91 (decimal 8081)
+   defining Unicode char U+1F92 (decimal 8082)
+   defining Unicode char U+1F93 (decimal 8083)
+   defining Unicode char U+1F94 (decimal 8084)
+   defining Unicode char U+1F95 (decimal 8085)
+   defining Unicode char U+1F96 (decimal 8086)
+   defining Unicode char U+1F97 (decimal 8087)
+   defining Unicode char U+1F98 (decimal 8088)
+   defining Unicode char U+1F99 (decimal 8089)
+   defining Unicode char U+1F9A (decimal 8090)
+   defining Unicode char U+1F9B (decimal 8091)
+   defining Unicode char U+1F9C (decimal 8092)
+   defining Unicode char U+1F9D (decimal 8093)
+   defining Unicode char U+1F9E (decimal 8094)
+   defining Unicode char U+1F9F (decimal 8095)
+   defining Unicode char U+1FA0 (decimal 8096)
+   defining Unicode char U+1FA1 (decimal 8097)
+   defining Unicode char U+1FA2 (decimal 8098)
+   defining Unicode char U+1FA3 (decimal 8099)
+   defining Unicode char U+1FA4 (decimal 8100)
+   defining Unicode char U+1FA5 (decimal 8101)
+   defining Unicode char U+1FA6 (decimal 8102)
+   defining Unicode char U+1FA7 (decimal 8103)
+   defining Unicode char U+1FA8 (decimal 8104)
+   defining Unicode char U+1FA9 (decimal 8105)
+   defining Unicode char U+1FAA (decimal 8106)
+   defining Unicode char U+1FAB (decimal 8107)
+   defining Unicode char U+1FAC (decimal 8108)
+   defining Unicode char U+1FAD (decimal 8109)
+   defining Unicode char U+1FAE (decimal 8110)
+   defining Unicode char U+1FAF (decimal 8111)
+   defining Unicode char U+1FB0 (decimal 8112)
+   defining Unicode char U+1FB1 (decimal 8113)
+   defining Unicode char U+1FB2 (decimal 8114)
+   defining Unicode char U+1FB3 (decimal 8115)
+   defining Unicode char U+1FB4 (decimal 8116)
+   defining Unicode char U+1FB6 (decimal 8118)
+   defining Unicode char U+1FB7 (decimal 8119)
+   defining Unicode char U+1FB8 (decimal 8120)
+   defining Unicode char U+1FB9 (decimal 8121)
+   defining Unicode char U+1FBA (decimal 8122)
+   defining Unicode char U+1FBB (decimal 8123)
+   defining Unicode char U+1FBC (decimal 8124)
+   defining Unicode char U+1FBD (decimal 8125)
+   defining Unicode char U+1FBE (decimal 8126)
+   defining Unicode char U+1FBF (decimal 8127)
+   defining Unicode char U+1FC0 (decimal 8128)
+   defining Unicode char U+1FC1 (decimal 8129)
+   defining Unicode char U+1FC2 (decimal 8130)
+   defining Unicode char U+1FC3 (decimal 8131)
+   defining Unicode char U+1FC4 (decimal 8132)
+   defining Unicode char U+1FC6 (decimal 8134)
+   defining Unicode char U+1FC7 (decimal 8135)
+   defining Unicode char U+1FC8 (decimal 8136)
+   defining Unicode char U+1FC9 (decimal 8137)
+   defining Unicode char U+1FCA (decimal 8138)
+   defining Unicode char U+1FCB (decimal 8139)
+   defining Unicode char U+1FCC (decimal 8140)
+   defining Unicode char U+1FCD (decimal 8141)
+   defining Unicode char U+1FCE (decimal 8142)
+   defining Unicode char U+1FCF (decimal 8143)
+   defining Unicode char U+1FD0 (decimal 8144)
+   defining Unicode char U+1FD1 (decimal 8145)
+   defining Unicode char U+1FD2 (decimal 8146)
+   defining Unicode char U+1FD3 (decimal 8147)
+   defining Unicode char U+1FD6 (decimal 8150)
+   defining Unicode char U+1FD7 (decimal 8151)
+   defining Unicode char U+1FD8 (decimal 8152)
+   defining Unicode char U+1FD9 (decimal 8153)
+   defining Unicode char U+1FDA (decimal 8154)
+   defining Unicode char U+1FDB (decimal 8155)
+   defining Unicode char U+1FDD (decimal 8157)
+   defining Unicode char U+1FDE (decimal 8158)
+   defining Unicode char U+1FDF (decimal 8159)
+   defining Unicode char U+1FE0 (decimal 8160)
+   defining Unicode char U+1FE1 (decimal 8161)
+   defining Unicode char U+1FE2 (decimal 8162)
+   defining Unicode char U+1FE3 (decimal 8163)
+   defining Unicode char U+1FE4 (decimal 8164)
+   defining Unicode char U+1FE5 (decimal 8165)
+   defining Unicode char U+1FE6 (decimal 8166)
+   defining Unicode char U+1FE7 (decimal 8167)
+   defining Unicode char U+1FE8 (decimal 8168)
+   defining Unicode char U+1FE9 (decimal 8169)
+   defining Unicode char U+1FEA (decimal 8170)
+   defining Unicode char U+1FEB (decimal 8171)
+   defining Unicode char U+1FEC (decimal 8172)
+   defining Unicode char U+1FED (decimal 8173)
+   defining Unicode char U+1FEE (decimal 8174)
+   defining Unicode char U+1FEF (decimal 8175)
+   defining Unicode char U+1FF2 (decimal 8178)
+   defining Unicode char U+1FF3 (decimal 8179)
+   defining Unicode char U+1FF4 (decimal 8180)
+   defining Unicode char U+1FF6 (decimal 8182)
+   defining Unicode char U+1FF7 (decimal 8183)
+   defining Unicode char U+1FF8 (decimal 8184)
+   defining Unicode char U+1FF9 (decimal 8185)
+   defining Unicode char U+1FFA (decimal 8186)
+   defining Unicode char U+1FFB (decimal 8187)
+   defining Unicode char U+1FFC (decimal 8188)
+   defining Unicode char U+1FFD (decimal 8189)
+   defining Unicode char U+1FFE (decimal 8190)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+10144 (decimal 65860)
+   defining Unicode char U+10145 (decimal 65861)
+   defining Unicode char U+10146 (decimal 65862)
+   defining Unicode char U+10147 (decimal 65863)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/greek-fontenc/greek-fontenc.def
+File: greek-fontenc.def 2015/08/04 v0.13.4 Common Greek font encoding definitio
+ns
 ))
 LaTeX Font Info:    Trying to load font information for T1+ppl on input line 11
 2.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/t1ppl.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ppl.fd
 File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
 ))
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/tools/bm.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/bm.sty
 Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 \symboldoperators=\mathgroup5
 \symboldletters=\mathgroup6
@@ -508,13 +860,13 @@ Package: bm 2019/07/24 v1.2d Bold Symbol Support (DPC/FMi)
 LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
 LaTeX Info: Redefining \bm on input line 209.
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/base/textcomp.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -532,15 +884,19 @@ runsystem(which pygmentize && touch main.aex)...executed.
 
 runsystem(rm main.aex)...executed.
 
-\@quotelevel=\count412
-\@quotereset=\count413
+\@quotelevel=\count403
+\@quotereset=\count404
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
-\l__kernel_color_stack_int=\count414
-\l__pdf_internal_box=\box56
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count405
+\l__pdf_internal_box=\box54
 )
-(./main.aux)
+(./main.aux
+
+LaTeX Warning: Label `s:2qu-methods' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -560,17 +916,30 @@ LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
 8.
- (/home/joshua/.TinyTeX/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 28.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count406
+\scratchdimen=\dimen172
+\scratchbox=\box55
+\nofMPsegments=\count407
+\nofMParguments=\count408
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count409
+\MPscratchDim=\dimen173
+\MPnumerator=\count410
+\makeMPintoPDFobject=\count411
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -582,15 +951,15 @@ e
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(81.94394pt, 433.62pt, 81.94394pt)
-* v-part:(T,H,B)=(106.75473pt, 578.15999pt, 160.13213pt)
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=433.62pt
-* \textheight=578.15999pt
-* \oddsidemargin=9.67395pt
-* \evensidemargin=9.67395pt
-* \topmargin=-2.51526pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -610,90 +979,622 @@ e
 
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
+File: english.lbx 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-Package biblatex Info: Document encoding is UTF8 ....
-
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2020-10-05 L3 programming layer (loader) 
-)
-Package biblatex Info: ... and expl3
-(biblatex)             2020-10-05 L3 programming layer (loader) 
-(biblatex)             is new enough (at least 2020/04/06),
-(biblatex)             setting 'casechanger=expl3'.
-
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
-Package: xparse 2020-10-05 L3 Experimental document command parser
-
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.te
-x))
-Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
-)
 \openout5 = `main.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'main.bbl' not found.
+Package biblatex Info: ... file 'main.bbl' found.
+ (./main.bbl
 
-No file main.bbl.
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                ballantyne-2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                dupree
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                gregory
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                islr
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                moore
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                wood-2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 28.
 Package biblatex Info: Reference segment=0 on input line 28.
-\big@size=\dimen176
+\big@size=\dimen174
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 3
 0.
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
 30.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
 30.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
 30.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
 30.
 
-(/home/joshua/.TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) [1
+) (./main.toc
+[1
 
-{/home/joshua/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./main.a
-ux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
+\tf@toc=\write6
+\openout6 = `main.toc'.
+
+ [2] [3] [4]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 11
+1.
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
+File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
+)
+Underfull \hbox (badness 1484) in paragraph at lines 111--111
+[][]\T1/ppl/m/n/8 The dash-board will be dis-cussed later. It is avail-able at 
+$\T1/pcr/m/n/8 https : / / www . nz-[]newspaper-[]philosophy .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T1/pcr/m/n/10 ODT_-
+ []
+
+
+Overfull \hbox (6.52235pt too wide) in paragraph at lines 144--144
+[]|\T1/pcr/m/n/10 0001.xml| 
+ []
+
+
+Overfull \hbox (6.52235pt too wide) in paragraph at lines 144--144
+[]|\T1/pcr/m/n/10 0002.xml| 
+ []
+
+
+Overfull \hbox (6.52235pt too wide) in paragraph at lines 144--144
+[]|\T1/pcr/m/n/10 mets.xml| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
+[]|\T1/pcr/m/n/10 ODT_-
+ []
+
+[5] [6]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 183.
+
+[7]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 202.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 219.
+
+[8] [9]
+<images/philo_cooccurrence.png, id=35, 784.9325pt x 763.85374pt>
+File: images/philo_cooccurrence.png Graphic file (type png)
+<use images/philo_cooccurrence.png>
+Package pdftex.def Info: images/philo_cooccurrence.png  used on input line 258.
+
+(pdftex.def)             Requested size: 334.60422pt x 325.61842pt.
+ [10 <./images/philo_cooccurrence.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 269.
+
+[11] [12]
+
+LaTeX Warning: Reference `corpus-results' on page 13 undefined on input line 32
+7.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 329.
+
+[13] [14]
+Overfull \hbox (12.71475pt too wide) in paragraph at lines 375--376
+\T1/ppl/m/n/10 The dash-board avail-able at $\T1/pcr/m/n/10 https : / / nz-[]ne
+wspaper-[]philosophy . herokuapp . com$ \T1/ppl/m/n/10 is hosted
+ []
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 385.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 401.
+
+[15]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 425.
+
+[16]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 446.
+
+<images/corpus_10000_subset_tf-idf.png, id=60, 1003.75pt x 501.875pt>
+File: images/corpus_10000_subset_tf-idf.png Graphic file (type png)
+<use images/corpus_10000_subset_tf-idf.png>
+Package pdftex.def Info: images/corpus_10000_subset_tf-idf.png  used on input l
+ine 473.
+(pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
+
+LaTeX Warning: Reference `f:wc-corpus-10k' on page 17 undefined on input line 4
+78.
+
+<images/philoso_tf-idf.png, id=61, 1003.75pt x 501.875pt>
+File: images/philoso_tf-idf.png Graphic file (type png)
+<use images/philoso_tf-idf.png>
+Package pdftex.def Info: images/philoso_tf-idf.png  used on input line 482.
+(pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
+[17]
+<images/nb1_philoso_tf-idf.png, id=65, 1003.75pt x 501.875pt>
+File: images/nb1_philoso_tf-idf.png Graphic file (type png)
+<use images/nb1_philoso_tf-idf.png>
+Package pdftex.def Info: images/nb1_philoso_tf-idf.png  used on input line 490.
+
+(pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
+<images/nb2_v2_philoso_tf-idf.png, id=66, 1003.75pt x 501.875pt>
+File: images/nb2_v2_philoso_tf-idf.png Graphic file (type png)
+<use images/nb2_v2_philoso_tf-idf.png>
+Package pdftex.def Info: images/nb2_v2_philoso_tf-idf.png  used on input line 5
+00.
+(pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
+
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 511.
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 516--516
+[]\T1/ppl/m/n/10 1| 
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 516--516
+[]\T1/ppl/m/n/10 young, think, mrs, lady,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--516
+\T1/ppl/m/n/10 came, eyes, thought,
+ []
+
+
+Underfull \hbox (badness 5533) in paragraph at lines 516--516
+[]\T1/ppl/m/n/10 claim, judg-ment, plain-
+ []
+
+
+Underfull \hbox (badness 2376) in paragraph at lines 516--517
+[]\T1/ppl/m/n/10 lecture, lec-turer, sub-ject,
+ []
+
+
+Underfull \hbox (badness 4505) in paragraph at lines 516--517
+\T1/ppl/m/n/10 pro-fes-sor, evening, last,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 516--517
+\T1/ppl/m/n/10 chris-tian-ity, au-di-ence,
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 517--517
+[]\T1/ppl/m/n/10 2| 
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 518--518
+[]\T1/ppl/m/n/10 3| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+[]\T1/ppl/m/n/10 english, book, lord,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+\T1/ppl/m/n/10 women, love, though,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 518--518
+\T1/ppl/m/n/10 whose, god, char-ac-ter,
+ []
+
+
+Underfull \hbox (badness 1005) in paragraph at lines 518--519
+[]\T1/ppl/m/n/10 christ, je-sus, shall, faith,
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 519--519
+[]\T1/ppl/m/n/10 4| 
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 519--519
+[]\T1/ppl/m/n/10 school, year, uni-ver-sity,
+ []
+
+
+Underfull \hbox (badness 3364) in paragraph at lines 519--519
+[]\T1/ppl/m/n/10 disease, use, life, food,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
+\T1/ppl/m/n/10 species, found, the-ory,
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 520--520
+[]\T1/ppl/m/n/10 5| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]\T1/ppl/m/n/10 disease, health, synod,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+\T1/ppl/m/n/10 cure, med-i-cal, rem-edy,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+\T1/ppl/m/n/10 medicine, pain, bot-tle,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+[]\T1/ppl/m/n/10 tho, church, chris-tian,
+ []
+
+
+Underfull \hbox (badness 2318) in paragraph at lines 520--521
+\T1/ppl/m/n/10 catholic, faith, churches,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--521
+\T1/ppl/m/n/10 re-li-gion, chris-tian-ity,
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 521--521
+[]\T1/ppl/m/n/10 6| 
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 521--521
+[]\T1/ppl/m/n/10 water, 000, miles, feet,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
+\T1/ppl/m/n/10 chil-dren, sys-tem, com-
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 522--522
+[]\T1/ppl/m/n/10 7| 
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 523--523
+[]\T1/ppl/m/n/10 8| 
+ []
+
+
+Underfull \hbox (badness 4846) in paragraph at lines 523--523
+[]\T1/ppl/m/n/10 meeting, evening, held,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
+\T1/ppl/m/n/10 messrs, com-pany, fol-
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 523--523
+\T1/ppl/m/n/10 low-ing, year, com-mit-tee,
+ []
+
+
+Underfull \hbox (badness 7273) in paragraph at lines 523--523
+\T1/ppl/m/n/10 earth, aud, aro, havo,
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 523--524
+\T1/ppl/m/n/10 gion, ev-ery, christ, evil,
+ []
+
+
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 524--524
+[]\T1/ppl/m/n/10 9| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
+\T1/ppl/m/n/10 sir, house, ques-tion,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
+\T1/ppl/m/n/10 zealand, bill, po-lit-i-cal,
+ []
+
+
+Overfull \hbox (5.81976pt too wide) in paragraph at lines 525--525
+[]\T1/ppl/m/n/10 10| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
+\T1/ppl/m/n/10 evening, whioh, night,
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 525--526
+\T1/ppl/m/n/10 chris-tian, re-li-gion, truth,
+ []
+
+[18 <./images/corpus_10000_subset_tf-idf.png>] [19 <./images/philoso_tf-idf.png
+> <./images/nb1_philoso_tf-idf.png>] [20]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 543.
+
+[21 <./images/nb2_v2_philoso_tf-idf.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 563.
+
+
+LaTeX Warning: Reference `s:2qu-results' on page 22 undefined on input line 587
+.
+
+[22]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 610.
+
+[23]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 642.
+
+<images/rel_v2_philoso_tf-idf.png, id=90, 1003.75pt x 501.875pt>
+File: images/rel_v2_philoso_tf-idf.png Graphic file (type png)
+<use images/rel_v2_philoso_tf-idf.png>
+Package pdftex.def Info: images/rel_v2_philoso_tf-idf.png  used on input line 6
+60.
+(pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
+[24 <./images/rel_v2_philoso_tf-idf.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 669.
+
+<images/evo_network_main.png, id=95, 807.015pt x 763.85374pt>
+File: images/evo_network_main.png Graphic file (type png)
+<use images/evo_network_main.png>
+Package pdftex.def Info: images/evo_network_main.png  used on input line 707.
+(pdftex.def)             Requested size: 292.77629pt x 277.12009pt.
+<images/genesis_main.png, id=96, 813.0375pt x 769.87625pt>
+File: images/genesis_main.png Graphic file (type png)
+<use images/genesis_main.png>
+Package pdftex.def Info: images/genesis_main.png  used on input line 708.
+(pdftex.def)             Requested size: 292.77629pt x 277.22572pt.
+
+LaTeX Warning: Float too large for page by 4.57156pt on input line 711.
+
+[25] [26 <./images/evo_network_main.png> <./images/genesis_main.png>]
+<images/materialism_main.png, id=106, 826.08624pt x 769.87625pt>
+File: images/materialism_main.png Graphic file (type png)
+<use images/materialism_main.png>
+Package pdftex.def Info: images/materialism_main.png  used on input line 718.
+(pdftex.def)             Requested size: 292.77629pt x 272.85571pt.
+<images/human_net_main.png, id=107, 808.01875pt x 758.835pt>
+File: images/human_net_main.png Graphic file (type png)
+<use images/human_net_main.png>
+Package pdftex.def Info: images/human_net_main.png  used on input line 719.
+(pdftex.def)             Requested size: 292.77629pt x 274.95197pt.
+ [27]
+[28 <./images/materialism_main.png> <./images/human_net_main.png>]
+Overfull \hbox (5.03136pt too wide) in paragraph at lines 763--768
+[][]
+ []
+
+<images/topic93.png, id=116, 1003.75pt x 501.875pt>
+File: images/topic93.png Graphic file (type png)
+<use images/topic93.png>
+Package pdftex.def Info: images/topic93.png  used on input line 775.
+(pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
+[29 <./images/topic93.png>] [30] [31]
+Overfull \hbox (16.78476pt too wide) in paragraph at lines 813--813
+[]\T1/ppl/m/n/10 Library of Congress. \T1/ppl/m/it/10 MARC 21 XML Schema\T1/ppl
+/m/n/10 . \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : $\T1/pcr/m/n/10 %7Bhttp : / / www
+ . loc . gov / standards /
+ []
+
+
+Overfull \hbox (2.74036pt too wide) in paragraph at lines 813--813
+[]\T1/ppl/m/n/10 ``Personal Lib-erty''. In: \T1/ppl/m/it/10 Bruce Her-ald \T1/p
+pl/m/n/10 30 (3101 1899), p. 3. \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : $\T1/pcr/m/
+n/10 %7Bhttps : / / paperspast .
+ []
+
+[32]
+Overfull \hbox (7.54094pt too wide) in paragraph at lines 813--813
+[]\T1/ppl/m/n/10 ``Random Shots''. In: \T1/ppl/m/it/10 Auck-land Star \T1/ppl/m
+/n/10 (1886), p. 4. \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : $\T1/pcr/m/n/10 %7Bhttp
+s : / / paperspast . natlib .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 823--823
+[]\T1/ppl/b/n/8 Philosophy
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 825--825
+[]\T1/ppl/m/n/8 GRANDMAMA ON "WOMAN'S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 830--831
+[]\T1/ppl/m/n/8 Mislabelled (pass-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 839--840
+[]\T1/ppl/m/n/8 Mislabelled (pass-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 852--853
+[]\T1/ppl/m/n/8 Correctly la-belled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 853--853
+[]\T1/ppl/m/n/8 ST. AL-BANS WES-LEYAN
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 855--855
+[]\T1/ppl/m/n/8 CHARACTERISTICS OF CHIRIS-
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 856--856
+[]\T1/ppl/m/n/8 MB RE-LI-GIOUS WORLD 'HU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 857--857
+[]\T1/ppl/m/n/8 THE NEW PHO-TO-GRAPHIC
+ []
+
+
+Underfull \hbox (badness 1127) in paragraph at lines 858--859
+[]\T1/ppl/m/n/8 Correctly la-belled (list
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 860--861
+[]\T1/ppl/m/n/8 A few philo-soph-i-cal
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 862--862
+[]\T1/ppl/m/n/8 THE CATHOLIC CLAIMS T.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 863--863
+[]\T1/ppl/m/n/8 THE IN-FLU-ENCE OF CHRIS-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 864--864
+[]\T1/ppl/m/n/8 DEAN FAR-RAR DE-FENDS
+ []
+
+[33] [34] [35] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
+
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13364 strings out of 481886
- 252439 string characters out of 5931883
- 984857 words of memory out of 5000000
- 29487 multiletter control sequences out of 15000+600000
- 554790 words of font info for 68 fonts, out of 8000000 for 9000
- 14 hyphenation exceptions out of 8191
- 71i,6n,77p,733b,759s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/home/joshua/.TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}</home/joshua/.
-TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></home/joshua/.TinyTeX/t
-exmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on main.pdf (1 page, 34191 bytes).
+ 14233 strings out of 483107
+ 261166 string characters out of 5964630
+ 941429 words of memory out of 5000000
+ 29043 multiletter control sequences out of 15000+600000
+ 588414 words of font info for 134 fonts, out of 8000000 for 9000
+ 59 hyphenation exceptions out of 8191
+ 41i,10n,45p,1588b,1382s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino
+/uplri8a.pfb>
+Output written on main.pdf (35 pages, 2613189 bytes).
 PDF statistics:
- 17 PDF objects out of 1000 (max. 8388607)
- 11 compressed objects within 1 object stream
+ 156 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

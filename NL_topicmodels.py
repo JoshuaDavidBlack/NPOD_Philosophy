@@ -8,6 +8,7 @@ with a series of helper functions related to the use of topic models
 to investigate the NL Paper's Past Newspaper Dataset.
 """
 
+import csv
 from nltk.corpus import brown, stopwords
 from nltk.tokenize import RegexpTokenizer
 from gensim import corpora
@@ -58,6 +59,34 @@ class NL_corpus():
 
 
 
+class NL_streamed_corpus():
+    """
+    Corpus class for use with gensim for topic modelling.
+
+    Input: path to csv
+    """
+
+    def __init__(self, path, dictionary):
+        self.path= path
+        self.dictionary = dictionary
+        self.file_stream = open(path, 'r')
+
+    def __iter__(self):
+        for line in self.file_stream:
+            id, bag_string = line.split(',"')
+            pairs = bag_string[2:-4].split('), (')
+            bow = []
+            for pair in pairs:
+                i, j = pair.split(', ')
+                bow.append((int(i), int(j)))
+            yield bow
+        self.file_stream.seek(0)
+
+    def __len__(self):
+        count = 0
+        for line in open(self.path).readlines():
+            count += 1
+        return count
 
 
 def topics_and_keywords(model):
@@ -164,11 +193,17 @@ def topic_proportions_chart(index_label, dataframe):
 
 
 
-def add_title_and_date(df):
-    """Add 'Newspaper' and 'Date' column to dataframe with
-    'Text' and 'Tokenised' columns. Rearrange dataframe to
-    have ['Newspaper', 'Date', 'Title', 'Text', 'Tokenised']
-    order."""
-    df['Newspaper'] = df.index.map(lambda x: x[0:x.find('_')])
-    df['Date'] = df.index.map(lambda x: x[x.find('_')+1:x.find('_')+9])
-    df = df[['Newspaper', 'Date', 'Title', 'Text', 'Tokenised']]
+def get_dictionary(corpus_df, corpus_name, min_in=10, max_prop=0.4):
+    """Given name of corpus, attempt to load pre-generated dictionary.
+    If not dictionary present, generate one."""
+    try:
+        dictionary = corpora.Dictionary.load(
+            f'dictionaries/{corpus_name}.dict'
+        )
+    except FileNotFoundError:
+        dictionary = corpora.Dictionary(corpus_df['Tokenised'])
+        dictionary.filter_extremes(no_below=min_in, no_above=max_prop) 
+        dictionary.compactify()
+        dictionary.save(f'dictionaries/{corpus_name}.dict')
+
+    return dictionary

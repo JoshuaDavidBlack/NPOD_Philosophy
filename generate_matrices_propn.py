@@ -15,10 +15,12 @@ import NL_topicmodels
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s',
                     level=logging.INFO)
 
+IN_NAME = 'pickles/rel_v2_propn_df.tar.gz' # 'pickles/philoso_propn_df.tar.gz'
+OUT_PREFIX = 'rel_v2'
 
 # Load dataset
 
-philoso_df = pd.read_pickle('pickles/philoso_propn_df.tar.gz')
+philoso_df = pd.read_pickle(IN_NAME)
 
 # Filter Spacy output
 
@@ -28,7 +30,7 @@ philoso_df['Proper Nouns'] = philoso_df['Proper Nouns'].map(
 
 # Generate dictionary
 
-minimum_in_docs = 10 # 10
+minimum_in_docs = 5 # 10
 max_prop = 0.5
 dictionary = corpora.Dictionary(philoso_df['Proper Nouns'])
 dictionary.filter_extremes(no_below=minimum_in_docs, no_above=max_prop)
@@ -50,10 +52,10 @@ sparse = corpus2csc(philoso_corpus.items['BOW'])
 dtm = pd.DataFrame.sparse.from_spmatrix(sparse)
 dtm.index = philoso_corpus.dictionary.values()
 del sparse
-dtm.to_pickle('pickles/dtm_BOW_propn.tar.gz')
+dtm.to_pickle(f'pickles/dtm_{OUT_PREFIX}_BOW_propn.tar.gz')
 
 ttm = dtm.dot(dtm.transpose())
-ttm.to_pickle('pickles/ttm_BOW_propn.tar.gz')
+ttm.to_pickle(f'pickles/ttm_{OUT_PREFIX}_BOW_propn.tar.gz')
 
 del dtm, ttm
 
@@ -62,9 +64,9 @@ sparse = corpus2csc(philoso_corpus.items['TF-IDF'])
 dtm = pd.DataFrame.sparse.from_spmatrix(sparse)
 dtm.index = philoso_corpus.dictionary.values()
 del sparse
-dtm.to_pickle('pickles/dtm_TF-IDF_propn.tar.gz')
+dtm.to_pickle(f'pickles/dtm_{OUT_PREFIX}_TF-IDF_propn.tar.gz')
 
 ttm = dtm.dot(dtm.transpose())
-ttm.to_pickle('pickles/ttm_TF-IDF_propn.tar.gz')
+ttm.to_pickle(f'pickles/ttm_{OUT_PREFIX}_TF-IDF_propn.tar.gz')
 
 del dtm, ttm

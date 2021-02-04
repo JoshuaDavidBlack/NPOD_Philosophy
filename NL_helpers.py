@@ -28,6 +28,38 @@ STOPS = set(stopwords.words())
 
 NS = {'mets':'http://www.loc.gov/METS/'}
 
+CYTOSCAPE_STYLESHEET = STYLESHEET = [
+    {
+        'selector': 'edge',
+        'style': {
+            'width': 'mapData(weight, 3, 6, 1, 3)',
+            'line-color': 'silver'
+        }
+    },
+    {
+        'selector': 'node',
+        'style': {
+            'content': 'data(label)',
+            'width': 'mapData(size, 1, 10, 10, 20)',
+            'height': 'mapData(size, 1, 10, 10, 20)'
+        }
+    },
+    {
+        'selector': 'label',
+        'style': {
+            'font-size': 6,
+            'text-valign': 'center',
+            'text-background-color': 'white',
+            'text-background-opacity': 0.6,
+            'text-background-padding': 1,
+            'text-border-color': 'black',
+            'text-border-opacity': 1,
+            'text-border-width': 0.5
+        }
+    }
+]
+
+
 def issue2articles(filepath):
     """
     Given string containing filepath to issue, return plain text
@@ -207,6 +239,27 @@ def print_text(index, dataframe):
 
 
 
+def print_text_index_only(index, dataframe):
+    """
+    Given index, return string containing heading and body text.
+    Assumes dataframe contains a 'Text' column containing lists of
+    strings as entries as well as 'Title'. Works out newspaper and
+    date from index.
+    """
+    newspaper = index[0:index.find('_')]
+    date = index[index.find('_')+1:index.find('_')+9]
+    title = dataframe.loc[index, 'Title']
+    text_blocks = dataframe.loc[index, 'Text']
+    wrapped_blocks = []
+    for block in text_blocks:
+        wrapped_string = textwrap.fill(block, width=80)
+        wrapped_blocks.append(wrapped_string)
+    text = '\n\n'.join(wrapped_blocks)
+    article_string = f'{title}\n{newspaper} - {date}\n\n{text}'
+
+    print(article_string)
+
+
 def html_text(index, dataframe, boldface=None):
     """
     Given article code, return html formatted text
@@ -299,8 +352,9 @@ def log_dice_coocs(term, dtm, ttm, num_coocs):
     return log_dice
 
 
-def ml_coocs(term, dtm, ttm, num_coocs):
-    """Return num_coocs with mutual likelihood sig score given search term
+
+def mi_coocs(term, dtm, ttm, num_coocs):
+    """Return num_coocs with mutual information sig score given search term
     document-term matrix and term-term matrix. Return as
     pandas series with terms as indices and significances as values..
     ttm and dtm are pandas dataframes."""
@@ -308,9 +362,9 @@ def ml_coocs(term, dtm, ttm, num_coocs):
     all_term_occurrences = dtm.sum(axis=1)
     term_occurrences = all_term_occurrences[term]
     cooccurrences = ttm.loc[term]
-    ml = np.log(num_documents * cooccurrences / (term_occurrences * all_term_occurrences))
-    ml = ml.sort_values(ascending=False)[0:num_coocs]
-    return ml
+    mi = np.log(num_documents * cooccurrences / (term_occurrences * all_term_occurrences))
+    mi = mi.sort_values(ascending=False)[0:num_coocs]
+    return mi
 
 
 
@@ -321,7 +375,7 @@ def network_dict(term, stat, dtm, ttm, num_coocs):
     if stat == 'log dice':
         term_coocs = log_dice_coocs(term, dtm, ttm, num_coocs)
     elif stat == 'ml':
-        term_coocs = ml_coocs(term, dtm, ttm, num_coocs)
+        term_coocs = mi_coocs(term, dtm, ttm, num_coocs)
 
     for item in term_coocs.iteritems():
         if item[0] != term:
@@ -338,7 +392,7 @@ def network_dict(term, stat, dtm, ttm, num_coocs):
         if stat == 'log dice':
             item_coocs = log_dice_coocs(item[0], dtm, ttm, num_coocs)
         elif stat == 'ml':
-            item_coocs = ml_coocs(item[0], dtm, ttm, num_coocs)
+            item_coocs = mi_coocs(item[0], dtm, ttm, num_coocs)
         for sub_item in item_coocs.iteritems():
             if item[0] != sub_item[0]:
                 from_list = network.get('source', [])
@@ -360,8 +414,8 @@ def network_dash(term, stat, dtm, ttm, num_coocs, sec_coocs):
 
     if stat == 'log dice':
         term_coocs = log_dice_coocs(term, dtm, ttm, num_coocs)
-    elif stat == 'ml':
-        term_coocs = ml_coocs(term, dtm, ttm, num_coocs)
+    elif stat == 'mi':
+        term_coocs = mi_coocs(term, dtm, ttm, num_coocs)
 
     nodes = []
     node_names = set([term])
@@ -379,8 +433,8 @@ def network_dash(term, stat, dtm, ttm, num_coocs, sec_coocs):
 
         if stat == 'log dice':
             item_coocs = log_dice_coocs(item[0], dtm, ttm, sec_coocs)
-        elif stat == 'ml':
-            item_coocs = ml_coocs(item[0], dtm, ttm, sec_coocs)
+        elif stat == 'mi':
+            item_coocs = mi_coocs(item[0], dtm, ttm, sec_coocs)
         for sub_item in item_coocs.iteritems():
             node_names.add(sub_item[0])
             if item[0] != sub_item[0]:
@@ -433,6 +487,7 @@ def filter_propns(set_of_words):
     return filtered_set
 
 
+
 def filter_entities(set_of_strings):
     """
     Given set of named entities as detected by Spacy, strip whitespace,
@@ -448,3 +503,106 @@ def filter_entities(set_of_strings):
             filtered_set.add(entity)
 
     return filtered_set
+
+
+
+def classify_text():
+
+    readable = phil = phil_type = genre_type = nz = notes = None
+
+    readable_in = input('Long readable portions? (y if readable)> ')
+    if readable_in == 'y':
+        readable = True
+    else:
+        readable = False
+
+    if readable == True:
+        phil_in = input('Philosophy? (y if so)> ')
+        if phil_in == 'y':
+            phil = True
+        else:
+            phil = False
+
+    if readable == True and phil == True:
+        phil_type_in = input('Ethics/Epistemology-Metaphysics/Religion-Science/Other? (e/m/r/o)> ')
+        if phil_type_in in ['e', 'm', 'r', 'o']:
+            phil_type = phil_type_in
+        else:
+            phil_type = 'input error'
+
+        genre_type_in = input('Public event/letter/review/first order? (p/l/r/f)> ')
+        if genre_type_in in ['p', 'l', 'f', 'r']:
+            genre_type = genre_type_in
+        else:
+            genre_type = 'input error'
+
+        nz_in = input('NZ or non-NZ (author)? (y/n/?)')
+        if nz_in == 'y':
+            nz = True
+        elif nz_in == 'n':
+            nz = False
+
+    notes = input('Notes? >')
+
+    return (readable, phil, phil_type, genre_type, nz, notes)
+
+
+
+def classify_text_v2():
+    """Implement second version of classification scheme. See
+    'Relabelling.ipynb'."""
+
+    readable = phil = phil_type = genre_type = nz = notes = None
+
+    readable_in = input('Readable? (y/n)> ')
+    if readable_in == 'y':
+        readable = True
+    else:
+        readable = False
+
+    if readable == True:
+        phil_in = input('Philosophy? (y/n)> ')
+        if phil_in == 'y':
+            phil = True
+        else:
+            phil = False
+
+    if readable == True and phil == True:
+        phil_type_in = input('Ethics-Politics/Religion-Science/Other? (e/r/o)> ')
+        if phil_type_in in ['e', 'r', 'o']:
+            phil_type = phil_type_in
+        else:
+            phil_type = 'input error' #Correct later, I'm not having nested while loops.
+
+    if readable == True:
+        genre_type_in = input('Public event/letter/review/first order? (p/l/r/f)> ')
+        if genre_type_in in ['p', 'l', 'f', 'r']:
+            genre_type = genre_type_in
+        else:
+            genre_type = 'input error'
+
+        nz_in = input('NZ or non-NZ (author)? (y/n/?)')
+        if nz_in == 'y':
+            nz = True
+        elif nz_in == 'n':
+            nz = False
+
+    notes = input('Notes? >')
+
+    return (readable, phil, phil_type, genre_type, nz, notes)
+
+
+
+def add_title_and_date(df):
+    """Add 'Newspaper' and 'Date' column to dataframe with
+    'Text' and 'Tokenised' columns. Rearrange dataframe to
+    have ['Newspaper', 'Date', 'Title', 'Text', 'Tokenised']
+    order."""
+    df['Newspaper'] = df.index.map(lambda x: x[0:x.find('_')])
+    df['Date'] = df.index.map(lambda x: x[x.find('_')+1:x.find('_')+9])
+
+
+def remove_duplicates(dataframe):
+    """Given dataframe with duplicate indices, remove duplicates."""
+    dataframe = dataframe[~dataframe.index.duplicated(keep='first')]
+    return dataframe
