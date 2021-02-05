@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.15)  4 FEB 2021 00:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.2.4)  5 FEB 2021 13:38
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -28,52 +28,171 @@ Package: inputenc 2018/08/11 v1.3c Input encoding file
 \inpenc@prehook=\toks14
 \inpenc@posthook=\toks15
 )
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count175
+\Hy@pagecounter=\count176
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count177
+\pdfmajorversion=\count178
+
+
+Package hyperref Warning: Unexpected value for option `hidelinks'
+(hyperref)                is ignored on input line 4421.
+
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count179
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen136
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count180
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count181
+\c@Item=\count182
+\c@Hfootnote=\count183
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count184
+\c@bookmark@seq@number=\count185
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip49
+)
 (/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.sty
 Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
 
 (/usr/share/texlive/texmf-dist/tex/generic/dirtree/dirtree.tex
 `dirtree' v0.32, 2012/12/11 (jcc)
-\DT@offset=\dimen135
-\DT@width=\dimen136
-\DT@sep=\dimen137
-\DT@all=\dimen138
-\DT@rulewidth=\dimen139
-\DT@dotwidth=\dimen140
-\DTbaselineskip=\dimen141
-\DT@counti=\count175
-\DT@countii=\count176
-\DT@countiii=\count177
-\DT@countiv=\count178
-\DT@indent=\dimen142
-\DT@parskip=\dimen143
-\DT@baselineskip=\dimen144
+\DT@offset=\dimen139
+\DT@width=\dimen140
+\DT@sep=\dimen141
+\DT@all=\dimen142
+\DT@rulewidth=\dimen143
+\DT@dotwidth=\dimen144
+\DTbaselineskip=\dimen145
+\DT@counti=\count186
+\DT@countii=\count187
+\DT@countiii=\count188
+\DT@countiv=\count189
+\DT@indent=\dimen146
+\DT@parskip=\dimen147
+\DT@baselineskip=\dimen148
 )
 File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count179
-\float@exts=\toks16
+\c@float@type=\count190
+\float@exts=\toks17
 \float@box=\box45
-\@float@everytoks=\toks17
+\@float@everytoks=\toks18
 \@floatcapt=\box46
 )
 (/usr/share/texlive/texmf-dist/tex/latex/minted/minted.sty
 Package: minted 2017/07/19 v2.5 Yet another Pygments shim for LaTeX
 
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks18
-)
-(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
-))
 (/usr/share/texlive/texmf-dist/tex/latex/fvextra/fvextra.sty
 Package: fvextra 2019/02/04 v1.4 fvextra - extensions and patches for fancyvrb
 
@@ -82,15 +201,15 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count180
+\etb@tempcnta=\count191
 )
 (/usr/share/texlive/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
 Package: fancyvrb 2020/01/13 v3.5 verbatim text (tvz,hv)
-\FV@CodeLineNo=\count181
+\FV@CodeLineNo=\count192
 \FV@InFile=\read2
 \FV@TabBox=\box47
-\c@FancyVerbLine=\count182
-\FV@StepNumber=\count183
+\c@FancyVerbLine=\count193
+\FV@StepNumber=\count194
 \FV@OutFile=\write3
 )
 (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
@@ -99,57 +218,57 @@ tim
 )
 (/usr/share/texlive/texmf-dist/tex/latex/lineno/lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count184
+\linenopenalty=\count195
 \output=\toks19
-\linenoprevgraf=\count185
-\linenumbersep=\dimen145
-\linenumberwidth=\dimen146
-\c@linenumber=\count186
-\c@pagewiselinenumber=\count187
-\c@LN@truepage=\count188
-\c@internallinenumber=\count189
-\c@internallinenumbers=\count190
-\quotelinenumbersep=\dimen147
-\bframerule=\dimen148
-\bframesep=\dimen149
+\linenoprevgraf=\count196
+\linenumbersep=\dimen149
+\linenumberwidth=\dimen150
+\c@linenumber=\count197
+\c@pagewiselinenumber=\count198
+\c@LN@truepage=\count199
+\c@internallinenumber=\count266
+\c@internallinenumbers=\count267
+\quotelinenumbersep=\dimen151
+\bframerule=\dimen152
+\bframesep=\dimen153
 \bframebox=\box48
 LaTeX Info: Redefining \\ on input line 3056.
 )
-\c@FV@TrueTabGroupLevel=\count191
-\c@FV@TrueTabCounter=\count192
+\c@FV@TrueTabGroupLevel=\count268
+\c@FV@TrueTabCounter=\count269
 \FV@TabBox@Group=\box49
-\FV@TmpLength=\skip49
-\c@FV@HighlightLinesStart=\count193
-\c@FV@HighlightLinesStop=\count194
-\FV@LoopCount=\count195
+\FV@TmpLength=\skip50
+\c@FV@HighlightLinesStart=\count270
+\c@FV@HighlightLinesStop=\count271
+\FV@LoopCount=\count272
 \FV@NCharsBox=\box50
-\FV@BreakIndent=\dimen150
-\FV@BreakIndentNChars=\count196
-\FV@BreakSymbolSepLeft=\dimen151
-\FV@BreakSymbolSepLeftNChars=\count197
-\FV@BreakSymbolSepRight=\dimen152
-\FV@BreakSymbolSepRightNChars=\count198
-\FV@BreakSymbolIndentLeft=\dimen153
-\FV@BreakSymbolIndentLeftNChars=\count199
-\FV@BreakSymbolIndentRight=\dimen154
-\FV@BreakSymbolIndentRightNChars=\count266
-\c@FancyVerbLineBreakLast=\count267
+\FV@BreakIndent=\dimen154
+\FV@BreakIndentNChars=\count273
+\FV@BreakSymbolSepLeft=\dimen155
+\FV@BreakSymbolSepLeftNChars=\count274
+\FV@BreakSymbolSepRight=\dimen156
+\FV@BreakSymbolSepRightNChars=\count275
+\FV@BreakSymbolIndentLeft=\dimen157
+\FV@BreakSymbolIndentLeftNChars=\count276
+\FV@BreakSymbolIndentRight=\dimen158
+\FV@BreakSymbolIndentRightNChars=\count277
+\c@FancyVerbLineBreakLast=\count278
 \FV@LineBox=\box51
 \FV@LineIndentBox=\box52
-\FV@LineWidth=\dimen155
+\FV@LineWidth=\dimen159
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count268
-\calc@Bcount=\count269
-\calc@Adimen=\dimen156
-\calc@Bdimen=\dimen157
-\calc@Askip=\skip50
-\calc@Bskip=\skip51
+\calc@Acount=\count279
+\calc@Bcount=\count280
+\calc@Adimen=\dimen160
+\calc@Bdimen=\dimen161
+\calc@Askip=\skip51
+\calc@Bskip=\skip52
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count270
-\calc@Cskip=\skip52
+\calc@Ccount=\count281
+\calc@Cskip=\skip53
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
@@ -158,26 +277,9 @@ Package shellesc Info: Unrestricted shell escape enabled on input line 75.
 (/usr/share/texlive/texmf-dist/tex/latex/ifplatform/ifplatform.sty
 Package: ifplatform 2017/10/13 v0.4a Testing for the operating system
 
-(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
-)
-
-(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
-Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2019/11/07 v1.0c TeX engine tests
-)
-Package pdftexcmds Info: \pdf@primitive is available.
-Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode found.
-)
 (/usr/share/texlive/texmf-dist/tex/generic/catchfile/catchfile.sty
 Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
-Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
-))
+)
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifluatex.sty
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 )
@@ -189,26 +291,26 @@ runsystem(rm -- "main.w18")...executed.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.sty
 (/usr/share/texlive/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count271
-\decimalpart=\count272
+\integerpart=\count282
+\decimalpart=\count283
 )
 Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/framed/framed.sty
 Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
-\OuterFrameSep=\skip53
-\fb@frw=\dimen158
-\fb@frh=\dimen159
-\FrameRule=\dimen160
-\FrameSep=\dimen161
+\OuterFrameSep=\skip54
+\fb@frw=\dimen162
+\fb@frh=\dimen163
+\FrameRule=\dimen164
+\FrameSep=\dimen165
 )
 \minted@appexistsfile=\read3
 \minted@bgbox=\box53
 \minted@code=\write4
-\c@minted@FancyVerbLineTemp=\count273
-\c@minted@pygmentizecounter=\count274
+\c@minted@FancyVerbLineTemp=\count284
+\c@minted@pygmentizecounter=\count285
 \@float@every@listing=\toks20
-\c@listing=\count275
+\c@listing=\count286
 )
 runsystem(mkdir -p _minted-main)...executed.
 
@@ -230,8 +332,8 @@ Package graphics Info: Driver file: pdftex.def on input line 105.
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen162
-\Gin@req@width=\dimen163
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
 )
 (/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
@@ -239,17 +341,17 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count276
-\Gm@cntv=\count277
-\c@Gm@tempcnt=\count278
-\Gm@bindingoffset=\dimen164
-\Gm@wd@mp=\dimen165
-\Gm@odd@mp=\dimen166
-\Gm@even@mp=\dimen167
-\Gm@layoutwidth=\dimen168
-\Gm@layoutheight=\dimen169
-\Gm@layouthoffset=\dimen170
-\Gm@layoutvoffset=\dimen171
+\Gm@cnth=\count287
+\Gm@cntv=\count288
+\c@Gm@tempcnt=\count289
+\Gm@bindingoffset=\dimen168
+\Gm@wd@mp=\dimen169
+\Gm@odd@mp=\dimen170
+\Gm@even@mp=\dimen171
+\Gm@layoutwidth=\dimen172
+\Gm@layoutheight=\dimen173
+\Gm@layouthoffset=\dimen174
+\Gm@layoutvoffset=\dimen175
 \Gm@dimlist=\toks21
 )
 (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
@@ -260,70 +362,66 @@ Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count279
+\lrq@indent=\count290
 
 (/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip16
-Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)
-\c@tabx@nest=\count280
-\c@listtotal=\count281
-\c@listcount=\count282
-\c@liststart=\count283
-\c@liststop=\count284
-\c@citecount=\count285
-\c@citetotal=\count286
-\c@multicitecount=\count287
-\c@multicitetotal=\count288
-\c@instcount=\count289
-\c@maxnames=\count290
-\c@minnames=\count291
-\c@maxitems=\count292
-\c@minitems=\count293
-\c@citecounter=\count294
-\c@maxcitecounter=\count295
-\c@savedcitecounter=\count296
-\c@uniquelist=\count297
-\c@uniquename=\count298
-\c@refsection=\count299
-\c@refsegment=\count300
-\c@maxextratitle=\count301
-\c@maxextratitleyear=\count302
-\c@maxextraname=\count303
-\c@maxextradate=\count304
-\c@maxextraalpha=\count305
-\c@abbrvpenalty=\count306
-\c@highnamepenalty=\count307
-\c@lownamepenalty=\count308
-\c@maxparens=\count309
-\c@parenlevel=\count310
-\blx@tempcnta=\count311
-\blx@tempcntb=\count312
-\blx@tempcntc=\count313
-\blx@maxsection=\count314
-\blx@maxsegment@0=\count315
-\blx@notetype=\count316
-\blx@parenlevel@text=\count317
-\blx@parenlevel@foot=\count318
-\blx@sectionciteorder@0=\count319
-\blx@entrysetcounter=\count320
-\labelnumberwidth=\skip54
-\labelalphawidth=\skip55
-\biblabelsep=\skip56
-\bibitemsep=\skip57
-\bibnamesep=\skip58
-\bibinitsep=\skip59
-\bibparsep=\skip60
-\bibhang=\skip61
+\c@tabx@nest=\count291
+\c@listtotal=\count292
+\c@listcount=\count293
+\c@liststart=\count294
+\c@liststop=\count295
+\c@citecount=\count296
+\c@citetotal=\count297
+\c@multicitecount=\count298
+\c@multicitetotal=\count299
+\c@instcount=\count300
+\c@maxnames=\count301
+\c@minnames=\count302
+\c@maxitems=\count303
+\c@minitems=\count304
+\c@citecounter=\count305
+\c@maxcitecounter=\count306
+\c@savedcitecounter=\count307
+\c@uniquelist=\count308
+\c@uniquename=\count309
+\c@refsection=\count310
+\c@refsegment=\count311
+\c@maxextratitle=\count312
+\c@maxextratitleyear=\count313
+\c@maxextraname=\count314
+\c@maxextradate=\count315
+\c@maxextraalpha=\count316
+\c@abbrvpenalty=\count317
+\c@highnamepenalty=\count318
+\c@lownamepenalty=\count319
+\c@maxparens=\count320
+\c@parenlevel=\count321
+\blx@tempcnta=\count322
+\blx@tempcntb=\count323
+\blx@tempcntc=\count324
+\blx@maxsection=\count325
+\blx@maxsegment@0=\count326
+\blx@notetype=\count327
+\blx@parenlevel@text=\count328
+\blx@parenlevel@foot=\count329
+\blx@sectionciteorder@0=\count330
+\blx@entrysetcounter=\count331
+\labelnumberwidth=\skip55
+\labelalphawidth=\skip56
+\biblabelsep=\skip57
+\bibitemsep=\skip58
+\bibnamesep=\skip59
+\bibinitsep=\skip60
+\bibparsep=\skip61
+\bibhang=\skip62
 \blx@bcfin=\read4
 \blx@bcfout=\write5
 \blx@langwohyphens=\language7
-\c@mincomprange=\count321
-\c@maxcomprange=\count322
-\c@mincompwidth=\count323
+\c@mincomprange=\count332
+\c@maxcomprange=\count333
+\c@mincompwidth=\count334
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -332,88 +430,88 @@ File: blx-dm.def 2019/12/01 v3.14 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count324
-\c@savedafterword=\count325
-\c@annotator=\count326
-\c@savedannotator=\count327
-\c@author=\count328
-\c@savedauthor=\count329
-\c@bookauthor=\count330
-\c@savedbookauthor=\count331
-\c@commentator=\count332
-\c@savedcommentator=\count333
-\c@editor=\count334
-\c@savededitor=\count335
-\c@editora=\count336
-\c@savededitora=\count337
-\c@editorb=\count338
-\c@savededitorb=\count339
-\c@editorc=\count340
-\c@savededitorc=\count341
-\c@foreword=\count342
-\c@savedforeword=\count343
-\c@holder=\count344
-\c@savedholder=\count345
-\c@introduction=\count346
-\c@savedintroduction=\count347
-\c@namea=\count348
-\c@savednamea=\count349
-\c@nameb=\count350
-\c@savednameb=\count351
-\c@namec=\count352
-\c@savednamec=\count353
-\c@translator=\count354
-\c@savedtranslator=\count355
-\c@shortauthor=\count356
-\c@savedshortauthor=\count357
-\c@shorteditor=\count358
-\c@savedshorteditor=\count359
-\c@labelname=\count360
-\c@savedlabelname=\count361
-\c@institution=\count362
-\c@savedinstitution=\count363
-\c@lista=\count364
-\c@savedlista=\count365
-\c@listb=\count366
-\c@savedlistb=\count367
-\c@listc=\count368
-\c@savedlistc=\count369
-\c@listd=\count370
-\c@savedlistd=\count371
-\c@liste=\count372
-\c@savedliste=\count373
-\c@listf=\count374
-\c@savedlistf=\count375
-\c@location=\count376
-\c@savedlocation=\count377
-\c@organization=\count378
-\c@savedorganization=\count379
-\c@origlocation=\count380
-\c@savedoriglocation=\count381
-\c@origpublisher=\count382
-\c@savedorigpublisher=\count383
-\c@publisher=\count384
-\c@savedpublisher=\count385
-\c@language=\count386
-\c@savedlanguage=\count387
-\c@origlanguage=\count388
-\c@savedoriglanguage=\count389
-\c@pageref=\count390
-\c@savedpageref=\count391
-\shorthandwidth=\skip62
-\shortjournalwidth=\skip63
-\shortserieswidth=\skip64
-\shorttitlewidth=\skip65
-\shortauthorwidth=\skip66
-\shorteditorwidth=\skip67
-\locallabelnumberwidth=\skip68
-\locallabelalphawidth=\skip69
-\localshorthandwidth=\skip70
-\localshortjournalwidth=\skip71
-\localshortserieswidth=\skip72
-\localshorttitlewidth=\skip73
-\localshortauthorwidth=\skip74
-\localshorteditorwidth=\skip75
+\c@afterword=\count335
+\c@savedafterword=\count336
+\c@annotator=\count337
+\c@savedannotator=\count338
+\c@author=\count339
+\c@savedauthor=\count340
+\c@bookauthor=\count341
+\c@savedbookauthor=\count342
+\c@commentator=\count343
+\c@savedcommentator=\count344
+\c@editor=\count345
+\c@savededitor=\count346
+\c@editora=\count347
+\c@savededitora=\count348
+\c@editorb=\count349
+\c@savededitorb=\count350
+\c@editorc=\count351
+\c@savededitorc=\count352
+\c@foreword=\count353
+\c@savedforeword=\count354
+\c@holder=\count355
+\c@savedholder=\count356
+\c@introduction=\count357
+\c@savedintroduction=\count358
+\c@namea=\count359
+\c@savednamea=\count360
+\c@nameb=\count361
+\c@savednameb=\count362
+\c@namec=\count363
+\c@savednamec=\count364
+\c@translator=\count365
+\c@savedtranslator=\count366
+\c@shortauthor=\count367
+\c@savedshortauthor=\count368
+\c@shorteditor=\count369
+\c@savedshorteditor=\count370
+\c@labelname=\count371
+\c@savedlabelname=\count372
+\c@institution=\count373
+\c@savedinstitution=\count374
+\c@lista=\count375
+\c@savedlista=\count376
+\c@listb=\count377
+\c@savedlistb=\count378
+\c@listc=\count379
+\c@savedlistc=\count380
+\c@listd=\count381
+\c@savedlistd=\count382
+\c@liste=\count383
+\c@savedliste=\count384
+\c@listf=\count385
+\c@savedlistf=\count386
+\c@location=\count387
+\c@savedlocation=\count388
+\c@organization=\count389
+\c@savedorganization=\count390
+\c@origlocation=\count391
+\c@savedoriglocation=\count392
+\c@origpublisher=\count393
+\c@savedorigpublisher=\count394
+\c@publisher=\count395
+\c@savedpublisher=\count396
+\c@language=\count397
+\c@savedlanguage=\count398
+\c@origlanguage=\count399
+\c@savedoriglanguage=\count400
+\c@pageref=\count401
+\c@savedpageref=\count402
+\shorthandwidth=\skip63
+\shortjournalwidth=\skip64
+\shortserieswidth=\skip65
+\shorttitlewidth=\skip66
+\shortauthorwidth=\skip67
+\shorteditorwidth=\skip68
+\locallabelnumberwidth=\skip69
+\locallabelalphawidth=\skip70
+\localshorthandwidth=\skip71
+\localshortjournalwidth=\skip72
+\localshortserieswidth=\skip73
+\localshorttitlewidth=\skip74
+\localshortauthorwidth=\skip75
+\localshorteditorwidth=\skip76
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -425,19 +523,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count392
-\c@textcitetotal=\count393
-\c@textcitemaxnames=\count394
-\c@biburlbigbreakpenalty=\count395
-\c@biburlbreakpenalty=\count396
-\c@biburlnumpenalty=\count397
-\c@biburlucpenalty=\count398
-\c@biburllcpenalty=\count399
+\c@textcitecount=\count403
+\c@textcitetotal=\count404
+\c@textcitemaxnames=\count405
+\c@biburlbigbreakpenalty=\count406
+\c@biburlbreakpenalty=\count407
+\c@biburlnumpenalty=\count408
+\c@biburlucpenalty=\count409
+\c@biburllcpenalty=\count410
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count400
+\c@smartand=\count411
 )
 Package biblatex Info: Trying to load bibliography style 'numeric'...
 Package biblatex Info: ... file 'numeric.bbx' found.
@@ -449,8 +547,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 
 (/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count401
-\c@bbx:relatedtotal=\count402
+\c@bbx:relatedcount=\count412
+\c@bbx:relatedtotal=\count413
 ))
 Package biblatex Info: Trying to load citation style 'numeric'...
 Package biblatex Info: ... file 'numeric.cbx' found.
@@ -884,19 +982,15 @@ runsystem(which pygmentize && touch main.aex)...executed.
 
 runsystem(rm main.aex)...executed.
 
-\@quotelevel=\count403
-\@quotereset=\count404
+\@quotelevel=\count414
+\@quotereset=\count415
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count405
+\l__kernel_color_stack_int=\count416
 \l__pdf_internal_box=\box54
 )
-(./main.aux
-
-LaTeX Warning: Label `s:2qu-methods' multiply defined.
-
-)
+(./main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
@@ -913,6 +1007,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 28.
 LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
 8.
@@ -920,19 +1016,41 @@ LaTeX Font Info:    Trying to load font information for LGR+cmr on input line 2
 File: lgrcmr.fd 2017/07/29 v1.2 Greek European Computer Regular
 )
 LaTeX Font Info:    ... okay on input line 28.
+\AtBeginShipoutBox=\box55
+Package hyperref Info: Link coloring OFF on input line 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count417
+)
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
+
+(./main.out) (./main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count406
-\scratchdimen=\dimen172
-\scratchbox=\box55
-\nofMPsegments=\count407
-\nofMParguments=\count408
+\scratchcounter=\count418
+\scratchdimen=\dimen176
+\scratchbox=\box56
+\nofMPsegments=\count419
+\nofMParguments=\count420
 \everyMPshowfont=\toks22
-\MPscratchCnt=\count409
-\MPscratchDim=\dimen173
-\MPnumerator=\count410
-\makeMPintoPDFobject=\count411
+\MPscratchCnt=\count421
+\MPscratchDim=\dimen177
+\MPnumerator=\count422
+\makeMPintoPDFobject=\count423
 \everyMPtoPDFconversion=\toks23
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -989,612 +1107,841 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
- (./main.bbl
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                ballantyne-2011
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                dupree
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                gregory
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                islr
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                moore
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
-(biblatex)                wood-2014
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-)
+ (./main.bbl)
 Package biblatex Info: Reference section=0 on input line 28.
 Package biblatex Info: Reference segment=0 on input line 28.
-\big@size=\dimen174
+\big@size=\dimen178
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 3
-0.
- (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
+1.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-30.
+31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-30.
+31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-30.
+31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-30.
+31.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-) (./main.toc
+) (./main.toc)
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-\tf@toc=\write6
-\openout6 = `main.toc'.
-
- [2] [3] [4]
-LaTeX Font Info:    Trying to load font information for T1+pcr on input line 11
-1.
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+LaTeX Font Info:    Trying to load font information for T1+pcr on input line 10
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
-)
-Underfull \hbox (badness 1484) in paragraph at lines 111--111
-[][]\T1/ppl/m/n/8 The dash-board will be dis-cussed later. It is avail-able at 
-$\T1/pcr/m/n/8 https : / / www . nz-[]newspaper-[]philosophy .
- []
+) [4]
+<images/flow_diagram.png, id=213, 1923.185pt x 966.61125pt>
+File: images/flow_diagram.png Graphic file (type png)
+<use images/flow_diagram.png>
+Package pdftex.def Info: images/flow_diagram.png  used on input line 161.
+(pdftex.def)             Requested size: 418.25368pt x 210.20676pt.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
+ has been already used, duplicate ignored
 
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.170 I
+       n this project, two iterations of the process were carried out.]
+[6pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) 
+has been already used, duplicate ignored
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]|\T1/pcr/m/n/10 ODT_-
- []
-
-
-Overfull \hbox (6.52235pt too wide) in paragraph at lines 144--144
-[]|\T1/pcr/m/n/10 0001.xml| 
- []
-
-
-Overfull \hbox (6.52235pt too wide) in paragraph at lines 144--144
-[]|\T1/pcr/m/n/10 0002.xml| 
- []
-
-
-Overfull \hbox (6.52235pt too wide) in paragraph at lines 144--144
-[]|\T1/pcr/m/n/10 mets.xml| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]|\T1/pcr/m/n/10 ODT_-
- []
-
-[5] [6]
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.181 
+       <./images/flow_diagram.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 183.
+               Default added (so using `tbp') on input line 190.
 
-[7]
+[7pdfTeX warning (ext4): destination with the same identifier (name{table.1}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.207 
+      ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 202.
+               Default added (so using `tbp') on input line 208.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 219.
+               Default added (so using `tbp') on input line 225.
 
-[8] [9]
-<images/philo_cooccurrence.png, id=35, 784.9325pt x 763.85374pt>
+[8pdfTeX warning (ext4): destination with the same identifier (name{table.2}) h
+as been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.253 T
+       he final exploratory method applied was co-occurrence network analysi...
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has
+ been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.253 T
+       he final exploratory method applied was co-occurrence network analysi...
+]
+<images/philo_cooccurrence.png, id=281, 784.9325pt x 763.85374pt>
 File: images/philo_cooccurrence.png Graphic file (type png)
 <use images/philo_cooccurrence.png>
-Package pdftex.def Info: images/philo_cooccurrence.png  used on input line 258.
+Package pdftex.def Info: images/philo_cooccurrence.png  used on input line 264.
 
 (pdftex.def)             Requested size: 334.60422pt x 325.61842pt.
- [10 <./images/philo_cooccurrence.png>]
+ [9] [10pdfTeX warning (ext4): destination with the same identifier (name{figur
+e.3}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.271 \subsubsection
+                    {Labelling Articles}\label{s:labelling} <./images/philo_coo
+ccurrence.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 269.
+               Default added (so using `tbp') on input line 275.
 
-[11] [12]
+[11pdfTeX warning (ext4): destination with the same identifier (name{table.4}) 
+has been already used, duplicate ignored
 
-LaTeX Warning: Reference `corpus-results' on page 13 undefined on input line 32
-7.
-
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.309 
+      ] [12]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 329.
+               Default added (so using `tbp') on input line 336.
 
-[13] [14]
-Overfull \hbox (12.71475pt too wide) in paragraph at lines 375--376
-\T1/ppl/m/n/10 The dash-board avail-able at $\T1/pcr/m/n/10 https : / / nz-[]ne
-wspaper-[]philosophy . herokuapp . com$ \T1/ppl/m/n/10 is hosted
+[13] [14pdfTeX warning (ext4): destination with the same identifier (name{table
+.5}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.368 \subsubsection
+                    {Hardware and Multiprocessing}\label{s:corpus-implementa...
+]
+Overfull \hbox (12.71475pt too wide) in paragraph at lines 384--385
+\T1/ppl/m/n/10 The dash-board avail-able at []$\T1/pcr/m/n/10 https : / / nz-[]
+newspaper-[]philosophy . herokuapp . com$[] \T1/ppl/m/n/10 is hosted
  []
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 385.
-
-
-LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 401.
+               Default added (so using `tbp') on input line 392.
 
 [15]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 425.
+               Default added (so using `tbp') on input line 408.
 
-[16]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 446.
+               Default added (so using `tbp') on input line 430.
 
-<images/corpus_10000_subset_tf-idf.png, id=60, 1003.75pt x 501.875pt>
+
+LaTeX Warning: Reference `t:false-negatives-full' on page 16 undefined on input
+ line 447.
+
+[16pdfTeX warning (ext4): destination with the same identifier (name{table.6}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.448 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.7
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.448 
+      ]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 451.
+
+
+LaTeX Warning: Reference `t:false-positives-full' on page 17 undefined on input
+ line 468.
+
+[17pdfTeX warning (ext4): destination with the same identifier (name{table.8}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.473 
+      pdfTeX warning (ext4): destination with the same identifier (name{table.9
+}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.473 
+      ]
+<images/corpus_10000_subset_tf-idf.png, id=419, 1003.75pt x 501.875pt>
 File: images/corpus_10000_subset_tf-idf.png Graphic file (type png)
 <use images/corpus_10000_subset_tf-idf.png>
 Package pdftex.def Info: images/corpus_10000_subset_tf-idf.png  used on input l
-ine 473.
+ine 478.
 (pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
-
-LaTeX Warning: Reference `f:wc-corpus-10k' on page 17 undefined on input line 4
-78.
-
-<images/philoso_tf-idf.png, id=61, 1003.75pt x 501.875pt>
+<images/philoso_tf-idf.png, id=422, 1003.75pt x 501.875pt>
 File: images/philoso_tf-idf.png Graphic file (type png)
 <use images/philoso_tf-idf.png>
-Package pdftex.def Info: images/philoso_tf-idf.png  used on input line 482.
+Package pdftex.def Info: images/philoso_tf-idf.png  used on input line 487.
 (pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
-[17]
-<images/nb1_philoso_tf-idf.png, id=65, 1003.75pt x 501.875pt>
+<images/nb1_philoso_tf-idf.png, id=423, 1003.75pt x 501.875pt>
 File: images/nb1_philoso_tf-idf.png Graphic file (type png)
 <use images/nb1_philoso_tf-idf.png>
-Package pdftex.def Info: images/nb1_philoso_tf-idf.png  used on input line 490.
+Package pdftex.def Info: images/nb1_philoso_tf-idf.png  used on input line 495.
 
 (pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
-<images/nb2_v2_philoso_tf-idf.png, id=66, 1003.75pt x 501.875pt>
+<images/nb2_v2_philoso_tf-idf.png, id=426, 1003.75pt x 501.875pt>
 File: images/nb2_v2_philoso_tf-idf.png Graphic file (type png)
 <use images/nb2_v2_philoso_tf-idf.png>
 Package pdftex.def Info: images/nb2_v2_philoso_tf-idf.png  used on input line 5
-00.
+04.
 (pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
 
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 511.
+               Default added (so using `tbp') on input line 514.
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 516--516
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 519--519
 []\T1/ppl/m/n/10 1| 
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 516--516
+Underfull \hbox (badness 1048) in paragraph at lines 519--519
 []\T1/ppl/m/n/10 young, think, mrs, lady,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--516
+Underfull \hbox (badness 10000) in paragraph at lines 519--519
 \T1/ppl/m/n/10 came, eyes, thought,
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 516--516
+Underfull \hbox (badness 5533) in paragraph at lines 519--519
 []\T1/ppl/m/n/10 claim, judg-ment, plain-
  []
 
 
-Underfull \hbox (badness 2376) in paragraph at lines 516--517
+Underfull \hbox (badness 2376) in paragraph at lines 519--520
 []\T1/ppl/m/n/10 lecture, lec-turer, sub-ject,
  []
 
 
-Underfull \hbox (badness 4505) in paragraph at lines 516--517
+Underfull \hbox (badness 4505) in paragraph at lines 519--520
 \T1/ppl/m/n/10 pro-fes-sor, evening, last,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
+Underfull \hbox (badness 10000) in paragraph at lines 519--520
 \T1/ppl/m/n/10 chris-tian-ity, au-di-ence,
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 517--517
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 520--520
 []\T1/ppl/m/n/10 2| 
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 518--518
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 521--521
 []\T1/ppl/m/n/10 3| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--518
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
 []\T1/ppl/m/n/10 english, book, lord,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--518
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
 \T1/ppl/m/n/10 women, love, though,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 518--518
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
 \T1/ppl/m/n/10 whose, god, char-ac-ter,
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 518--519
+Underfull \hbox (badness 1005) in paragraph at lines 521--522
 []\T1/ppl/m/n/10 christ, je-sus, shall, faith,
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 519--519
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 522--522
 []\T1/ppl/m/n/10 4| 
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 519--519
+Underfull \hbox (badness 4886) in paragraph at lines 522--522
 []\T1/ppl/m/n/10 school, year, uni-ver-sity,
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 519--519
+Underfull \hbox (badness 3364) in paragraph at lines 522--522
 []\T1/ppl/m/n/10 disease, use, life, food,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 519--520
+Underfull \hbox (badness 10000) in paragraph at lines 522--523
 \T1/ppl/m/n/10 species, found, the-ory,
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 520--520
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 523--523
 []\T1/ppl/m/n/10 5| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--520
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
 []\T1/ppl/m/n/10 disease, health, synod,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--520
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
 \T1/ppl/m/n/10 cure, med-i-cal, rem-edy,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--520
+Underfull \hbox (badness 10000) in paragraph at lines 523--523
 \T1/ppl/m/n/10 medicine, pain, bot-tle,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
 []\T1/ppl/m/n/10 tho, church, chris-tian,
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 520--521
+Underfull \hbox (badness 2318) in paragraph at lines 523--524
 \T1/ppl/m/n/10 catholic, faith, churches,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 520--521
+Underfull \hbox (badness 10000) in paragraph at lines 523--524
 \T1/ppl/m/n/10 re-li-gion, chris-tian-ity,
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 521--521
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 524--524
 []\T1/ppl/m/n/10 6| 
  []
 
 
-Underfull \hbox (badness 4595) in paragraph at lines 521--521
+Underfull \hbox (badness 4595) in paragraph at lines 524--524
 []\T1/ppl/m/n/10 water, 000, miles, feet,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 521--521
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
 \T1/ppl/m/n/10 chil-dren, sys-tem, com-
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 522--522
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 525--525
 []\T1/ppl/m/n/10 7| 
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 523--523
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 526--526
 []\T1/ppl/m/n/10 8| 
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 523--523
+Underfull \hbox (badness 4846) in paragraph at lines 526--526
 []\T1/ppl/m/n/10 meeting, evening, held,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 523--523
+Underfull \hbox (badness 10000) in paragraph at lines 526--526
 \T1/ppl/m/n/10 messrs, com-pany, fol-
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 523--523
+Underfull \hbox (badness 1152) in paragraph at lines 526--526
 \T1/ppl/m/n/10 low-ing, year, com-mit-tee,
  []
 
 
-Underfull \hbox (badness 7273) in paragraph at lines 523--523
+Underfull \hbox (badness 7273) in paragraph at lines 526--526
 \T1/ppl/m/n/10 earth, aud, aro, havo,
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 523--524
+Underfull \hbox (badness 2027) in paragraph at lines 526--527
 \T1/ppl/m/n/10 gion, ev-ery, christ, evil,
  []
 
 
-Overfull \hbox (0.81976pt too wide) in paragraph at lines 524--524
+Overfull \hbox (0.81976pt too wide) in paragraph at lines 527--527
 []\T1/ppl/m/n/10 9| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--524
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
 \T1/ppl/m/n/10 sir, house, ques-tion,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--524
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
 \T1/ppl/m/n/10 zealand, bill, po-lit-i-cal,
  []
 
 
-Overfull \hbox (5.81976pt too wide) in paragraph at lines 525--525
+Overfull \hbox (5.81976pt too wide) in paragraph at lines 528--528
 []\T1/ppl/m/n/10 10| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 525--525
+Underfull \hbox (badness 10000) in paragraph at lines 528--528
 \T1/ppl/m/n/10 evening, whioh, night,
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 525--526
+Underfull \hbox (badness 1831) in paragraph at lines 528--529
 \T1/ppl/m/n/10 chris-tian, re-li-gion, truth,
  []
 
-[18 <./images/corpus_10000_subset_tf-idf.png>] [19 <./images/philoso_tf-idf.png
-> <./images/nb1_philoso_tf-idf.png>] [20]
+[18pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.532 \end{table}
+                  <./images/corpus_10000_subset_tf-idf.png>] [19pdfTeX warning 
+(ext4): destination with the same identifier (name{figure.5}) has been already 
+used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.532 \end{table}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{figure.6}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.532 \end{table}
+                  <./images/philoso_tf-idf.png> <./images/nb1_philoso_tf-idf.pn
+g>] [20pdfTeX warning (ext4): destination with the same identifier (name{figure
+.7}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.543 
+       <./images/nb2_v2_philoso_tf-idf.png>] [21pdfTeX warning (ext4): destinat
+ion with the same identifier (name{table.10}) has been already used, duplicate 
+ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.543 
+      ]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 543.
+               Default added (so using `tbp') on input line 546.
 
-[21 <./images/nb2_v2_philoso_tf-idf.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 563.
+               Default added (so using `tbp') on input line 566.
 
+[22pdfTeX warning (ext4): destination with the same identifier (name{table.11})
+ has been already used, duplicate ignored
 
-LaTeX Warning: Reference `s:2qu-results' on page 22 undefined on input line 587
-.
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.585   \item C
+               an topic modelling and co-occurrence analysis on the resultin...
+pdfTeX warning (ext4): destination with the same identifier (name{table.12}) ha
+s been already used, duplicate ignored
 
-[22]
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.585   \item C
+               an topic modelling and co-occurrence analysis on the resultin...
+]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 610.
+               Default added (so using `tbp') on input line 613.
 
-[23]
+[23pdfTeX warning (ext4): destination with the same identifier (name{table.13})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.631 N
+       o further discussion of the technical details of the methods applied ...
+pdfTeX warning (ext4): destination with the same identifier (name{table.14}) ha
+s been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.631 N
+       o further discussion of the technical details of the methods applied ...
+]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 642.
+               Default added (so using `tbp') on input line 647.
 
-<images/rel_v2_philoso_tf-idf.png, id=90, 1003.75pt x 501.875pt>
+[24pdfTeX warning (ext4): destination with the same identifier (name{table.15})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.662 
+      ]
+<images/rel_v2_philoso_tf-idf.png, id=525, 1003.75pt x 501.875pt>
 File: images/rel_v2_philoso_tf-idf.png Graphic file (type png)
 <use images/rel_v2_philoso_tf-idf.png>
 Package pdftex.def Info: images/rel_v2_philoso_tf-idf.png  used on input line 6
-60.
+65.
 (pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
-[24 <./images/rel_v2_philoso_tf-idf.png>]
+
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 669.
+               Default added (so using `tbp') on input line 674.
 
-<images/evo_network_main.png, id=95, 807.015pt x 763.85374pt>
+[25pdfTeX warning (ext4): destination with the same identifier (name{figure.8})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.707 
+       <./images/rel_v2_philoso_tf-idf.png>]
+<images/evo_network_main.png, id=543, 807.015pt x 763.85374pt>
 File: images/evo_network_main.png Graphic file (type png)
 <use images/evo_network_main.png>
-Package pdftex.def Info: images/evo_network_main.png  used on input line 707.
+Package pdftex.def Info: images/evo_network_main.png  used on input line 712.
 (pdftex.def)             Requested size: 292.77629pt x 277.12009pt.
-<images/genesis_main.png, id=96, 813.0375pt x 769.87625pt>
+<images/genesis_main.png, id=544, 813.0375pt x 769.87625pt>
 File: images/genesis_main.png Graphic file (type png)
 <use images/genesis_main.png>
-Package pdftex.def Info: images/genesis_main.png  used on input line 708.
+Package pdftex.def Info: images/genesis_main.png  used on input line 713.
 (pdftex.def)             Requested size: 292.77629pt x 277.22572pt.
 
-LaTeX Warning: Float too large for page by 4.57156pt on input line 711.
 
-[25] [26 <./images/evo_network_main.png> <./images/genesis_main.png>]
-<images/materialism_main.png, id=106, 826.08624pt x 769.87625pt>
+LaTeX Warning: Float too large for page by 4.57156pt on input line 716.
+
+<images/materialism_main.png, id=550, 826.08624pt x 769.87625pt>
 File: images/materialism_main.png Graphic file (type png)
 <use images/materialism_main.png>
-Package pdftex.def Info: images/materialism_main.png  used on input line 718.
+Package pdftex.def Info: images/materialism_main.png  used on input line 724.
 (pdftex.def)             Requested size: 292.77629pt x 272.85571pt.
-<images/human_net_main.png, id=107, 808.01875pt x 758.835pt>
+<images/human_net_main.png, id=551, 808.01875pt x 758.835pt>
 File: images/human_net_main.png Graphic file (type png)
 <use images/human_net_main.png>
-Package pdftex.def Info: images/human_net_main.png  used on input line 719.
+Package pdftex.def Info: images/human_net_main.png  used on input line 725.
 (pdftex.def)             Requested size: 292.77629pt x 274.95197pt.
- [27]
-[28 <./images/materialism_main.png> <./images/human_net_main.png>]
-Overfull \hbox (5.03136pt too wide) in paragraph at lines 763--768
+<images/choropleth.png, id=555, 650.43pt x 883.3pt>
+File: images/choropleth.png Graphic file (type png)
+<use images/choropleth.png>
+Package pdftex.def Info: images/choropleth.png  used on input line 735.
+(pdftex.def)             Requested size: 418.25368pt x 568.00569pt.
+
+LaTeX Warning: Float too large for page by 25.29544pt on input line 738.
+
+[26pdfTeX warning (ext4): destination with the same identifier (name{table.16})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.741 
+      ] [27pdfTeX warning (ext4): destination with the same identifier (name{fi
+gure.9}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.741 
+       <./images/evo_network_main.png> <./images/genesis_main.png>] [28pdfTeX w
+arning (ext4): destination with the same identifier (name{figure.10}) has been 
+already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.741 
+       <./images/materialism_main.png> <./images/human_net_main.png>] [29pdfTeX
+ warning (ext4): destination with the same identifier (name{figure.11}) has bee
+n already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.741 
+       <./images/choropleth.png>]
+
+LaTeX Warning: Reference `t:ext-val-chp' on page 30 undefined on input line 766
+.
+
+
+LaTeX Warning: Reference `t:ext-val-crane' on page 30 undefined on input line 7
+66.
+
+[30pdfTeX warning (ext4): destination with the same identifier (name{table.17})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.770 O
+       f the remaining missing articles, two are missing as a result of erro...
+]
+
+LaTeX Warning: Reference `t:ext-val-chp' on page 31 undefined on input line 770
+.
+
+
+Overfull \hbox (5.03136pt too wide) in paragraph at lines 775--780
 [][]
  []
 
-<images/topic93.png, id=116, 1003.75pt x 501.875pt>
+<images/topic93.png, id=608, 1003.75pt x 501.875pt>
 File: images/topic93.png Graphic file (type png)
 <use images/topic93.png>
-Package pdftex.def Info: images/topic93.png  used on input line 775.
+Package pdftex.def Info: images/topic93.png  used on input line 789.
 (pdftex.def)             Requested size: 376.42575pt x 188.21797pt.
-[29 <./images/topic93.png>] [30] [31]
-Overfull \hbox (16.78476pt too wide) in paragraph at lines 813--813
-[]\T1/ppl/m/n/10 Library of Congress. \T1/ppl/m/it/10 MARC 21 XML Schema\T1/ppl
-/m/n/10 . \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : $\T1/pcr/m/n/10 %7Bhttp : / / www
- . loc . gov / standards /
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 796.
+
+[31pdfTeX warning (ext4): destination with the same identifier (name{table.18})
+ has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.817 
+      pdfTeX warning (ext4): destination with the same identifier (name{figure.
+12}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.817 
+       <./images/topic93.png>] [32pdfTeX warning (ext4): destination with the s
+ame identifier (name{table.19}) has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.828 
+      ] [33] [34]
+Underfull \hbox (badness 2005) in paragraph at lines 848--848
+[]\T1/ppl/m/n/10 ``Theological De-bate''. In: \T1/ppl/m/it/10 Ox-ford Ob-server
+ \T1/ppl/m/n/10 24/12 (1892), p. 3. \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : []$\T1/
+pcr/m/n/10 https : / /
  []
 
-
-Overfull \hbox (2.74036pt too wide) in paragraph at lines 813--813
-[]\T1/ppl/m/n/10 ``Personal Lib-erty''. In: \T1/ppl/m/it/10 Bruce Her-ald \T1/p
-pl/m/n/10 30 (3101 1899), p. 3. \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : $\T1/pcr/m/
-n/10 %7Bhttps : / / paperspast .
- []
-
-[32]
-Overfull \hbox (7.54094pt too wide) in paragraph at lines 813--813
-[]\T1/ppl/m/n/10 ``Random Shots''. In: \T1/ppl/m/it/10 Auck-land Star \T1/ppl/m
-/n/10 (1886), p. 4. \T1/ppl/m/sc/10 url\T1/ppl/m/n/10 : $\T1/pcr/m/n/10 %7Bhttp
-s : / / paperspast . natlib .
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 823--823
+[35] [36]pdfTeX warning (ext4): destination with the same identifier (name{sect
+ion.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.856 \section{Appendix}
+                        
+Underfull \hbox (badness 10000) in paragraph at lines 863--863
 []\T1/ppl/b/n/8 Philosophy
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 825--825
+Underfull \hbox (badness 1831) in paragraph at lines 865--865
 []\T1/ppl/m/n/8 GRANDMAMA ON "WOMAN'S
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 830--831
+Underfull \hbox (badness 10000) in paragraph at lines 870--871
 []\T1/ppl/m/n/8 Mislabelled (pass-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 839--840
+Underfull \hbox (badness 10000) in paragraph at lines 879--880
 []\T1/ppl/m/n/8 Mislabelled (pass-ing
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 852--853
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.881   \caption
+                {Full list of false negatives from test set for second Naive...
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.881 ...t set for second Naive Bayes classifier.}
+                                                  
+Underfull \hbox (badness 10000) in paragraph at lines 892--893
 []\T1/ppl/m/n/8 Correctly la-belled
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 853--853
+Underfull \hbox (badness 10000) in paragraph at lines 893--893
 []\T1/ppl/m/n/8 ST. AL-BANS WES-LEYAN
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 855--855
+Underfull \hbox (badness 1215) in paragraph at lines 895--895
 []\T1/ppl/m/n/8 CHARACTERISTICS OF CHIRIS-
  []
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 856--856
+Underfull \hbox (badness 7558) in paragraph at lines 896--896
 []\T1/ppl/m/n/8 MB RE-LI-GIOUS WORLD 'HU-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 857--857
+Underfull \hbox (badness 10000) in paragraph at lines 897--897
 []\T1/ppl/m/n/8 THE NEW PHO-TO-GRAPHIC
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 858--859
+Underfull \hbox (badness 1127) in paragraph at lines 898--899
 []\T1/ppl/m/n/8 Correctly la-belled (list
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 860--861
+Underfull \hbox (badness 10000) in paragraph at lines 900--901
 []\T1/ppl/m/n/8 A few philo-soph-i-cal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 862--862
+Underfull \hbox (badness 10000) in paragraph at lines 902--902
 []\T1/ppl/m/n/8 THE CATHOLIC CLAIMS T.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 863--863
+Underfull \hbox (badness 10000) in paragraph at lines 903--903
 []\T1/ppl/m/n/8 THE IN-FLU-ENCE OF CHRIS-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 864--864
+Underfull \hbox (badness 10000) in paragraph at lines 904--904
 []\T1/ppl/m/n/8 DEAN FAR-RAR DE-FENDS
  []
 
-[33] [34] [35] (./main.aux)
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.908   \caption
+                {Full list of false positives from test set for second Naive...
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.908 ...t set for second Naive Bayes classifier.}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{table.3}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.926   \caption
+                {Articles identified but not in labelled collection.}pdfTeX war
+ning (ext4): destination with the same identifier (name{table.3}) has been alre
+ady used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.926 ...entified but not in labelled collection.}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{table.4}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.951   \caption
+                {Articles on evolutionary ideas identified in Ballantyne 2012.}
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.951 ...ary ideas identified in Ballantyne 2012.}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{table.5}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.967   \caption
+                {Articles on 'Reign of Grace' controversy identified in Wood...
+pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.967 ...ce' controversy identified in Wood 2014.}
+                                                  pdfTeX warning (ext4): destin
+ation with the same identifier (name{table.6}) has been already used, duplicate
+ ignored
+<to be read again> 
+                   \relax 
+l.987   \caption
+                {Material concerning Fletcher's public lectures on evolution...
+pdfTeX warning (ext4): destination with the same identifier (name{table.6}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.987 ...s on evolution identified in Crane 2013.}
+                                                  
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 993.
+ [37] [38] [39]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 993.
+ (./main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 993.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 993.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: D6CDB40A17092557B83D4067B2E716C4;2425
+(rerunfilecheck)             After:  AE6FD584194261C046A9789BC764AC20;2469.
 
 LaTeX Warning: There were undefined references.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 993.
  ) 
 Here is how much of TeX's memory you used:
- 14233 strings out of 483107
- 261166 string characters out of 5964630
- 941429 words of memory out of 5000000
- 29043 multiletter control sequences out of 15000+600000
+ 17969 strings out of 483107
+ 320313 string characters out of 5964631
+ 1022837 words of memory out of 5000000
+ 32490 multiletter control sequences out of 15000+600000
  588414 words of font info for 134 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 41i,10n,45p,1588b,1382s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,10n,45p,1602b,1389s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/urw/palatino/uplb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 urw/palatino/uplr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino
 /uplri8a.pfb>
-Output written on main.pdf (35 pages, 2613189 bytes).
+Output written on main.pdf (39 pages, 2767110 bytes).
 PDF statistics:
- 156 PDF objects out of 1000 (max. 8388607)
- 92 compressed objects within 1 object stream
- 0 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 772 PDF objects out of 1000 (max. 8388607)
+ 694 compressed objects within 7 object streams
+ 215 named destinations out of 1000 (max. 500000)
+ 314 words of extra memory for PDF output out of 10000 (max. 10000000)
 

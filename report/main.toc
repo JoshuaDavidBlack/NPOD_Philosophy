@@ -1,63 +1,65 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1}Organisation, Motivation and Research Questions}{3}%
+\contentsline {section}{\numberline {1}Organisation, Motivation and Research Questions}{2}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1}UC Arts Digital Lab}{3}%
+\contentsline {subsection}{\numberline {1.1}UC Arts Digital Lab}{2}{subsection.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Project Motivations}{3}%
+\contentsline {subsection}{\numberline {1.2}Project Motivations}{2}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.3}Research Questions}{4}%
+\contentsline {subsection}{\numberline {1.3}Research Questions}{3}{subsection.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.4}Data and Ethics Constraints}{4}%
+\contentsline {subsection}{\numberline {1.4}Data and Ethics Constraints}{4}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.5}Data Sources}{5}%
+\contentsline {subsection}{\numberline {1.5}Data Sources}{4}{subsection.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Corpus Construction}{6}%
+\contentsline {section}{\numberline {2}Corpus Construction}{5}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Methodology}{6}%
+\contentsline {subsection}{\numberline {2.1}Methodology}{5}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.1}Preprocessing}{6}%
+\contentsline {subsubsection}{\numberline {2.1.1}Preprocessing}{6}{subsubsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.2}Dataset Exploration}{7}%
+\contentsline {subsubsection}{\numberline {2.1.2}Dataset Exploration}{7}{subsubsection.2.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.3}Labelling Articles}{10}%
+\contentsline {subsubsection}{\numberline {2.1.3}Labelling Articles}{11}{subsubsection.2.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.1.4}Naive Bayes Classification}{12}%
+\contentsline {subsubsection}{\numberline {2.1.4}Naive Bayes Classification}{13}{subsubsection.2.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Implementation}{14}%
+\contentsline {subsubsection}{\numberline {2.1.5}Classifier Application and Bootstrapping}{14}{subsubsection.2.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Hardware and Multiprocessing}{14}%
+\contentsline {subsection}{\numberline {2.2}Implementation}{15}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}From METS/ALTO to Pandas}{15}%
+\contentsline {subsubsection}{\numberline {2.2.1}Hardware and Multiprocessing}{15}{subsubsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.3}Dashboard Construction: Dash and Heroku}{15}%
+\contentsline {subsubsection}{\numberline {2.2.2}From METS/ALTO to Pandas}{15}{subsubsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Results}{15}%
+\contentsline {subsubsection}{\numberline {2.2.3}Dashboard Construction: Dash and Heroku}{15}{subsubsection.2.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1}Classification Metrics}{15}%
+\contentsline {subsection}{\numberline {2.3}Results}{15}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2}Manual Inspection of False Positives and Negatives}{16}%
+\contentsline {subsubsection}{\numberline {2.3.1}Classification Metrics}{15}{subsubsection.2.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.3}Inspection of Resulting Corpora}{17}%
+\contentsline {subsubsection}{\numberline {2.3.2}Manual Inspection of False Positives and Negatives}{16}{subsubsection.2.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.4}Alternative Classifiers}{21}%
+\contentsline {subsubsection}{\numberline {2.3.3}Inspection of Resulting Corpora}{18}{subsubsection.2.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Two Questions about Philosophy in New Zealand}{22}%
+\contentsline {subsubsection}{\numberline {2.3.4}Alternative Classifiers}{22}{subsubsection.2.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Methodology}{22}%
+\contentsline {section}{\numberline {3}Two Questions about Philosophy in New Zealand}{22}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}Evolution and Religious Belief}{22}%
+\contentsline {subsection}{\numberline {3.1}Methodology}{23}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}New Zealand Content in the NB2 Corpus}{23}%
+\contentsline {subsubsection}{\numberline {3.1.1}Evolution and Religious Belief}{23}{subsubsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Results}{24}%
+\contentsline {subsubsection}{\numberline {3.1.2}New Zealand Content in the NB2 Corpus}{24}{subsubsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Evolution and Religious Belief}{24}%
+\contentsline {subsection}{\numberline {3.2}Results}{25}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}External Validation of the Rel Corpus}{27}%
+\contentsline {subsubsection}{\numberline {3.2.1}Evolution and Religious Belief}{25}{subsubsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.3}New Zealand Content in the NB2 Corpus}{29}%
+\contentsline {subsubsection}{\numberline {3.2.2}External Validation of the Rel Corpus}{30}{subsubsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4}Discussion}{30}%
+\contentsline {subsubsection}{\numberline {3.2.3}New Zealand Content in the NB2 Corpus}{31}{subsubsection.3.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Appendix}{33}%
+\contentsline {section}{\numberline {4}Discussion}{32}{section.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Appendix}{37}{section.1}%

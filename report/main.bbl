@@ -35,14 +35,14 @@
       \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{{accessed 22/01/2021}}
+      \field{addendum}{Accessed: 22/01/2021.}
       \field{title}{{Tutorial 5: Co-occurrence analysis}}
       \field{year}{2020}
       \verb{urlraw}
-      \verb {https://tm4ss.github.io/docs/Tutorial_5_Co-occurrence.html}
+      \verb https://tm4ss.github.io/docs/Tutorial_5_Co-occurrence.html
       \endverb
       \verb{url}
-      \verb %7Bhttps://tm4ss.github.io/docs/Tutorial_5_Co-occurrence.html%7D
+      \verb https://tm4ss.github.io/docs/Tutorial_5_Co-occurrence.html
       \endverb
     \endentry
     \entry{ballantyne-2012}{article}{}
@@ -63,21 +63,10 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Reading the Newspaper in Colonial Otago}
-      \field{issn}{2324-3740}
       \field{journaltitle}{The Journal of New Zealand Studies}
       \field{number}{12}
       \field{title}{Reading the Newspaper in Colonial Otago}
       \field{year}{2012}
-      \verb{doi}
-      \verb 10.26686/jnzs.v0i12.488
-      \endverb
-      \verb{urlraw}
-      \verb https://ojs.victoria.ac.nz/jnzs/article/view/488
-      \endverb
-      \verb{url}
-      \verb https://ojs.victoria.ac.nz/jnzs/article/view/488
-      \endverb
     \endentry
     \entry{weatherson}{online}{}
       \name{author}{1}{}{%
@@ -95,6 +84,7 @@
       \field{sortinithash}{8de16967003c7207dae369d874f1456e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 20/12/2020.}
       \field{title}{{A History of Philosophy Journals: Volume 1: Evidence from Topic Modeling, 1876-2013}}
       \field{year}{2020}
       \verb{urlraw}
@@ -102,19 +92,6 @@
       \endverb
       \verb{url}
       \verb http://www-personal.umich.edu/~weath/lda/
-      \endverb
-    \endentry
-    \entry{ppnodp-copyright}{online}{}
-      \field{sortinit}{C}
-      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
-      \field{labeltitlesource}{title}
-      \field{title}{{Copyright and re-use}}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/copyright-and-re-use-papers-past-newspaper-open-data-pilot
-      \endverb
-      \verb{url}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/copyright-and-re-use-papers-past-newspaper-open-data-pilot
       \endverb
     \endentry
     \entry{crane-2013}{article}{}
@@ -135,25 +112,35 @@
       \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{issn}{2324-3740}
       \field{journaltitle}{The Journal of New Zealand Studies}
       \field{number}{15}
-      \field{title}{Ä dangerous visionary\"? The Lectures of the Evolutionist T.J. Parker}
+      \field{title}{`A dangerous visionary'? The Lectures of the Evolutionist T.J. Parker}
       \field{year}{2013}
-      \verb{doi}
-      \verb 10.26686/jnzs.v0i15.2007
-      \endverb
-      \verb{urlraw}
-      \verb https://ojs.victoria.ac.nz/jnzs/article/view/2007
-      \endverb
-      \verb{url}
-      \verb https://ojs.victoria.ac.nz/jnzs/article/view/2007
-      \endverb
     \endentry
     \entry{education-act}{online}{}
-      \field{sortinit}{E}
-      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \name{author}{2}{}{%
+        {{hash=bf3de9cc3f491a2826a7a3539279c076}{%
+           family={Culture},
+           familyi={C\bibinitperiod},
+           given={Ministry},
+           giveni={M\bibinitperiod},
+           prefix={for},
+           prefixi={f\bibinitperiod}}}%
+        {{hash=5793e012c240f861ea0e36f29ca7fe4b}{%
+           family={Heritage},
+           familyi={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{ee73ec6ab61a0a72f8e954a7adce9ff7}
+      \strng{fullhash}{ee73ec6ab61a0a72f8e954a7adce9ff7}
+      \strng{bibnamehash}{ee73ec6ab61a0a72f8e954a7adce9ff7}
+      \strng{authorbibnamehash}{ee73ec6ab61a0a72f8e954a7adce9ff7}
+      \strng{authornamehash}{ee73ec6ab61a0a72f8e954a7adce9ff7}
+      \strng{authorfullhash}{ee73ec6ab61a0a72f8e954a7adce9ff7}
+      \field{sortinit}{C}
+      \field{sortinithash}{4c244ceae61406cdc0cc2ce1cb1ff703}
+      \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 01/02/2021.}
       \field{title}{Education Act passed into law}
       \field{urlyear}{}
       \field{year}{2020}
@@ -164,6 +151,75 @@
       \verb https://nzhistory.govt.nz/page/education-act-passed-law
       \endverb
     \endentry
+    \entry{dupree}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=ea1c1e783c01004afb97c66a8255197c}{%
+           family={Dupree},
+           familyi={D\bibinitperiod},
+           given={A.\bibnamedelimi Hunter},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1a662df3715234893859c44c9a63e967}{%
+           family={{David C. Lindberg and Ronald L. Numbers}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{ea1c1e783c01004afb97c66a8255197c}
+      \strng{fullhash}{ea1c1e783c01004afb97c66a8255197c}
+      \strng{bibnamehash}{ea1c1e783c01004afb97c66a8255197c}
+      \strng{authorbibnamehash}{ea1c1e783c01004afb97c66a8255197c}
+      \strng{authornamehash}{ea1c1e783c01004afb97c66a8255197c}
+      \strng{authorfullhash}{ea1c1e783c01004afb97c66a8255197c}
+      \strng{editorbibnamehash}{1a662df3715234893859c44c9a63e967}
+      \strng{editornamehash}{1a662df3715234893859c44c9a63e967}
+      \strng{editorfullhash}{1a662df3715234893859c44c9a63e967}
+      \field{sortinit}{D}
+      \field{sortinithash}{c438b3d5d027251ba63f5ed538d98af5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{God and Nature: Historical Essays on the Encounter between Christianity and Science}
+      \field{title}{Christianity and the Scientific Community in the Age of Darwin}
+      \field{year}{1986}
+      \field{pages}{351\bibrangedash 365}
+      \range{pages}{15}
+    \endentry
+    \entry{islr}{book}{}
+      \name{author}{2}{}{%
+        {{hash=d5f44a6621ce43e9add9c96e0c1a4de4}{%
+           family={Gareth\bibnamedelima James},
+           familyi={G\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={Trevor\bibnamedelima Hastie},
+           giveni={T\bibinitperiod\bibinitdelim H\bibinitperiod},
+           suffix={Daniela\bibnamedelima Witten},
+           suffixi={D\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=88eea600247d798f8b2ce0b2dc614492}{%
+           family={Tibshirani},
+           familyi={T\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \strng{namehash}{213aaeb61cc939e79a9ba7b7cfe9b596}
+      \strng{fullhash}{213aaeb61cc939e79a9ba7b7cfe9b596}
+      \strng{bibnamehash}{213aaeb61cc939e79a9ba7b7cfe9b596}
+      \strng{authorbibnamehash}{213aaeb61cc939e79a9ba7b7cfe9b596}
+      \strng{authornamehash}{213aaeb61cc939e79a9ba7b7cfe9b596}
+      \strng{authorfullhash}{213aaeb61cc939e79a9ba7b7cfe9b596}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to Statistical Learning: with Applications in R}
+      \field{year}{2015}
+    \endentry
     \entry{glymour}{book}{}
       \name{author}{1}{}{%
         {{hash=c1ac60b180fcd13ba2916a77d80dde83}{%
@@ -172,11 +228,11 @@
            given={Clark\bibnamedelima N.},
            giveni={C\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {English}%
+      \list{location}{1}{%
+        {Princeton, N.J.}%
       }
       \list{publisher}{1}{%
-        {Princeton University Press Princeton, N.J}%
+        {Princeton University Press}%
       }
       \strng{namehash}{c1ac60b180fcd13ba2916a77d80dde83}
       \strng{fullhash}{c1ac60b180fcd13ba2916a77d80dde83}
@@ -188,12 +244,8 @@
       \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{isbn}{069107240 0691100772}
-      \field{title}{Theory and evidence / Clark Glymour}
-      \field{type}{Book}
+      \field{title}{Theory and Evidence}
       \field{year}{1980}
-      \field{pages}{xi\bibrangessep 383 p. :}
-      \range{pages}{-1}
     \endentry
     \entry{oddie-1992}{incollection}{}
       \name{author}{1}{}{%
@@ -228,6 +280,44 @@
       \field{booktitle}{{Justice, Ethics and New Zealand Society}}
       \field{title}{{Introduction}}
       \field{year}{1992}
+    \endentry
+    \entry{gregory}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=a996fb5273dc8485550bb8e950634e18}{%
+           family={Gregory},
+           familyi={G\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1a662df3715234893859c44c9a63e967}{%
+           family={{David C. Lindberg and Ronald L. Numbers}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{a996fb5273dc8485550bb8e950634e18}
+      \strng{fullhash}{a996fb5273dc8485550bb8e950634e18}
+      \strng{bibnamehash}{a996fb5273dc8485550bb8e950634e18}
+      \strng{authorbibnamehash}{a996fb5273dc8485550bb8e950634e18}
+      \strng{authornamehash}{a996fb5273dc8485550bb8e950634e18}
+      \strng{authorfullhash}{a996fb5273dc8485550bb8e950634e18}
+      \strng{editorbibnamehash}{1a662df3715234893859c44c9a63e967}
+      \strng{editornamehash}{1a662df3715234893859c44c9a63e967}
+      \strng{editorfullhash}{1a662df3715234893859c44c9a63e967}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{God and Nature: Historical Essays on the Encounter between Christianity and Science}
+      \field{title}{The Impact of Darwinian Evolution on Protestant Theology in the Nineteenth Century}
+      \field{year}{1986}
+      \field{pages}{369\bibrangedash 390}
+      \range{pages}{22}
     \endentry
     \entry{harris2020array}{article}{}
       \name{author}{26}{}{%
@@ -368,9 +458,8 @@
            given={Travis\bibnamedelima E.},
            giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
       }
-      \list{publisher}{2}{%
-        {Springer Science}%
-        {Business Media {LLC}}%
+      \list{publisher}{1}{%
+        {Springer}%
       }
       \strng{namehash}{754b3dec5e203c19b9a5798bbb902222}
       \strng{fullhash}{20a3c5c8fa30441726cd563f2f6d242e}
@@ -392,12 +481,6 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1038/s41586-020-2649-2
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1038/s41586-020-2649-2
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1038/s41586-020-2649-2
       \endverb
     \endentry
     \entry{spacy}{software}{}
@@ -456,9 +539,6 @@
            given={Plotly\bibnamedelima Technologies},
            giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {https://plot.ly}%
-      }
       \list{publisher}{1}{%
         {Plotly Technologies Inc.}%
       }
@@ -472,31 +552,14 @@
       \field{sortinithash}{9417e9a1288a9371e2691d999083ed39}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 05/02/2021.}
       \field{title}{Collaborative data science}
-    \endentry
-    \entry{marc}{online}{}
-      \name{author}{1}{}{%
-        {{hash=9565002c760d5f54e633221fa5e570e3}{%
-           family={{Library of Congress}},
-           familyi={L\bibinitperiod}}}%
-      }
-      \strng{namehash}{9565002c760d5f54e633221fa5e570e3}
-      \strng{fullhash}{9565002c760d5f54e633221fa5e570e3}
-      \strng{bibnamehash}{9565002c760d5f54e633221fa5e570e3}
-      \strng{authorbibnamehash}{9565002c760d5f54e633221fa5e570e3}
-      \strng{authornamehash}{9565002c760d5f54e633221fa5e570e3}
-      \strng{authorfullhash}{9565002c760d5f54e633221fa5e570e3}
-      \field{sortinit}{L}
-      \field{sortinithash}{dad3efd0836470093a7b4a7bb756eb8c}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{addendum}{{accessed 22/01/2021}}
-      \field{title}{{MARC 21 XML Schema}}
+      \field{year}{2021}
       \verb{urlraw}
-      \verb {http://www.loc.gov/standards/marcxml/}
+      \verb https://plot.ly
       \endverb
       \verb{url}
-      \verb %7Bhttp://www.loc.gov/standards/marcxml/%7D
+      \verb https://plot.ly
       \endverb
     \endentry
     \entry{davies-2014}{incollection}{}
@@ -512,6 +575,9 @@
       }
       \list{location}{1}{%
         {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
       }
       \strng{namehash}{e01b44e10f320e1aced64a0f152a8973}
       \strng{fullhash}{e01b44e10f320e1aced64a0f152a8973}
@@ -532,27 +598,88 @@
       \field{pages}{{15\bibrangedash 54}}
       \range{pages}{-1}
     \endentry
+    \entry{moore}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=0b20355bfcd68f0e6612805d29522d87}{%
+           family={Moore},
+           familyi={M\bibinitperiod},
+           given={James\bibnamedelima R.},
+           giveni={J\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=1a662df3715234893859c44c9a63e967}{%
+           family={{David C. Lindberg and Ronald L. Numbers}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berkeley}%
+      }
+      \list{publisher}{1}{%
+        {University of California Press}%
+      }
+      \strng{namehash}{0b20355bfcd68f0e6612805d29522d87}
+      \strng{fullhash}{0b20355bfcd68f0e6612805d29522d87}
+      \strng{bibnamehash}{0b20355bfcd68f0e6612805d29522d87}
+      \strng{authorbibnamehash}{0b20355bfcd68f0e6612805d29522d87}
+      \strng{authornamehash}{0b20355bfcd68f0e6612805d29522d87}
+      \strng{authorfullhash}{0b20355bfcd68f0e6612805d29522d87}
+      \strng{editorbibnamehash}{1a662df3715234893859c44c9a63e967}
+      \strng{editornamehash}{1a662df3715234893859c44c9a63e967}
+      \strng{editorfullhash}{1a662df3715234893859c44c9a63e967}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{God and Nature: Historical Essays on the Encounter between Christianity and Science}
+      \field{title}{Geologists and Interpreters of Genesis in the Nineteenth Century}
+      \field{year}{1986}
+      \field{pages}{322\bibrangedash 350}
+      \range{pages}{29}
+    \endentry
     \entry{moretti}{book}{}
       \name{author}{1}{}{%
-        {{hash=d0be84d1a685285766208d2d31db38b8}{%
-           family={{Moretti, Franco}},
-           familyi={M\bibinitperiod}}}%
+        {{hash=60e0776eab9ad2bb3da78fa156996838}{%
+           family={Moretti},
+           familyi={M\bibinitperiod},
+           given={Franco},
+           giveni={F\bibinitperiod}}}%
       }
       \list{location}{1}{%
         {London}%
       }
-      \strng{namehash}{d0be84d1a685285766208d2d31db38b8}
-      \strng{fullhash}{d0be84d1a685285766208d2d31db38b8}
-      \strng{bibnamehash}{d0be84d1a685285766208d2d31db38b8}
-      \strng{authorbibnamehash}{d0be84d1a685285766208d2d31db38b8}
-      \strng{authornamehash}{d0be84d1a685285766208d2d31db38b8}
-      \strng{authorfullhash}{d0be84d1a685285766208d2d31db38b8}
+      \list{publisher}{1}{%
+        {Verso}%
+      }
+      \strng{namehash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{fullhash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{bibnamehash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{authorbibnamehash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{authornamehash}{60e0776eab9ad2bb3da78fa156996838}
+      \strng{authorfullhash}{60e0776eab9ad2bb3da78fa156996838}
       \field{sortinit}{M}
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{{Distant Reading}}
       \field{year}{2013}
+    \endentry
+    \entry{besant}{article}{}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 03/02/2021}
+      \field{journaltitle}{{The Press}}
+      \field{title}{{MRS BESANT.}}
+      \field{volume}{19/10}
+      \field{year}{1894}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://paperspast.natlib.govt.nz/newspapers/CHP18941019.2.40
+      \endverb
+      \verb{url}
+      \verb https://paperspast.natlib.govt.nz/newspapers/CHP18941019.2.40
+      \endverb
     \endentry
     \entry{wordcloud}{online}{}
       \name{author}{1}{}{%
@@ -572,6 +699,7 @@
       \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
+      \field{addendum}{Accessed 01/02/2021}
       \field{title}{Word Cloud}
       \field{urlyear}{}
       \field{year}{2020}
@@ -580,111 +708,6 @@
       \endverb
       \verb{url}
       \verb https://amueller.github.io/word_cloud/index.html
-      \endverb
-    \endentry
-    \entry{pp-about}{online}{}
-      \name{author}{1}{}{%
-        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
-           family={{National Library}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \field{extraname}{1}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{About Papers Past}}
-      \field{urlyear}{}
-      \verb{urlraw}
-      \verb https://paperspast.natlib.govt.nz/about
-      \endverb
-      \verb{url}
-      \verb https://paperspast.natlib.govt.nz/about
-      \endverb
-    \endentry
-    \entry{ppnodp-data-standards}{online}{}
-      \name{author}{1}{}{%
-        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
-           family={{National Library}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \field{extraname}{2}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Data standards}}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/data-standards-papers-past-newspaper-open-data-pilot
-      \endverb
-      \verb{url}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/data-standards-papers-past-newspaper-open-data-pilot
-      \endverb
-    \endentry
-    \entry{ppnodp}{online}{}
-      \name{author}{1}{}{%
-        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
-           family={{National Library}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \field{extraname}{3}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Papers Past newspaper open data pilot}}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot
-      \endverb
-      \verb{url}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot
-      \endverb
-    \endentry
-    \entry{ppnodp-projects}{online}{}
-      \name{author}{1}{}{%
-        {{hash=0676db079f869e24e75e2bd28b50b13e}{%
-           family={{National Library}},
-           familyi={N\bibinitperiod}}}%
-      }
-      \strng{namehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{fullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{bibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorbibnamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authornamehash}{0676db079f869e24e75e2bd28b50b13e}
-      \strng{authorfullhash}{0676db079f869e24e75e2bd28b50b13e}
-      \field{extraname}{4}
-      \field{sortinit}{N}
-      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{{Projects}}
-      \field{urlyear}{}
-      \field{year}{2020}
-      \verb{urlraw}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/projects-papers-past-newspaper-open-data-pilot
-      \endverb
-      \verb{url}
-      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/projects-papers-past-newspaper-open-data-pilot
       \endverb
     \endentry
     \entry{logdice}{incollection}{}
@@ -702,7 +725,7 @@
         {Brno}%
       }
       \list{publisher}{1}{%
-        {Masaryk University}%
+        {Masaryk University Press}%
       }
       \strng{namehash}{0901245a280bb6a9a9b44bf54ade167a}
       \strng{fullhash}{0901245a280bb6a9a9b44bf54ade167a}
@@ -825,52 +848,83 @@
       \field{sortinit}{P}
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{labeltitlesource}{title}
-      \field{issue}{3101}
+      \field{addendum}{Accessed: 03/02/2021}
       \field{journaltitle}{{Bruce Herald}}
       \field{title}{{Personal Liberty}}
-      \field{volume}{30}
+      \field{volume}{22/09}
       \field{year}{1899}
       \field{pages}{3}
       \range{pages}{1}
       \verb{urlraw}
-      \verb {https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1}
+      \verb https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1
       \endverb
       \verb{url}
-      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1%7D
+      \verb https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1
       \endverb
     \endentry
     \entry{clothing-example}{article}{}
       \field{sortinit}{P}
       \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
       \field{labeltitlesource}{title}
-      \field{issue}{5101}
+      \field{addendum}{Accessed: 03/02/2021}
       \field{journaltitle}{{Daily Southern Cross}}
       \field{title}{{POLICE COURT.—Saturday. [Before Thomas Beckham Esq., R.M.]}}
-      \field{volume}{29}
+      \field{volume}{29/12}
       \field{year}{1873}
       \field{pages}{3}
       \range{pages}{1}
       \verb{urlraw}
-      \verb {https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1}
+      \verb https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1
       \endverb
       \verb{url}
-      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1%7D
+      \verb https://paperspast.natlib.govt.nz/newspapers/BH18990922.2.9.1
+      \endverb
+    \endentry
+    \entry{folium}{software}{}
+      \name{author}{1}{}{%
+        {{hash=dbf835ab465cd16eaf252d74d0a0943d}{%
+           family={python-visualization},
+           familyi={p\bibinithyphendelim v\bibinitperiod}}}%
+      }
+      \strng{namehash}{dbf835ab465cd16eaf252d74d0a0943d}
+      \strng{fullhash}{dbf835ab465cd16eaf252d74d0a0943d}
+      \strng{bibnamehash}{dbf835ab465cd16eaf252d74d0a0943d}
+      \strng{authorbibnamehash}{dbf835ab465cd16eaf252d74d0a0943d}
+      \strng{authornamehash}{dbf835ab465cd16eaf252d74d0a0943d}
+      \strng{authorfullhash}{dbf835ab465cd16eaf252d74d0a0943d}
+      \field{sortinit}{p}
+      \field{sortinithash}{bb5b15f2db90f7aef79bb9e83defefcb}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{28}
+      \field{month}{12}
+      \field{title}{Folium}
+      \field{version}{0.11.0}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://python-visualization.github.io/folium/
+      \endverb
+      \verb{url}
+      \verb https://python-visualization.github.io/folium/
       \endverb
     \endentry
     \entry{suicide-example}{article}{}
       \field{sortinit}{R}
       \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
       \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 03/02/2021}
       \field{journaltitle}{{Auckland Star}}
       \field{title}{{Random Shots}}
+      \field{volume}{21/08}
       \field{year}{1886}
       \field{pages}{4}
       \range{pages}{1}
       \verb{urlraw}
-      \verb {https://paperspast.natlib.govt.nz/newspapers/AS18860821.2.33}
+      \verb https://paperspast.natlib.govt.nz/newspapers/AS18860821.2.33
       \endverb
       \verb{url}
-      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/AS18860821.2.33%7D
+      \verb https://paperspast.natlib.govt.nz/newspapers/AS18860821.2.33
       \endverb
     \endentry
     \entry{gensim}{inproceedings}{}
@@ -886,14 +940,11 @@
            given={Petr},
            giveni={P\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {English}%
-      }
       \list{location}{1}{%
         {Valletta, Malta}%
       }
       \list{publisher}{1}{%
-        {ELRA}%
+        {European Language Resources Association}%
       }
       \strng{namehash}{0c7724ed4f55cbb86419c913d469aa5c}
       \strng{fullhash}{0c7724ed4f55cbb86419c913d469aa5c}
@@ -907,7 +958,6 @@
       \field{labeltitlesource}{title}
       \field{booktitle}{{Proceedings of the LREC 2010 Workshop on New Challenges for NLP Frameworks}}
       \field{month}{5}
-      \field{note}{\url{http://is.muni.cz/publication/884893/en}}
       \field{title}{{Software Framework for Topic Modelling with Large Corpora}}
       \field{year}{2010}
       \field{pages}{45\bibrangedash 50}
@@ -922,6 +972,9 @@
       \list{location}{1}{%
         {Sebastopol}%
       }
+      \list{publisher}{1}{%
+        {O'Reilly Media}%
+      }
       \strng{namehash}{a08ced960fe8ffe2ef4f491d0d890a31}
       \strng{fullhash}{a08ced960fe8ffe2ef4f491d0d890a31}
       \strng{bibnamehash}{a08ced960fe8ffe2ef4f491d0d890a31}
@@ -935,20 +988,182 @@
       \field{title}{{Natural Language Processing with Python}}
       \field{year}{2009}
     \endentry
+    \entry{marc}{online}{}
+      \name{author}{1}{}{%
+        {{hash=a31f5197a115d44e163fb1355242ea58}{%
+           family={{The Library of Congress}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{a31f5197a115d44e163fb1355242ea58}
+      \strng{fullhash}{a31f5197a115d44e163fb1355242ea58}
+      \strng{bibnamehash}{a31f5197a115d44e163fb1355242ea58}
+      \strng{authorbibnamehash}{a31f5197a115d44e163fb1355242ea58}
+      \strng{authornamehash}{a31f5197a115d44e163fb1355242ea58}
+      \strng{authorfullhash}{a31f5197a115d44e163fb1355242ea58}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{{Accessed 22/01/2021.}}
+      \field{title}{{MARC 21 XML Schema}}
+      \verb{urlraw}
+      \verb http://www.loc.gov/standards/marcxml/
+      \endverb
+      \verb{url}
+      \verb http://www.loc.gov/standards/marcxml/
+      \endverb
+    \endentry
+    \entry{pp-about}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4b0dfbb580bac9d89fe6343a3ea313d6}{%
+           family={{The National Library of New Zealand}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{fullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{bibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorbibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authornamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorfullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \field{extraname}{1}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accessed 02/02/2021.}
+      \field{title}{{About Papers Past}}
+      \verb{urlraw}
+      \verb https://paperspast.natlib.govt.nz/about
+      \endverb
+      \verb{url}
+      \verb https://paperspast.natlib.govt.nz/about
+      \endverb
+    \endentry
+    \entry{ppnodp-copyright}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4b0dfbb580bac9d89fe6343a3ea313d6}{%
+           family={{The National Library of New Zealand}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{fullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{bibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorbibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authornamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorfullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \field{extraname}{2}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 20/12/2020.}
+      \field{title}{{Copyright and re-use}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/copyright-and-re-use-papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/copyright-and-re-use-papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{ppnodp-data-standards}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4b0dfbb580bac9d89fe6343a3ea313d6}{%
+           family={{The National Library of New Zealand}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{fullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{bibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorbibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authornamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorfullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \field{extraname}{3}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{{Accessed 02/02/2021}}
+      \field{title}{{Data standards}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/data-standards-papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/data-standards-papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{ppnodp}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4b0dfbb580bac9d89fe6343a3ea313d6}{%
+           family={{The National Library of New Zealand}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{fullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{bibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorbibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authornamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorfullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \field{extraname}{4}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 20/12/2020.}
+      \field{title}{{Papers Past newspaper open data pilot}}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
+    \entry{ppnodp-projects}{online}{}
+      \name{author}{1}{}{%
+        {{hash=4b0dfbb580bac9d89fe6343a3ea313d6}{%
+           family={{The National Library of New Zealand}},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{fullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{bibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorbibnamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authornamehash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \strng{authorfullhash}{4b0dfbb580bac9d89fe6343a3ea313d6}
+      \field{extraname}{5}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{addendum}{{Accessed 02/02/2021.}}
+      \field{title}{{Projects}}
+      \field{urlyear}{}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/projects-papers-past-newspaper-open-data-pilot
+      \endverb
+      \verb{url}
+      \verb https://natlib.govt.nz/about-us/open-data/papers-past-metadata/papers-past-newspaper-open-data-pilot/projects-papers-past-newspaper-open-data-pilot
+      \endverb
+    \endentry
     \entry{oxford-god}{article}{}
       \field{sortinit}{T}
       \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
       \field{labeltitlesource}{title}
+      \field{addendum}{Accessed: 03/02/2021}
       \field{journaltitle}{{Oxford Observer}}
       \field{title}{{Theological Debate}}
+      \field{volume}{24/12}
       \field{year}{1892}
       \field{pages}{3}
       \range{pages}{1}
       \verb{urlraw}
-      \verb {https://paperspast.natlib.govt.nz/newspapers/OO18921224.2.5}
+      \verb https://paperspast.natlib.govt.nz/newspapers/OO18921224.2.5
       \endverb
       \verb{url}
-      \verb %7Bhttps://paperspast.natlib.govt.nz/newspapers/OO18921224.2.5%7D
+      \verb https://paperspast.natlib.govt.nz/newspapers/OO18921224.2.5
       \endverb
     \endentry
     \entry{mets-alto}{online}{}
@@ -967,14 +1182,40 @@
       \field{sortinithash}{02432525618c08e2b03cac47c19764af}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{addendum}{{accessed 22/01/2021}}
+      \field{addendum}{Accessed: 22/01/2021}
       \field{title}{{What is METS/ALTO?}}
       \verb{urlraw}
-      \verb {https://veridiansoftware.com/knowledge-base/metsalto/}
+      \verb https://veridiansoftware.com/knowledge-base/metsalto/
       \endverb
       \verb{url}
-      \verb %7Bhttps://veridiansoftware.com/knowledge-base/metsalto/%7D
+      \verb https://veridiansoftware.com/knowledge-base/metsalto/
       \endverb
+    \endentry
+    \entry{wood-2014}{article}{}
+      \name{author}{1}{}{%
+        {{hash=6c06ce360029d6cb25cc942e8e0c29a0}{%
+           family={Wood},
+           familyi={W\bibinitperiod},
+           given={Simon\bibnamedelima A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c06ce360029d6cb25cc942e8e0c29a0}
+      \strng{fullhash}{6c06ce360029d6cb25cc942e8e0c29a0}
+      \strng{bibnamehash}{6c06ce360029d6cb25cc942e8e0c29a0}
+      \strng{authorbibnamehash}{6c06ce360029d6cb25cc942e8e0c29a0}
+      \strng{authornamehash}{6c06ce360029d6cb25cc942e8e0c29a0}
+      \strng{authorfullhash}{6c06ce360029d6cb25cc942e8e0c29a0}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Religious History}
+      \field{number}{4}
+      \field{title}{The Reign of Grace: Liberalism and Heresy in the New World}
+      \field{volume}{38}
+      \field{year}{2014}
+      \field{pages}{535\bibrangedash 560}
+      \range{pages}{26}
     \endentry
     \entry{zhang-2004}{inproceedings}{}
       \name{author}{1}{}{%
@@ -984,29 +1225,39 @@
            given={Harry},
            giveni={H\bibinitperiod}}}%
       }
+      \name{editor}{2}{}{%
+        {{hash=41e5b6c37e768d2534cfba275577735b}{%
+           family={Barr},
+           familyi={B\bibinitperiod},
+           given={Valerie},
+           giveni={V\bibinitperiod}}}%
+        {{hash=5de1d23358a96544921548cc8b27860f}{%
+           family={Markov},
+           familyi={M\bibinitperiod},
+           given={Zdravko},
+           giveni={Z\bibinitperiod}}}%
+      }
       \strng{namehash}{19dbc5beae2d592ebad24f7b07c64e57}
       \strng{fullhash}{19dbc5beae2d592ebad24f7b07c64e57}
       \strng{bibnamehash}{19dbc5beae2d592ebad24f7b07c64e57}
       \strng{authorbibnamehash}{19dbc5beae2d592ebad24f7b07c64e57}
       \strng{authornamehash}{19dbc5beae2d592ebad24f7b07c64e57}
       \strng{authorfullhash}{19dbc5beae2d592ebad24f7b07c64e57}
+      \strng{editorbibnamehash}{bc29ced4f4bcaeed101d60ff21c5bef3}
+      \strng{editornamehash}{bc29ced4f4bcaeed101d60ff21c5bef3}
+      \strng{editorfullhash}{bc29ced4f4bcaeed101d60ff21c5bef3}
       \field{sortinit}{Z}
       \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{journaltitle}{Proceedings of the Seventeenth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2004}
+      \field{booktitle}{Proceedings of the Seventeenth International Florida Artificial Intelligence Research Society Conference, FLAIRS 2004}
       \field{month}{01}
       \field{title}{The Optimality of Naive Bayes}
-      \field{volume}{2}
       \field{year}{2004}
+      \field{pages}{562\bibrangedash 567}
+      \range{pages}{6}
     \endentry
   \enddatalist
-  \missing{ballantyne-2011}
-  \missing{dupree}
-  \missing{gregory}
-  \missing{islr}
-  \missing{moore}
-  \missing{wood-2014}
 \endrefsection
 \endinput
 
